@@ -1,0 +1,50 @@
+{
+  "tasks": 1693,
+  "agents": 14,
+  "repositories": 12,
+  "pair_task_min": 1362,
+  "pair_task_max": 1681,
+  "median_abs_gap_pp": 6.361118556240507,
+  "median_ci_low": 5.781658633003512,
+  "median_ci_high": 8.091613748810655,
+  "mean_abs_gap_pp": 7.60496906303439,
+  "pairs_ge2_rate": 0.8571428571428571,
+  "practical1_rate": 0.02197802197802198,
+  "median_abs_gap_pp_null_p": 9.999000099990002e-05,
+  "pairs_ge2_rate_null_p": 9.999000099990002e-05,
+  "practical1_rate_null_p": 0.36076392360763926,
+  "interactions": [
+    {
+      "defect": "defect",
+      "wald": 42.80924578902315,
+      "df": 13,
+      "p": 4.8254406672605126e-05,
+      "converged": true,
+      "q": 0.0001930176266904205
+    },
+    {
+      "defect": "statement",
+      "wald": 17.877238247798168,
+      "df": 13,
+      "p": 0.1622365299116859,
+      "converged": true,
+      "q": 0.1622365299116859
+    },
+    {
+      "defect": "test",
+      "wald": 33.24287017030906,
+      "df": 13,
+      "p": 0.0015666075513115832,
+      "converged": true,
+      "q": 0.0031332151026231664
+    },
+    {
+      "defect": "other",
+      "wald": 20.85517023797179,
+      "df": 13,
+      "p": 0.07584301708826599,
+      "converged": true,
+      "q": 0.10112402278435466
+    }
+  ]
+}

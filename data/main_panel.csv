@@ -1,0 +1,1213 @@
+task_id,underspecified,false_negative,other_major_issues,repo,human_difficulty,severity,problem_statement_problem,test_validity_problem,other_problem,any_problem,problem_length,patch_lines,f2p_count,pilot_eligible,complete_primary,A01,A02,A04,A05,A07,A06,A08,A03,A10,A09,A11,A12,A13,A14
+astropy__astropy-11693,1.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,False,True,False,True,13614,22,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+astropy__astropy-12825,1.0,2.0,0.0,astropy/astropy,1-4 hours,2,False,True,False,True,1587,118,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-12880,1.0,3.0,0.0,astropy/astropy,<15 min fix,3,False,True,False,True,8947,27,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-12891,2.0,3.0,0.0,astropy/astropy,1-4 hours,3,True,True,False,True,1606,158,48,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-12907,1.0,0.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,1246,12,2,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+astropy__astropy-12962,1.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,False,True,False,True,2828,72,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13032,0.0,3.0,0.0,astropy/astropy,1-4 hours,3,False,True,False,True,2499,43,2,True,True,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+astropy__astropy-13033,1.0,1.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,2790,31,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13068,2.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,True,True,False,True,1062,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+astropy__astropy-13075,2.0,3.0,0.0,astropy/astropy,1-4 hours,3,True,True,False,True,876,203,750,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13158,1.0,3.0,0.0,astropy/astropy,>4 hours,3,False,True,False,True,6375,363,17,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13236,1.0,0.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,2057,17,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13306,2.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,True,True,False,True,2954,12,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+astropy__astropy-13390,2.0,3.0,1.0,astropy/astropy,1-4 hours,3,True,True,True,True,12107,64,2,True,True,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+astropy__astropy-13398,0.0,0.0,0.0,astropy/astropy,1-4 hours,0,False,False,False,False,5323,298,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13404,2.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,True,True,False,True,966,38,8,True,True,1,0,0,0,0,0,0,1,1,0,1,1,1,1
+astropy__astropy-13453,0.0,0.0,0.0,astropy/astropy,15 min - 1 hour,0,False,False,False,False,7910,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+astropy__astropy-13462,2.0,3.0,1.0,astropy/astropy,1-4 hours,3,True,True,True,True,1426,27,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13469,2.0,0.0,0.0,astropy/astropy,<15 min fix,2,True,False,False,True,969,17,6,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+astropy__astropy-13477,2.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,True,True,False,True,5724,43,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13579,1.0,1.0,0.0,astropy/astropy,1-4 hours,1,False,False,False,False,4822,21,1,True,True,0,0,0,0,1,0,1,0,1,1,1,1,1,1
+astropy__astropy-13745,1.0,3.0,0.0,astropy/astropy,<15 min fix,3,False,True,False,True,3315,12,4,True,True,1,0,1,1,1,1,1,0,1,0,1,1,1,1
+astropy__astropy-13838,1.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,False,True,False,True,14755,26,1,True,True,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13933,0.0,2.0,0.0,astropy/astropy,1-4 hours,2,False,True,False,True,2399,185,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-13977,1.0,0.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,3762,113,20,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14096,1.0,1.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,982,16,1,True,True,0,0,0,0,0,0,1,0,1,0,1,1,1,1
+astropy__astropy-14182,0.0,1.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,1871,66,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14253,2.0,2.0,1.0,astropy/astropy,1-4 hours,2,True,True,True,True,1153,106,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14295,2.0,2.0,0.0,astropy/astropy,1-4 hours,2,True,True,False,True,9823,170,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14309,1.0,0.0,0.0,astropy/astropy,<15 min fix,1,False,False,False,False,4910,16,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+astropy__astropy-14365,0.0,0.0,0.0,astropy/astropy,15 min - 1 hour,0,False,False,False,False,1339,21,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+astropy__astropy-14369,0.0,0.0,0.0,astropy/astropy,1-4 hours,0,False,False,False,False,2597,105,3,True,True,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+astropy__astropy-14371,2.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,True,True,False,True,277,82,2,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+astropy__astropy-14379,2.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,True,True,False,True,638,26,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14413,1.0,2.0,1.0,astropy/astropy,15 min - 1 hour,2,False,True,True,True,1077,148,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14508,0.0,1.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,2629,40,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+astropy__astropy-14528,1.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,False,True,False,True,1010,33,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+astropy__astropy-14539,1.0,1.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,1463,12,2,True,True,0,0,0,0,0,0,0,1,0,1,1,1,1,1
+astropy__astropy-14566,2.0,3.0,0.0,astropy/astropy,15 min - 1 hour,3,True,True,False,True,1589,119,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14578,2.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,True,True,False,True,984,24,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14598,0.0,0.0,0.0,astropy/astropy,15 min - 1 hour,0,False,False,False,False,2651,21,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+astropy__astropy-14701,1.0,2.0,0.0,astropy/astropy,1-4 hours,2,False,True,False,True,618,93,852,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14702,1.0,2.0,0.0,astropy/astropy,<15 min fix,2,False,True,False,True,1513,15,4,True,True,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+astropy__astropy-14938,1.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,False,True,False,True,393,22,104,True,True,0,0,1,0,0,0,0,0,0,0,1,1,1,1
+astropy__astropy-14966,2.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,True,True,False,True,1022,74,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-14991,0.0,3.0,0.0,astropy/astropy,<15 min fix,3,False,True,False,True,1012,33,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+astropy__astropy-14995,0.0,0.0,0.0,astropy/astropy,<15 min fix,0,False,False,False,False,2455,16,1,True,True,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+astropy__astropy-6938,2.0,2.0,0.0,astropy/astropy,<15 min fix,2,True,True,False,True,527,12,2,True,True,0,0,0,0,1,0,1,0,0,1,1,0,1,1
+astropy__astropy-7008,1.0,2.0,0.0,astropy/astropy,>4 hours,2,False,True,False,True,242,243,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-7166,1.0,0.0,0.0,astropy/astropy,<15 min fix,1,False,False,False,False,162,34,1,True,True,1,1,0,0,1,1,0,0,1,1,1,1,1,1
+astropy__astropy-7218,0.0,2.0,0.0,astropy/astropy,<15 min fix,2,False,True,False,True,295,29,1,True,True,0,0,0,0,1,0,0,1,0,1,1,0,0,1
+astropy__astropy-7336,1.0,1.0,0.0,astropy/astropy,<15 min fix,1,False,False,False,False,1572,12,1,True,True,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+astropy__astropy-7441,1.0,2.0,0.0,astropy/astropy,1-4 hours,2,False,True,False,True,358,106,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-7606,0.0,0.0,0.0,astropy/astropy,15 min - 1 hour,0,False,False,False,False,1052,27,1,True,True,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+astropy__astropy-7671,0.0,0.0,0.0,astropy/astropy,15 min - 1 hour,0,False,False,False,False,1916,26,1,True,True,0,1,1,1,1,1,0,0,1,1,1,1,1,1
+astropy__astropy-7737,1.0,2.0,0.0,astropy/astropy,15 min - 1 hour,2,False,True,False,True,485,55,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-8519,3.0,3.0,1.0,astropy/astropy,15 min - 1 hour,3,True,True,True,True,981,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-8747,3.0,2.0,0.0,astropy/astropy,1-4 hours,3,True,True,False,True,206,171,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+astropy__astropy-8872,1.0,1.0,0.0,astropy/astropy,15 min - 1 hour,1,False,False,False,False,887,35,1,True,True,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+django__django-10390,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,2280,38,1,True,True,0,0,1,1,1,1,0,0,0,1,1,1,1,1
+django__django-10531,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,553,63,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-10554,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,2909,31,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-10643,0.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,692,66,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-10853,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1667,50,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-10880,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,278,12,1,True,True,0,0,0,0,1,1,1,0,1,1,0,1,1,1
+django__django-10904,0.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,1165,314,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-10910,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,2412,90,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-10914,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1021,12,1,True,True,1,1,1,0,1,1,0,0,1,1,1,1,1,1
+django__django-10989,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1864,299,11,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+django__django-10997,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,950,32,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-10999,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,616,17,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11019,2.0,1.0,0.0,django/django,1-4 hours,2,True,False,False,True,1801,119,16,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11057,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,663,64,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11062,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1602,118,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11066,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,1867,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11070,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,781,99,10,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+django__django-11087,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,9252,59,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11095,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,381,23,1,True,True,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11099,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,764,21,3,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11115,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2481,24,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11119,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,369,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11129,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,2115,40,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11133,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,895,12,1,True,True,0,1,0,1,1,1,1,1,1,0,1,1,1,1
+django__django-11138,0.0,0.0,0.0,django/django,1-4 hours,0,False,False,False,False,3135,157,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11141,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,829,31,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+django__django-11149,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,783,80,2,True,True,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+django__django-11155,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,796,26,1,True,True,1,1,0,0,1,0,0,1,1,1,1,1,1,1
+django__django-11163,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,408,12,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11166,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1347,24,11,True,True,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+django__django-11169,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,543,29,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11170,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,822,38,2,True,True,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+django__django-11177,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,875,120,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11179,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,283,11,1,True,True,0,0,0,1,1,1,1,0,1,1,1,1,1,1
+django__django-11185,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,257,13,1,True,True,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+django__django-11194,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,262,35,1,True,True,1,0,0,0,0,0,0,1,1,1,1,1,1,1
+django__django-11206,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,698,18,2,True,True,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+django__django-11211,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,959,14,1,True,True,0,0,0,0,1,0,1,0,1,1,1,1,1,1
+django__django-11214,2.0,2.0,1.0,django/django,15 min - 1 hour,2,True,True,True,True,1187,12,1,True,True,0,0,0,0,0,0,0,0,1,1,1,0,1,1
+django__django-11216,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1328,31,1,True,True,0,0,0,0,1,0,0,0,0,1,0,1,1,1
+django__django-11239,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1056,29,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-11260,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,225,42,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+django__django-11265,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,3810,28,1,True,True,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+django__django-11270,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,346,50,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11278,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,341,56,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11279,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,593,35,215,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-11292,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,401,42,1,True,True,0,0,0,0,1,0,0,0,1,0,1,0,1,1
+django__django-11354,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,2090,20,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11377,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1629,15,1,True,True,0,0,0,1,0,0,1,0,0,1,0,1,0,1
+django__django-11396,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,345,41,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11400,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,799,64,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11405,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,434,11,2,True,True,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+django__django-11417,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,271,109,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11428,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1108,12,2,True,True,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+django__django-11433,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,586,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11446,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,520,71,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11451,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,2067,12,6,True,True,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-11490,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,457,11,1,True,True,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+django__django-11514,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,646,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11517,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1129,42,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11525,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,980,21,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11527,1.0,3.0,1.0,django/django,15 min - 1 hour,3,False,True,True,True,869,32,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11532,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2666,118,1,True,True,0,0,1,1,1,1,1,0,1,1,1,0,0,1
+django__django-11560,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,524,18,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11564,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,928,55,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11584,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,3349,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11591,2.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,457,91,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11592,3.0,3.0,1.0,django/django,<15 min fix,3,True,True,True,True,599,12,1,True,True,1,1,0,1,1,0,1,0,0,1,1,1,1,1
+django__django-11603,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,396,19,2,True,True,1,0,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-11612,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,3490,43,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+django__django-11618,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,2127,12,1,True,True,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+django__django-11630,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,660,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11638,2.0,3.0,0.0,django/django,<15 min fix,3,True,True,False,True,604,26,4,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+django__django-11669,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,234,56,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11680,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1090,26,1,True,True,0,1,0,0,1,1,1,1,1,1,1,1,1,1
+django__django-11692,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,888,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11695,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,425,11,1,True,True,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+django__django-11701,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,5093,51,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11728,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,499,67,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11734,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,832,40,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11742,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,328,44,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11749,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1249,24,1,True,True,1,0,0,0,0,0,0,1,1,0,1,1,1,1
+django__django-11751,2.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,3029,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11754,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,898,50,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11772,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1644,22,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11790,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,465,14,2,True,True,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+django__django-11797,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,756,16,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11808,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,989,177,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11810,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,2141,22,1,True,True,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+django__django-11815,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1601,17,2,True,True,0,0,1,0,1,0,1,0,1,0,1,0,1,1
+django__django-11820,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,343,20,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11829,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1773,64,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11848,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,626,21,2,True,True,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+django__django-11880,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1078,11,1,True,True,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-11883,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,507,124,10,True,True,1,0,0,0,0,0,0,0,1,0,1,1,1,1
+django__django-11885,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,1296,213,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11891,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,775,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11893,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,318,26,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11894,2.0,3.0,1.0,django/django,<15 min fix,3,True,True,True,True,556,14,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-11903,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,923,12,1,True,True,0,0,0,0,1,1,0,0,1,1,1,1,1,1
+django__django-11916,0.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,3846,76,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-11951,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,609,13,1,True,True,0,1,1,0,0,0,1,1,1,1,1,1,1,1
+django__django-11964,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,2353,18,2,True,True,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+django__django-11999,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,512,18,1,True,True,0,0,0,1,1,1,1,0,1,1,1,1,1,1
+django__django-12039,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1245,31,1,True,True,0,0,1,0,0,1,1,0,0,1,0,0,1,1
+django__django-12050,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,347,29,1,True,True,0,0,1,0,1,1,1,1,1,1,1,1,1,1
+django__django-12062,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,309,52,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+django__django-12073,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,531,88,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12091,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,611,63,4,True,True,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+django__django-12113,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,4774,10,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+django__django-12121,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,1527,23,3,True,True,0,0,1,0,0,0,0,0,1,1,1,0,1,1
+django__django-12125,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1589,12,2,True,True,0,0,0,0,1,0,1,0,0,0,1,1,1,1
+django__django-12143,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1437,14,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-12148,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,422,24,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12153,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1008,30,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+django__django-12155,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,777,60,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-12161,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,923,148,3,True,True,0,1,0,0,1,1,0,1,0,1,1,1,1,0
+django__django-12172,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,755,34,1,True,True,0,1,0,1,1,1,0,1,1,1,1,1,1,1
+django__django-12187,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,3404,36,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-12193,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,773,14,1,True,True,0,1,1,1,1,1,1,0,1,1,0,0,0,1
+django__django-12209,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,1200,11,1,True,True,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+django__django-12225,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,300,13,1,True,True,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+django__django-12237,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,4007,12,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-12262,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1030,12,4,True,True,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+django__django-12286,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,741,22,1,True,True,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+django__django-12299,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,565,19,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+django__django-12304,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,580,11,1,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+django__django-12308,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,459,15,2,True,True,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+django__django-12313,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,4195,39,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12325,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,900,35,2,True,True,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+django__django-12360,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1398,63,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12364,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,969,95,2,True,True,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+django__django-12406,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1066,50,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12407,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2145,23,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12419,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,680,11,1,True,True,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+django__django-12453,1.0,3.0,1.0,django/django,15 min - 1 hour,3,False,True,True,True,2906,30,1,True,True,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+django__django-12464,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1958,16,1,True,True,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+django__django-12469,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,317,75,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12470,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,599,16,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+django__django-12477,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1318,42,9,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12484,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1020,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12496,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,1370,14,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+django__django-12503,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,799,12,1,True,True,0,1,1,1,1,1,1,0,0,0,1,1,1,1
+django__django-12508,0.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,386,185,16,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12513,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,646,133,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12517,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1056,12,1,True,True,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+django__django-12532,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,220,66,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12553,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,663,98,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12588,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,276,56,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-12591,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,881,27,1,True,True,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+django__django-12613,2.0,0.0,0.0,django/django,<15 min fix,2,True,False,False,True,1177,37,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12627,2.0,3.0,0.0,django/django,<15 min fix,3,True,True,False,True,966,15,1,True,True,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+django__django-12663,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2854,13,1,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+django__django-12669,2.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,516,64,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12671,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,398,36,1,True,True,1,0,1,1,0,1,0,1,1,1,0,1,1,1
+django__django-12708,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,959,17,1,True,True,0,0,0,0,1,1,0,1,1,0,1,1,1,1
+django__django-12713,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,257,40,1,True,True,0,1,0,0,1,1,1,1,1,1,1,1,1,1
+django__django-12733,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,470,263,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12734,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,646,37,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12741,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,398,30,2,True,True,0,0,0,0,0,1,1,0,1,0,1,1,1,1
+django__django-12747,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,927,23,3,True,True,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+django__django-12748,2.0,2.0,1.0,django/django,1-4 hours,2,True,True,True,True,143,51,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12754,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,860,20,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+django__django-12771,0.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1009,260,18,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12774,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1094,22,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+django__django-12796,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,959,37,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12830,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1245,71,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12851,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,183,50,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12855,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,344,35,1,True,True,0,0,0,0,1,0,0,0,1,0,0,1,0,1
+django__django-12869,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1184,51,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12906,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,647,27,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-12910,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,640,277,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12915,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,886,25,3,True,True,0,0,1,0,0,0,0,0,1,1,1,1,1,1
+django__django-12928,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,731,152,48,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12961,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,1449,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-12965,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2275,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+django__django-12973,3.0,2.0,0.0,django/django,<15 min fix,3,True,True,False,True,1284,16,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-12983,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,381,27,1,True,True,0,1,1,1,0,1,1,1,1,1,0,1,1,1
+django__django-13012,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1414,13,2,True,True,0,0,0,1,0,0,1,0,0,0,1,1,1,1
+django__django-13023,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,522,12,2,True,True,0,0,0,0,0,0,0,0,1,1,0,1,1,1
+django__django-13028,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2839,15,2,True,True,0,0,1,0,0,1,0,0,0,1,1,1,1,1
+django__django-13030,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1651,17,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13033,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,3732,17,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+django__django-13066,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,1090,118,2,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+django__django-13089,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1578,19,2,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-13109,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1922,12,2,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-13111,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,597,41,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13115,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,414,18,2,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+django__django-13158,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1176,20,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+django__django-13162,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,986,25,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13170,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,650,57,11,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13192,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,807,40,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13195,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,2402,54,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13199,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2402,46,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13212,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,468,169,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13220,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,612,37,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13230,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,342,11,1,True,True,1,1,1,0,1,1,0,0,1,1,1,1,0,1
+django__django-13250,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1387,106,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13251,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,447,55,1,True,True,0,0,0,0,1,1,1,0,1,0,1,1,1,1
+django__django-13279,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,432,26,9,True,True,1,0,0,0,1,1,0,0,1,1,1,1,1,1
+django__django-13281,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,1668,15,1,True,True,0,0,1,0,1,1,1,0,1,0,1,1,1,1
+django__django-13287,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,1940,33,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-13295,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1242,27,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13297,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1384,29,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+django__django-13300,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,836,54,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13301,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,517,44,2,True,True,1,1,0,1,1,1,0,0,1,0,1,1,1,1
+django__django-13315,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,285,24,1,True,True,0,0,0,0,1,0,1,0,0,0,1,1,1,1
+django__django-13321,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,4422,19,355,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13325,2.0,0.0,1.0,django/django,15 min - 1 hour,2,True,False,True,True,868,58,2,True,True,0,0,1,1,1,0,1,0,1,1,0,1,1,1
+django__django-13343,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1260,21,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+django__django-13344,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,1361,103,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-13346,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,620,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-13347,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,714,34,1,True,True,0,1,1,1,1,1,1,1,0,1,1,1,1,1
+django__django-13354,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,4358,13,1,True,True,0,0,1,0,1,0,1,0,1,1,0,1,1,1
+django__django-13363,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,1676,21,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-13369,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,3153,11,2,True,True,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+django__django-13371,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,766,73,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+django__django-13386,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,717,12,1,True,True,1,0,1,0,1,1,1,0,1,1,0,1,1,1
+django__django-13401,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1234,44,1,True,True,0,1,0,0,0,1,1,0,1,1,1,1,1,1
+django__django-13406,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,3084,12,3,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+django__django-13410,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1242,20,2,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-13417,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,940,17,2,True,True,0,0,1,0,1,0,1,1,1,1,1,1,1,1
+django__django-13431,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,748,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13447,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,390,11,1,True,True,1,1,0,0,0,1,1,1,1,1,1,1,1,1
+django__django-13449,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,6278,29,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+django__django-13454,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,900,21,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13460,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1128,21,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13466,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1833,25,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13490,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1412,15,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-13495,3.0,2.0,0.0,django/django,1-4 hours,3,True,True,False,True,1223,255,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13512,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,462,31,3,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+django__django-13516,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,619,14,1,True,True,0,0,1,0,1,0,1,0,1,1,1,1,1,1
+django__django-13528,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,585,46,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13530,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,1040,97,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13537,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,789,20,1,True,True,0,1,1,1,1,0,1,1,1,0,0,1,1,1
+django__django-13551,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,603,27,2,True,True,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+django__django-13553,0.0,0.0,1.0,django/django,15 min - 1 hour,0,False,False,True,True,1274,16,1,True,True,1,0,0,0,0,1,0,0,0,1,1,0,1,1
+django__django-13556,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,462,12,1,True,True,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-13560,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,374,21,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-13568,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,765,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-13569,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1983,13,1,True,True,0,0,1,0,0,1,1,0,1,0,0,1,1,1
+django__django-13578,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1021,19,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-13589,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2460,110,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13590,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,859,19,1,True,True,0,0,0,1,1,1,0,0,1,1,1,1,1,1
+django__django-13615,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,686,18,1,True,True,0,0,1,1,1,1,1,1,1,0,1,1,1,1
+django__django-13616,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,787,15,1,True,True,0,0,0,1,1,1,1,1,1,0,1,0,1,1
+django__django-13620,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,855,44,2,True,True,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+django__django-13658,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1237,17,1,True,True,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+django__django-13665,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,975,12,1,True,True,0,1,1,1,1,0,0,1,1,1,1,1,1,1
+django__django-13667,0.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1310,77,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+django__django-13670,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,767,14,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-13682,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1308,59,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13689,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,681,20,1,True,True,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+django__django-13691,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,1295,14,2,True,True,0,0,0,1,1,1,1,0,1,1,1,1,1,1
+django__django-13693,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,3658,21,2,True,True,1,1,1,1,0,1,1,0,1,1,1,1,1,1
+django__django-13708,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1003,53,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13710,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,920,19,1,True,True,1,0,1,1,1,0,1,1,1,1,1,1,1,1
+django__django-13714,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1214,21,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+django__django-13722,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,376,43,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13741,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1020,34,1,True,True,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+django__django-13743,3.0,2.0,0.0,django/django,<15 min fix,3,True,True,False,True,519,16,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13744,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,408,43,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13768,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,624,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13773,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,798,17,1,True,True,0,0,0,0,0,0,1,0,0,0,1,1,0,1
+django__django-13774,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,1042,70,2,True,True,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+django__django-13786,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,740,20,1,True,True,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-13791,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,1169,10,2,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+django__django-13794,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,307,16,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13797,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,281,66,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13808,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1702,64,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13810,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2259,26,1,True,True,0,0,0,1,1,1,0,0,0,0,0,1,1,1
+django__django-13814,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,2230,12,1,True,True,0,0,0,0,1,1,0,0,0,0,0,0,1,1
+django__django-13820,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2102,28,1,True,True,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+django__django-13821,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,538,16,1,True,True,0,0,1,0,1,0,1,1,1,1,1,1,1,1
+django__django-13822,3.0,2.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,614,16,4,True,True,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+django__django-13884,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1642,39,1,True,True,0,0,0,0,0,0,0,0,1,1,1,0,1,1
+django__django-13915,3.0,3.0,1.0,django/django,>4 hours,3,True,True,True,True,469,286,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-13924,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,297,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13933,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1207,16,1,True,True,0,0,0,1,1,1,1,1,1,0,1,1,1,1
+django__django-13952,3.0,1.0,0.0,django/django,15 min - 1 hour,3,True,False,False,True,490,50,101,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-13992,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1296,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14007,0.0,0.0,0.0,django/django,1-4 hours,0,False,False,False,False,1214,39,1,True,True,0,0,0,0,0,0,1,0,1,0,0,1,1,1
+django__django-14016,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,638,26,2,True,True,0,0,0,0,1,1,1,0,1,1,1,0,0,0
+django__django-14017,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1269,12,2,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+django__django-14019,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,272,82,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14030,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,788,73,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14034,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1131,31,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14043,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1439,20,1,True,True,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+django__django-14071,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,708,29,12,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14077,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,722,89,2,True,True,0,0,0,0,0,0,1,0,0,1,1,1,1,1
+django__django-14122,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,463,21,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+django__django-14140,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1152,22,4,True,True,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+django__django-14155,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,553,23,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14164,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,471,24,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+django__django-14170,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1739,79,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14182,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,832,52,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14238,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,2590,12,2,True,True,0,1,0,0,0,1,1,1,1,1,1,1,1,1
+django__django-14266,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,2887,17,1,True,True,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+django__django-14267,3.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1152,22,4,True,True,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+django__django-14313,0.0,2.0,1.0,django/django,>4 hours,2,False,True,True,True,3150,157,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14315,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,489,23,11,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14324,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,477,80,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14336,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,1142,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14351,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,8541,19,1,True,True,0,0,0,0,0,1,0,0,0,0,0,1,1,1
+django__django-14368,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1420,12,2,True,True,0,0,1,1,1,1,1,0,1,1,1,1,1,0
+django__django-14372,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1042,52,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14373,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,220,14,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-14376,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,782,40,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-14382,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,658,15,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-14396,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,302,33,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-14404,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,304,20,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-14411,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,402,13,1,True,True,0,0,1,1,0,0,1,0,1,1,0,1,1,1
+django__django-14416,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,856,17,1,True,True,0,0,1,0,0,0,0,0,0,1,0,1,1,0
+django__django-14430,2.0,1.0,0.0,django/django,1-4 hours,2,True,False,False,True,1624,174,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14441,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,173,15,1,True,True,0,0,0,1,1,1,0,1,1,1,1,1,1,1
+django__django-14447,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2711,36,2,True,True,1,0,0,1,1,1,1,1,1,1,1,1,1,1
+django__django-14451,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,711,21,1,True,True,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-14453,2.0,3.0,0.0,django/django,<15 min fix,3,True,True,False,True,818,17,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14471,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,2127,49,2,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+django__django-14480,2.0,3.0,0.0,django/django,>4 hours,3,True,True,False,True,612,203,29,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14493,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1456,11,1,True,True,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+django__django-14495,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,2749,19,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14500,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,292,18,1,True,True,0,0,0,1,1,1,1,0,0,0,0,1,1,1
+django__django-14508,2.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,2000,16,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14513,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1034,33,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14534,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1640,12,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-14539,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,353,15,2,True,True,1,0,0,0,0,0,1,1,1,1,1,1,1,1
+django__django-14559,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,476,25,3,True,True,0,0,1,1,0,1,1,0,0,0,1,1,1,1
+django__django-14580,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1576,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-14602,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1093,12,1,True,True,0,1,0,0,0,0,0,0,1,1,1,1,1,1
+django__django-14608,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,605,24,4,True,True,0,0,1,0,0,0,1,0,1,1,0,1,1,1
+django__django-14631,0.0,0.0,0.0,django/django,1-4 hours,0,False,False,False,False,1399,130,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-14634,3.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,134,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14641,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,815,46,4,True,True,0,1,0,1,1,0,1,1,1,0,1,1,1,0
+django__django-14667,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1040,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14672,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,6760,12,168,True,True,1,1,0,1,1,0,1,0,1,1,1,1,1,1
+django__django-14681,2.0,2.0,1.0,django/django,1-4 hours,2,True,True,True,True,1425,20,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14725,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,378,51,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-14730,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,525,20,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14733,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,416,44,1,True,True,0,0,0,0,1,0,0,0,1,0,1,1,1,1
+django__django-14751,2.0,1.0,0.0,django/django,1-4 hours,2,True,False,False,True,958,72,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-14752,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,2847,34,1,True,True,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-14765,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,558,18,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-14771,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,994,15,1,True,True,0,0,0,0,1,0,0,0,0,1,0,1,1,1
+django__django-14779,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2115,12,2,True,True,0,1,1,1,0,1,1,0,1,1,1,1,1,1
+django__django-14785,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,4716,24,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14787,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,745,12,1,True,True,0,1,0,0,1,0,0,0,1,1,1,1,1,1
+django__django-14802,2.0,1.0,0.0,django/django,1-4 hours,2,True,False,False,True,844,340,2,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+django__django-14832,2.0,1.0,0.0,django/django,1-4 hours,2,True,False,False,True,921,68,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14855,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1011,16,1,True,True,0,1,1,1,1,1,1,1,0,1,1,1,1,1
+django__django-14861,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1280,21,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+django__django-14871,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,353,29,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14880,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,569,25,22,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14894,0.0,1.0,1.0,django/django,15 min - 1 hour,1,False,False,True,True,3342,154,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14919,0.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,1668,65,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-14935,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1031,67,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14996,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1310,52,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-14997,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,6011,16,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-14999,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,262,22,1,True,True,1,1,0,0,1,1,0,1,0,1,0,0,1,1
+django__django-15018,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1074,16,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15022,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1224,21,3,True,True,0,0,1,0,0,0,1,1,1,1,0,1,0,0
+django__django-15031,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,734,39,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15037,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,502,23,1,True,True,0,0,0,0,0,0,0,0,0,1,1,0,1,1
+django__django-15044,3.0,3.0,1.0,django/django,1-4 hours,3,True,True,True,True,1845,35,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+django__django-15061,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,367,14,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15062,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,7268,21,2,True,True,0,0,0,1,0,1,0,0,1,0,1,1,1,1
+django__django-15087,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,324,148,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15098,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2598,12,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15102,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,901,25,1,True,True,0,0,0,0,0,0,0,1,0,0,0,1,1,1
+django__django-15103,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,378,46,2,True,True,0,0,1,0,0,1,0,0,1,1,1,1,1,1
+django__django-15104,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,4594,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-15108,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,1275,165,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15111,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,463,46,1,True,True,0,1,0,1,1,1,1,1,1,1,1,1,1,1
+django__django-15128,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,2662,79,1,True,True,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+django__django-15135,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,776,30,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15139,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,419,123,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15180,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,3249,14,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+django__django-15202,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,517,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15213,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,739,19,3,True,True,0,1,1,0,0,1,0,0,1,0,1,1,1,1
+django__django-15240,0.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1872,76,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15248,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,567,83,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15252,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1681,18,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15268,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,1305,32,3,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+django__django-15280,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2509,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15292,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,359,15,1,True,True,0,1,1,0,1,0,1,1,1,1,1,1,1,1
+django__django-15297,0.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1859,12,1,True,True,0,1,0,1,1,0,1,0,1,1,1,1,1,1
+django__django-15315,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,793,16,1,True,True,0,0,1,0,1,0,1,1,1,1,1,1,1,1
+django__django-15316,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,592,55,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15318,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1602,90,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15320,1.0,1.0,1.0,django/django,<15 min fix,1,False,False,True,True,939,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15334,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,576,66,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15368,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,1180,21,1,True,True,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-15380,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,1608,12,1,True,True,0,0,0,0,0,0,1,0,0,1,1,1,1,1
+django__django-15382,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,407,29,1,True,True,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+django__django-15401,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,823,33,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15413,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,3876,17,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15414,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,356,23,1,True,True,0,1,0,1,1,1,1,1,1,1,1,1,1,1
+django__django-15423,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,498,41,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15438,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,532,32,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15467,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,727,14,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-15474,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,372,14,1,True,True,0,0,1,0,1,0,1,0,1,1,1,1,1,1
+django__django-15481,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,564,31,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15492,3.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,1005,61,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15498,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,350,19,1,True,True,0,0,0,1,0,1,0,0,1,1,1,1,1,1
+django__django-15499,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,263,23,1,True,True,0,0,0,1,1,1,1,0,1,1,1,1,1,1
+django__django-15503,0.0,0.0,0.0,django/django,1-4 hours,0,False,False,False,False,1797,71,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-15526,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,714,11,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-15554,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1278,117,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-15561,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,359,56,1,True,True,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+django__django-15563,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1727,55,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15569,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,640,11,2,True,True,1,0,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-15572,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,1388,21,1,True,True,0,1,0,1,0,0,1,1,1,1,1,1,1,1
+django__django-15576,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,706,12,1,True,True,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+django__django-15586,2.0,1.0,0.0,django/django,<15 min fix,2,True,False,False,True,326,13,2,True,True,0,0,0,1,1,0,1,0,1,0,1,1,1,1
+django__django-15607,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1174,15,1,True,True,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+django__django-15620,2.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,1186,61,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15648,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,754,33,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15669,2.0,3.0,0.0,django/django,>4 hours,3,True,True,False,True,583,179,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15671,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,321,57,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15678,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,400,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15682,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1572,59,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15689,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1828,34,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-15695,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1259,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15698,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2569,29,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-15703,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,160,50,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15731,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1179,23,1,True,True,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+django__django-15737,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,1821,16,1,True,True,0,1,1,0,1,1,1,0,1,1,1,1,1,1
+django__django-15741,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,365,11,2,True,True,0,1,0,0,0,1,1,1,0,1,1,1,1,1
+django__django-15742,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1611,21,1,True,True,0,1,0,0,1,1,0,1,1,1,1,1,1,1
+django__django-15747,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,2683,40,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15752,2.0,3.0,0.0,django/django,<15 min fix,3,True,True,False,True,176,31,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15766,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,1273,104,9,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15781,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1261,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15819,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,544,33,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15828,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,215,67,4,True,True,0,0,0,1,0,0,1,0,1,0,0,1,1,1
+django__django-15863,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,838,12,1,True,True,0,0,0,0,1,1,0,0,0,1,1,1,1,1
+django__django-15916,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1744,41,2,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+django__django-15925,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,2168,17,1,True,True,0,0,1,0,0,1,1,0,1,1,0,1,1,1
+django__django-15930,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,689,15,1,True,True,0,0,0,0,1,1,1,0,0,0,0,1,1,1
+django__django-15957,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,854,64,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-15969,1.0,3.0,0.0,django/django,1-4 hours,3,False,True,False,True,1280,127,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-15987,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,176,12,1,True,True,1,1,1,1,1,0,0,1,1,0,1,1,1,1
+django__django-15996,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,590,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+django__django-16002,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,2038,45,2,True,True,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+django__django-16032,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,778,52,2,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+django__django-16041,1.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1252,26,2,True,True,0,0,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-16046,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,319,12,1,True,True,1,1,0,1,1,1,0,1,0,0,1,1,1,1
+django__django-16053,2.0,3.0,0.0,django/django,<15 min fix,3,True,True,False,True,876,15,6,True,True,0,0,0,0,1,0,0,0,1,1,1,1,1,1
+django__django-16067,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,1638,16,1,True,True,0,0,0,1,1,0,1,0,1,0,1,1,1,1
+django__django-16076,0.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,3158,27,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16082,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,308,11,2,True,True,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+django__django-16100,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,281,30,1,True,True,0,0,1,0,0,1,1,0,1,1,1,1,1,1
+django__django-16116,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,758,30,1,True,True,1,1,0,1,0,1,0,1,1,0,1,1,1,1
+django__django-16117,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,3189,18,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16136,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2087,21,2,True,True,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+django__django-16139,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1413,14,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16142,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1005,89,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16143,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,918,36,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-16145,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,589,26,1,True,True,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16229,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1259,22,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-16254,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,3402,15,3,True,True,0,0,1,1,1,0,0,0,1,1,1,1,1,1
+django__django-16255,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1566,12,1,True,True,0,1,1,1,1,1,1,1,1,1,1,0,1,1
+django__django-16256,0.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,2110,136,9,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16260,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,1862,15,1,True,True,0,0,0,1,0,0,0,0,1,1,1,1,1,1
+django__django-16263,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,656,227,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16281,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,588,93,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-16302,1.0,2.0,1.0,django/django,1-4 hours,2,False,True,True,True,1366,113,122,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16311,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,890,83,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16315,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1298,48,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+django__django-16322,2.0,3.0,0.0,django/django,1-4 hours,3,True,True,False,True,3988,190,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16333,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,557,12,1,True,True,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16343,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1221,85,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16379,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,1083,17,2,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16398,3.0,0.0,0.0,django/django,<15 min fix,3,True,False,False,True,362,21,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+django__django-16408,3.0,2.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,1100,26,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-16429,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,964,11,4,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16454,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,2039,27,1,True,True,0,0,0,0,0,0,1,0,0,0,1,0,0,1
+django__django-16485,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,246,12,1,True,True,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16493,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1141,15,1,True,True,0,0,1,1,1,1,1,0,1,1,1,1,1,1
+django__django-16511,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,2024,54,12,True,True,0,1,0,1,0,1,0,0,1,1,1,1,1,1
+django__django-16517,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,669,22,2,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+django__django-16527,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,493,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16569,0.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,1740,14,2,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16578,2.0,3.0,0.0,django/django,15 min - 1 hour,3,True,True,False,True,373,67,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16588,2.0,1.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,894,20,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16595,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,1540,16,1,True,True,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+django__django-16599,3.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,1985,71,12,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16603,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,2587,61,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16612,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,723,14,2,True,True,1,1,1,1,1,1,0,1,1,0,1,1,1,1
+django__django-16614,1.0,2.0,0.0,django/django,15 min - 1 hour,2,False,True,False,True,506,51,601,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16631,1.0,1.0,0.0,django/django,1-4 hours,1,False,False,False,False,824,65,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16642,1.0,1.0,0.0,django/django,<15 min fix,1,False,False,False,False,261,13,1,True,True,0,0,1,0,0,1,1,0,0,1,0,0,1,1
+django__django-16649,3.0,2.0,0.0,django/django,1-4 hours,3,True,True,False,True,791,45,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-16661,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1315,22,1,True,True,0,0,0,0,1,0,0,0,1,0,0,1,1,1
+django__django-16662,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,740,15,1,True,True,0,1,0,0,1,1,1,1,1,1,1,1,1,1
+django__django-16667,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1758,12,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16686,3.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,362,33,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+django__django-16693,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,1331,20,1,True,True,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+django__django-16746,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,176,51,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-16750,0.0,3.0,0.0,django/django,<15 min fix,3,False,True,False,True,407,11,1,True,True,0,1,1,0,1,0,1,0,1,0,1,1,1,1
+django__django-16757,1.0,2.0,0.0,django/django,<15 min fix,2,False,True,False,True,8059,19,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16786,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,2997,308,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+django__django-16801,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,724,26,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16816,1.0,3.0,0.0,django/django,15 min - 1 hour,3,False,True,False,True,4951,17,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16819,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,146,15,1,True,True,0,0,0,0,1,0,0,0,1,0,1,1,1,1
+django__django-16824,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,2197,12,1,True,True,1,1,1,0,1,1,1,1,0,1,1,1,1,1
+django__django-16830,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,1456,70,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16865,2.0,2.0,0.0,django/django,15 min - 1 hour,2,True,True,False,True,1372,15,1,True,True,0,0,0,0,0,0,0,0,0,1,1,1,0,1
+django__django-16873,3.0,3.0,1.0,django/django,15 min - 1 hour,3,True,True,True,True,2369,15,2,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-16877,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,435,20,4,True,True,0,0,0,0,1,0,0,0,0,1,1,1,0,1
+django__django-16888,2.0,2.0,0.0,django/django,<15 min fix,2,True,True,False,True,3807,19,2,True,True,0,0,1,1,0,0,1,0,1,1,0,1,1,1
+django__django-16899,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,784,17,2,True,True,0,0,0,0,1,0,1,0,1,1,1,1,1,1
+django__django-16901,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,1014,29,1,True,True,0,0,0,0,1,0,0,1,1,1,1,1,1,1
+django__django-16903,1.0,0.0,1.0,django/django,15 min - 1 hour,1,False,False,True,True,5588,51,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16910,1.0,0.0,1.0,django/django,15 min - 1 hour,1,False,False,True,True,1622,18,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-16920,2.0,0.0,0.0,django/django,15 min - 1 hour,2,True,False,False,True,2177,17,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16938,0.0,0.0,0.0,django/django,15 min - 1 hour,0,False,False,False,False,4015,28,23,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+django__django-16950,1.0,1.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,1443,18,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-16952,2.0,2.0,0.0,django/django,1-4 hours,2,True,True,False,True,2470,86,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-17029,1.0,0.0,0.0,django/django,<15 min fix,1,False,False,False,False,878,11,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+django__django-17058,1.0,2.0,0.0,django/django,1-4 hours,2,False,True,False,True,765,300,366,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-17084,1.0,0.0,0.0,django/django,15 min - 1 hour,1,False,False,False,False,648,30,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+django__django-8119,3.0,3.0,1.0,django/django,>4 hours,3,True,True,True,True,295,123,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+django__django-9296,0.0,0.0,0.0,django/django,<15 min fix,0,False,False,False,False,411,14,1,True,True,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+mwaskom__seaborn-2457,2.0,2.0,0.0,mwaskom/seaborn,15 min - 1 hour,2,True,True,False,True,167,38,1,True,True,0,0,0,0,0,1,0,1,0,1,1,1,1,1
+mwaskom__seaborn-2766,1.0,2.0,0.0,mwaskom/seaborn,>4 hours,2,False,True,False,True,1157,605,252,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mwaskom__seaborn-2853,3.0,3.0,1.0,mwaskom/seaborn,<15 min fix,3,True,True,True,True,235,12,1,True,True,0,0,1,0,0,0,1,0,1,1,1,1,1,1
+mwaskom__seaborn-3010,3.0,3.0,0.0,mwaskom/seaborn,15 min - 1 hour,3,True,True,False,True,3951,15,1,True,True,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+mwaskom__seaborn-3069,1.0,1.0,0.0,mwaskom/seaborn,15 min - 1 hour,1,False,False,False,False,1188,46,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+mwaskom__seaborn-3187,1.0,1.0,0.0,mwaskom/seaborn,15 min - 1 hour,1,False,False,False,False,1438,32,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mwaskom__seaborn-3190,2.0,1.0,0.0,mwaskom/seaborn,<15 min fix,2,True,False,False,True,1827,12,1,True,True,0,0,0,1,1,1,0,1,1,0,0,1,0,0
+mwaskom__seaborn-3394,1.0,3.0,0.0,mwaskom/seaborn,1-4 hours,3,False,True,False,True,1465,70,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pallets__flask-5014,1.0,1.0,0.0,pallets/flask,<15 min fix,1,False,False,False,False,195,13,1,True,True,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+psf__requests-1327,1.0,2.0,0.0,psf/requests,15 min - 1 hour,2,False,True,False,True,2381,46,1,True,True,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+psf__requests-1339,0.0,3.0,0.0,psf/requests,15 min - 1 hour,3,False,True,False,True,3048,142,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+psf__requests-1376,2.0,3.0,0.0,psf/requests,15 min - 1 hour,3,True,True,False,True,730,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+psf__requests-1537,2.0,0.0,0.0,psf/requests,15 min - 1 hour,2,True,False,False,True,1895,14,1,True,True,1,0,0,1,1,1,1,1,1,1,1,1,1,1
+psf__requests-1657,2.0,1.0,0.0,psf/requests,15 min - 1 hour,2,True,False,False,True,236,35,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+psf__requests-1713,2.0,2.0,0.0,psf/requests,15 min - 1 hour,2,True,True,False,True,1839,63,5,True,True,0,0,0,1,1,0,0,1,1,1,1,1,1,1
+psf__requests-1733,2.0,2.0,0.0,psf/requests,15 min - 1 hour,2,True,True,False,True,3500,48,5,True,True,0,0,1,0,1,0,1,0,1,0,1,1,1,1
+psf__requests-1766,1.0,0.0,0.0,psf/requests,<15 min fix,1,False,False,False,False,897,21,6,True,True,0,1,0,0,1,0,1,1,1,1,1,1,1,1
+psf__requests-1776,2.0,0.0,0.0,psf/requests,15 min - 1 hour,2,True,False,False,True,384,86,3,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+psf__requests-1921,1.0,0.0,0.0,psf/requests,<15 min fix,1,False,False,False,False,708,12,6,True,True,0,1,0,1,1,0,0,0,0,0,1,0,1,1
+psf__requests-1944,2.0,1.0,0.0,psf/requests,1-4 hours,2,True,False,False,True,3331,49,5,True,True,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+psf__requests-1962,2.0,2.0,0.0,psf/requests,<15 min fix,2,True,True,False,True,240,12,6,True,True,1,1,1,1,1,0,1,1,1,1,1,0,1,0
+psf__requests-2148,2.0,2.0,0.0,psf/requests,15 min - 1 hour,2,True,True,False,True,2311,29,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+psf__requests-2153,1.0,3.0,1.0,psf/requests,15 min - 1 hour,3,False,True,True,True,3086,63,8,True,True,1,1,1,1,1,0,0,1,1,0,1,1,1,0
+psf__requests-2193,3.0,2.0,0.0,psf/requests,<15 min fix,3,True,True,False,True,286,22,8,True,True,0,0,0,0,1,0,0,0,1,0,1,1,1,1
+psf__requests-2317,1.0,0.0,0.0,psf/requests,<15 min fix,1,False,False,False,False,841,21,8,True,True,1,1,0,0,1,0,0,1,1,1,1,1,1,0
+psf__requests-2617,2.0,3.0,0.0,psf/requests,15 min - 1 hour,3,True,True,False,True,2574,28,8,True,True,1,1,1,1,0,0,1,1,0,0,1,1,1,1
+psf__requests-2674,3.0,3.0,1.0,psf/requests,15 min - 1 hour,3,True,True,True,True,510,21,12,True,True,1,1,0,0,1,0,1,0,1,0,1,0,0,0
+psf__requests-2821,3.0,3.0,0.0,psf/requests,15 min - 1 hour,3,True,True,False,True,2439,25,11,True,True,1,1,1,1,1,0,1,1,1,1,1,1,0,0
+psf__requests-2873,2.0,3.0,0.0,psf/requests,15 min - 1 hour,3,True,True,False,True,686,50,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+psf__requests-2931,1.0,0.0,0.0,psf/requests,15 min - 1 hour,1,False,False,False,False,271,22,1,True,True,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+psf__requests-4356,1.0,2.0,0.0,psf/requests,15 min - 1 hour,2,False,True,False,True,2982,45,115,True,True,0,0,1,0,0,0,0,0,0,1,1,0,0,1
+pydata__xarray-2905,1.0,0.0,0.0,pydata/xarray,15 min - 1 hour,1,False,False,False,False,2135,13,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+pydata__xarray-2922,2.0,3.0,0.0,pydata/xarray,1-4 hours,3,True,True,False,True,226,327,952,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-3095,0.0,1.0,0.0,pydata/xarray,15 min - 1 hour,1,False,False,False,False,2811,112,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+pydata__xarray-3114,2.0,2.0,0.0,pydata/xarray,15 min - 1 hour,2,True,True,False,True,9180,47,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-3151,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,2326,25,1,True,True,0,0,0,0,0,1,0,0,1,1,1,1,1,1
+pydata__xarray-3159,1.0,3.0,0.0,pydata/xarray,15 min - 1 hour,3,False,True,False,True,917,81,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-3302,2.0,3.0,0.0,pydata/xarray,>4 hours,3,True,True,False,True,1131,385,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-3305,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,2188,69,1,True,True,0,0,0,0,0,0,0,1,1,0,1,1,0,1
+pydata__xarray-3520,2.0,0.0,0.0,pydata/xarray,1-4 hours,2,True,False,False,True,1561,71,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+pydata__xarray-3649,1.0,2.0,0.0,pydata/xarray,15 min - 1 hour,2,False,True,False,True,2608,76,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-3677,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,1456,11,1,True,True,0,0,0,1,0,1,1,1,1,1,1,1,1,1
+pydata__xarray-3733,2.0,3.0,0.0,pydata/xarray,>4 hours,3,True,True,False,True,1998,420,1630,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-3905,1.0,2.0,0.0,pydata/xarray,<15 min fix,2,False,True,False,True,3734,39,1,True,True,0,0,0,1,0,1,1,0,0,0,0,1,1,1
+pydata__xarray-3976,1.0,3.0,0.0,pydata/xarray,15 min - 1 hour,3,False,True,False,True,2716,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4075,1.0,1.0,0.0,pydata/xarray,<15 min fix,1,False,False,False,False,2273,19,2,True,True,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+pydata__xarray-4094,1.0,0.0,0.0,pydata/xarray,<15 min fix,1,False,False,False,False,1604,12,1,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+pydata__xarray-4356,1.0,1.0,0.0,pydata/xarray,<15 min fix,1,False,False,False,False,703,18,8,True,True,1,0,1,1,0,1,1,1,1,1,1,1,1,1
+pydata__xarray-4419,0.0,2.0,0.0,pydata/xarray,15 min - 1 hour,2,False,True,False,True,5229,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pydata__xarray-4510,0.0,3.0,0.0,pydata/xarray,1-4 hours,3,False,True,False,True,1988,460,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4629,0.0,0.0,0.0,pydata/xarray,<15 min fix,0,False,False,False,False,2659,12,1,True,True,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+pydata__xarray-4687,1.0,1.0,0.0,pydata/xarray,15 min - 1 hour,1,False,False,False,False,3990,44,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+pydata__xarray-4695,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,3514,12,1,True,True,0,0,0,0,0,0,0,0,0,1,1,0,1,1
+pydata__xarray-4759,2.0,0.0,0.0,pydata/xarray,1-4 hours,2,True,False,False,True,5145,194,19,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4767,1.0,3.0,0.0,pydata/xarray,1-4 hours,3,False,True,False,True,2218,149,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4802,0.0,0.0,1.0,pydata/xarray,<15 min fix,0,False,False,True,True,3024,15,3,True,True,1,0,0,1,1,1,0,1,1,1,1,1,1,1
+pydata__xarray-4819,1.0,2.0,0.0,pydata/xarray,1-4 hours,2,False,True,False,True,1060,115,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4879,1.0,2.0,0.0,pydata/xarray,1-4 hours,2,False,True,False,True,2579,163,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4911,2.0,3.0,0.0,pydata/xarray,15 min - 1 hour,3,True,True,False,True,1878,72,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-4994,0.0,3.0,0.0,pydata/xarray,<15 min fix,3,False,True,False,True,2428,25,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-5033,1.0,3.0,0.0,pydata/xarray,15 min - 1 hour,3,False,True,False,True,919,58,1,True,True,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+pydata__xarray-5131,2.0,0.0,0.0,pydata/xarray,<15 min fix,2,True,False,False,True,2321,12,10,True,True,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+pydata__xarray-5180,0.0,0.0,0.0,pydata/xarray,<15 min fix,0,False,False,False,False,4860,50,2,True,True,0,0,0,0,0,0,0,1,1,1,1,1,1,1
+pydata__xarray-5187,2.0,3.0,0.0,pydata/xarray,1-4 hours,3,True,True,False,True,1592,145,422,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-5362,2.0,2.0,0.0,pydata/xarray,15 min - 1 hour,2,True,True,False,True,2056,41,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pydata__xarray-6386,1.0,2.0,0.0,pydata/xarray,<15 min fix,2,False,True,False,True,3529,12,1,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+pydata__xarray-6394,1.0,2.0,0.0,pydata/xarray,<15 min fix,2,False,True,False,True,3420,12,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+pydata__xarray-6461,0.0,0.0,0.0,pydata/xarray,<15 min fix,0,False,False,False,False,986,16,1,True,True,0,0,0,1,1,0,0,0,1,1,1,1,1,1
+pydata__xarray-6548,3.0,3.0,1.0,pydata/xarray,1-4 hours,3,True,True,True,True,2579,180,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-6599,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,4310,23,1,True,True,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+pydata__xarray-6601,2.0,2.0,0.0,pydata/xarray,15 min - 1 hour,2,True,True,False,True,1572,12,1,True,True,0,0,1,0,0,0,0,0,1,0,0,1,1,1
+pydata__xarray-6721,0.0,1.0,0.0,pydata/xarray,15 min - 1 hour,1,False,False,False,False,9276,12,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+pydata__xarray-6823,2.0,3.0,0.0,pydata/xarray,15 min - 1 hour,3,True,True,False,True,3995,29,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-6882,2.0,1.0,0.0,pydata/xarray,15 min - 1 hour,2,True,False,False,True,4204,32,1,True,True,1,0,0,1,1,1,0,0,1,1,1,1,1,1
+pydata__xarray-6889,0.0,1.0,0.0,pydata/xarray,<15 min fix,1,False,False,False,False,4238,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+pydata__xarray-7003,3.0,3.0,0.0,pydata/xarray,15 min - 1 hour,3,True,True,False,True,631,45,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-7147,1.0,2.0,0.0,pydata/xarray,<15 min fix,2,False,True,False,True,3362,33,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pydata__xarray-7150,2.0,2.0,0.0,pydata/xarray,15 min - 1 hour,2,True,True,False,True,5371,12,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+pydata__xarray-7203,1.0,2.0,0.0,pydata/xarray,<15 min fix,2,False,True,False,True,2399,12,1,True,True,1,0,0,0,1,0,0,1,1,1,0,0,1,1
+pydata__xarray-7229,1.0,1.0,0.0,pydata/xarray,15 min - 1 hour,1,False,False,False,False,2824,50,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pydata__xarray-7233,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,1816,15,1,True,True,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+pydata__xarray-7347,3.0,0.0,0.0,pydata/xarray,<15 min fix,3,True,False,False,True,1173,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+pydata__xarray-7391,0.0,2.0,0.0,pydata/xarray,<15 min fix,2,False,True,False,True,724,13,1,True,True,0,1,1,0,1,1,0,0,1,1,1,1,1,1
+pydata__xarray-7393,0.0,0.0,0.0,pydata/xarray,15 min - 1 hour,0,False,False,False,False,2362,17,2,True,True,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+pydata__xarray-7400,3.0,3.0,0.0,pydata/xarray,>4 hours,3,True,True,False,True,361,150,16,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-4339,2.0,2.0,0.0,pylint-dev/pylint,15 min - 1 hour,2,True,True,False,True,992,69,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-4516,2.0,2.0,1.0,pylint-dev/pylint,15 min - 1 hour,2,True,True,True,True,1709,107,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-4551,0.0,1.0,0.0,pylint-dev/pylint,1-4 hours,1,False,False,False,False,777,187,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-4604,0.0,1.0,0.0,pylint-dev/pylint,15 min - 1 hour,1,False,False,False,False,685,33,21,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-4661,1.0,1.0,0.0,pylint-dev/pylint,15 min - 1 hour,1,False,False,False,False,995,60,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-4970,1.0,1.0,0.0,pylint-dev/pylint,<15 min fix,1,False,False,False,False,618,12,1,True,True,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-5136,2.0,3.0,0.0,pylint-dev/pylint,1-4 hours,3,True,True,False,True,1777,433,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+pylint-dev__pylint-5595,3.0,3.0,0.0,pylint-dev/pylint,<15 min fix,3,True,True,False,True,1134,14,1,True,True,0,0,1,0,0,0,0,1,1,0,1,1,1,1
+pylint-dev__pylint-5613,1.0,3.0,0.0,pylint-dev/pylint,15 min - 1 hour,3,False,True,False,True,488,59,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-5839,2.0,3.0,1.0,pylint-dev/pylint,1-4 hours,3,True,True,True,True,794,180,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-6059,2.0,3.0,1.0,pylint-dev/pylint,15 min - 1 hour,3,True,True,True,True,663,20,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-6412,2.0,3.0,0.0,pylint-dev/pylint,1-4 hours,3,True,True,False,True,442,142,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-6506,2.0,2.0,0.0,pylint-dev/pylint,<15 min fix,2,True,True,False,True,1698,13,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-6526,2.0,2.0,1.0,pylint-dev/pylint,15 min - 1 hour,2,True,True,True,True,1204,17,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-6528,0.0,0.0,0.0,pylint-dev/pylint,15 min - 1 hour,0,False,False,False,False,2359,76,4,True,True,0,0,0,0,0,0,0,1,1,0,1,1,0,1
+pylint-dev__pylint-6820,2.0,3.0,1.0,pylint-dev/pylint,15 min - 1 hour,3,True,True,True,True,720,66,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-6903,0.0,0.0,0.0,pylint-dev/pylint,<15 min fix,0,False,False,False,False,2662,17,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+pylint-dev__pylint-7080,0.0,0.0,0.0,pylint-dev/pylint,15 min - 1 hour,0,False,False,False,False,24770,11,1,True,True,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+pylint-dev__pylint-7114,1.0,2.0,0.0,pylint-dev/pylint,15 min - 1 hour,2,False,True,False,True,1692,27,1,True,True,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+pylint-dev__pylint-7228,1.0,3.0,0.0,pylint-dev/pylint,15 min - 1 hour,3,False,True,False,True,4109,34,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-7277,1.0,0.0,0.0,pylint-dev/pylint,<15 min fix,1,False,False,False,False,1087,16,1,True,True,1,1,1,1,1,0,1,1,1,1,1,1,0,1
+pylint-dev__pylint-7993,1.0,2.0,0.0,pylint-dev/pylint,15 min - 1 hour,2,False,True,False,True,2008,12,1,True,True,0,0,0,0,1,0,0,0,0,1,0,1,1,1
+pylint-dev__pylint-8124,1.0,2.0,0.0,pylint-dev/pylint,1-4 hours,2,False,True,False,True,5801,60,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-8281,2.0,2.0,0.0,pylint-dev/pylint,1-4 hours,2,True,True,False,True,577,108,1,True,True,0,0,0,0,1,0,0,0,1,0,1,1,0,1
+pylint-dev__pylint-8799,1.0,2.0,0.0,pylint-dev/pylint,<15 min fix,2,False,True,False,True,1460,18,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pylint-dev__pylint-8898,1.0,1.0,0.0,pylint-dev/pylint,1-4 hours,1,False,False,False,False,3455,76,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pylint-dev__pylint-8929,1.0,3.0,0.0,pylint-dev/pylint,>4 hours,3,False,True,False,True,2786,233,156,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-10051,1.0,0.0,0.0,pytest-dev/pytest,15 min - 1 hour,1,False,False,False,False,1371,31,1,True,True,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+pytest-dev__pytest-10343,2.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,True,True,False,True,1368,28,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-10356,1.0,1.0,0.0,pytest-dev/pytest,1-4 hours,1,False,False,False,False,5278,54,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pytest-dev__pytest-10552,2.0,1.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,True,False,False,True,3324,14,2,True,True,0,1,0,0,0,0,0,0,1,1,1,1,1,1
+pytest-dev__pytest-10893,1.0,3.0,0.0,pytest-dev/pytest,1-4 hours,3,False,True,False,True,1225,93,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-10988,2.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,36810,51,16,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-11041,1.0,2.0,0.0,pytest-dev/pytest,1-4 hours,2,False,True,False,True,634,60,5,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+pytest-dev__pytest-11044,2.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,True,True,False,True,1506,19,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pytest-dev__pytest-11047,1.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,4734,60,2,True,True,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+pytest-dev__pytest-11143,2.0,0.0,0.0,pytest-dev/pytest,<15 min fix,2,True,False,False,True,5252,11,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+pytest-dev__pytest-11160,0.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,4152,28,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-5205,1.0,2.0,0.0,pytest-dev/pytest,1-4 hours,2,False,True,False,True,2644,68,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-5262,0.0,0.0,0.0,pytest-dev/pytest,<15 min fix,0,False,False,False,False,4789,14,1,True,True,0,0,0,0,0,1,0,0,0,1,0,1,1,1
+pytest-dev__pytest-5281,2.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,1997,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-5413,1.0,3.0,1.0,pytest-dev/pytest,<15 min fix,3,False,True,True,True,2917,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-5495,1.0,1.0,1.0,pytest-dev/pytest,15 min - 1 hour,1,False,False,True,True,739,44,2,True,True,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+pytest-dev__pytest-5550,2.0,1.0,0.0,pytest-dev/pytest,<15 min fix,2,True,False,False,True,11243,32,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-5559,2.0,3.0,0.0,pytest-dev/pytest,1-4 hours,3,True,True,False,True,1893,36,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-5631,0.0,0.0,0.0,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,2306,29,1,True,True,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+pytest-dev__pytest-5692,0.0,1.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,1280,24,2,True,True,0,1,0,1,1,0,0,1,0,1,1,1,0,0
+pytest-dev__pytest-5809,1.0,0.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,971,16,1,True,True,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+pytest-dev__pytest-5980,2.0,2.0,0.0,pytest-dev/pytest,1-4 hours,2,True,True,False,True,1191,152,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-6186,2.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,133,56,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-6197,1.0,1.0,0.0,pytest-dev/pytest,1-4 hours,1,False,False,False,False,2749,54,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+pytest-dev__pytest-6202,1.0,0.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,2157,13,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+pytest-dev__pytest-6323,2.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,295,49,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-6680,2.0,3.0,0.0,pytest-dev/pytest,<15 min fix,3,True,True,False,True,437,15,1,True,True,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-6926,3.0,2.0,1.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,True,True,93,46,3,True,True,0,1,0,1,0,1,0,0,1,1,1,1,1,1
+pytest-dev__pytest-7046,0.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,False,True,False,True,2036,25,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-7122,1.0,3.0,1.0,pytest-dev/pytest,>4 hours,3,False,True,True,True,3024,304,145,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-7151,0.0,2.0,0.0,pytest-dev/pytest,1-4 hours,2,False,True,False,True,7498,122,1,True,True,0,1,1,0,1,0,1,0,0,1,1,1,1,1
+pytest-dev__pytest-7158,1.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,False,True,False,True,1307,14,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+pytest-dev__pytest-7186,1.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,False,True,False,True,9797,29,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-7205,1.0,1.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,4267,18,10,True,True,1,1,0,0,1,1,1,0,1,0,1,1,1,1
+pytest-dev__pytest-7236,0.0,0.0,0.0,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,2692,39,1,True,True,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+pytest-dev__pytest-7352,1.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,5991,28,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-7432,0.0,0.0,0.0,pytest-dev/pytest,<15 min fix,0,False,False,False,False,773,13,1,True,True,0,0,0,0,0,0,1,1,1,1,1,1,1,1
+pytest-dev__pytest-7466,2.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,True,True,False,True,672,20,3,True,True,0,0,1,0,0,1,0,0,1,1,1,1,0,1
+pytest-dev__pytest-7468,2.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,True,True,False,True,696,21,1,True,True,1,1,0,1,0,1,0,1,1,1,0,1,1,1
+pytest-dev__pytest-7490,1.0,1.0,0.0,pytest-dev/pytest,15 min - 1 hour,1,False,False,False,False,22778,45,2,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+pytest-dev__pytest-7499,1.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,1989,17,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-7500,2.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,7093,24,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-7521,0.0,1.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,3893,11,2,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+pytest-dev__pytest-7571,0.0,0.0,0.0,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,459,28,1,True,True,1,0,0,1,0,1,1,0,1,1,1,1,1,1
+pytest-dev__pytest-7982,1.0,0.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,451,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+pytest-dev__pytest-8022,2.0,0.0,0.0,pytest-dev/pytest,<15 min fix,2,True,False,False,True,664,24,1,True,True,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+pytest-dev__pytest-8055,2.0,3.0,0.0,pytest-dev/pytest,>4 hours,3,True,True,False,True,204,271,79,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-8365,2.0,2.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,1873,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-8399,0.0,0.0,0.0,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,1083,51,1,True,True,0,1,1,1,1,1,0,1,1,1,1,1,1,1
+pytest-dev__pytest-8428,3.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,272,60,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-8447,2.0,3.0,0.0,pytest-dev/pytest,1-4 hours,3,True,True,False,True,6293,162,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-8641,0.0,1.0,0.0,pytest-dev/pytest,<15 min fix,1,False,False,False,False,627,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+pytest-dev__pytest-8906,1.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,False,True,False,True,1970,18,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-8952,1.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,False,True,False,True,687,45,1,True,True,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+pytest-dev__pytest-9064,0.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,False,True,False,True,4247,22,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-9066,1.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,False,True,False,True,831,12,1,True,True,1,1,1,1,1,1,0,0,1,1,1,1,1,1
+pytest-dev__pytest-9249,2.0,3.0,1.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,True,True,1248,21,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-9279,3.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,6293,19,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pytest-dev__pytest-9475,2.0,3.0,1.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,True,True,2304,68,2,True,True,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+pytest-dev__pytest-9646,1.0,3.0,1.0,pytest-dev/pytest,15 min - 1 hour,3,False,True,True,True,4549,62,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pytest-dev__pytest-9681,2.0,0.0,0.0,pytest-dev/pytest,15 min - 1 hour,2,True,False,False,True,3116,29,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+pytest-dev__pytest-9709,2.0,3.0,0.0,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,2309,103,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pytest-dev__pytest-9798,0.0,0.0,0.0,pytest-dev/pytest,<15 min fix,0,False,False,False,False,2652,20,1,True,True,0,0,1,1,0,0,1,0,1,1,1,1,1,1
+pytest-dev__pytest-9911,1.0,2.0,0.0,pytest-dev/pytest,<15 min fix,2,False,True,False,True,1378,16,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10297,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,1519,68,1,True,True,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-10377,2.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,1866,11,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+scikit-learn__scikit-learn-10382,3.0,3.0,1.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,True,True,1393,41,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10397,2.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,764,47,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10428,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,759,70,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10443,0.0,3.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,705,125,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10452,2.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,184,63,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10483,1.0,2.0,1.0,scikit-learn/scikit-learn,>4 hours,2,False,True,True,True,813,451,122,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10495,2.0,3.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,True,True,1220,19,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10508,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,1646,24,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10558,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,1139,144,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10581,2.0,1.0,1.0,scikit-learn/scikit-learn,1-4 hours,2,True,False,True,True,1371,30,1,True,True,0,1,0,0,0,0,0,1,0,1,0,1,1,1
+scikit-learn__scikit-learn-10777,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,170,45,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10803,3.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,634,80,1,True,True,0,0,1,0,0,0,0,0,1,0,1,0,0,1
+scikit-learn__scikit-learn-10844,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,2399,18,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-10870,2.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,3486,87,1,True,True,0,0,0,1,1,1,0,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-10899,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,3162,60,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10908,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,2035,13,1,True,True,0,0,0,0,0,1,0,0,0,1,1,1,1,1
+scikit-learn__scikit-learn-10913,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,1259,40,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-10986,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,4939,18,1,True,True,1,1,1,0,0,0,0,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-11040,2.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,747,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-11043,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,775,73,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-11264,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,1800,66,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-11281,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,552,54,2,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+scikit-learn__scikit-learn-11310,1.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,1212,49,1,True,True,1,1,0,0,1,1,1,0,1,0,1,1,1,1
+scikit-learn__scikit-learn-11315,1.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,781,283,25,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-11333,2.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,False,False,True,781,15,1,True,True,0,1,1,0,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-11346,0.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,37908,31,2,True,True,1,1,0,0,1,1,0,1,1,0,1,0,1,1
+scikit-learn__scikit-learn-11391,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,3596,43,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-11496,1.0,3.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,831,183,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-11578,0.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,7387,12,1,True,True,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-11585,1.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,2761,200,18,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-11596,3.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,301,146,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-12421,2.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,879,114,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-12462,1.0,3.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,4243,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-12486,3.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,2548,34,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+scikit-learn__scikit-learn-12583,2.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,True,True,False,True,403,100,8,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+scikit-learn__scikit-learn-12585,0.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,1422,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-12625,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,4596,12,1,True,True,0,1,0,0,1,0,1,0,1,1,1,0,1,1
+scikit-learn__scikit-learn-12682,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,518,282,1,True,True,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+scikit-learn__scikit-learn-12704,2.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,2463,12,1,True,True,0,0,0,0,0,1,1,0,1,1,0,0,1,1
+scikit-learn__scikit-learn-12827,2.0,2.0,1.0,scikit-learn/scikit-learn,1-4 hours,2,True,True,True,True,555,119,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-12860,1.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,368,131,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-12961,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,2075,21,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-12973,1.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,1575,37,1,True,True,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+scikit-learn__scikit-learn-12983,2.0,3.0,0.0,scikit-learn/scikit-learn,>4 hours,3,True,True,False,True,496,1563,132,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-12989,2.0,3.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,True,True,2264,74,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13010,1.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,2014,90,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13013,0.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,1112,284,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13017,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,1736,34,1,True,True,1,0,1,1,1,0,0,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-13087,2.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,2167,46,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-13124,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,5567,22,1,True,True,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+scikit-learn__scikit-learn-13135,0.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,5280,12,1,True,True,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-13142,0.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,2314,27,2,True,True,0,0,0,0,0,1,0,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-13143,0.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,838,95,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13157,2.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,398,63,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13165,3.0,3.0,1.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,True,True,596,42,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13174,3.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,474,363,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13253,1.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,999,102,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+scikit-learn__scikit-learn-13283,1.0,3.0,0.0,scikit-learn/scikit-learn,>4 hours,3,False,True,False,True,2735,118,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13302,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,298,184,4,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+scikit-learn__scikit-learn-13313,3.0,3.0,1.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,True,True,283,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13328,0.0,1.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,4704,13,1,True,True,0,0,1,1,0,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-13333,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,2400,83,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13363,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,2608,68,20,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13368,2.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,1193,17,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+scikit-learn__scikit-learn-13436,2.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,2863,69,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13439,0.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,1234,16,1,True,True,0,0,1,1,1,1,1,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-13447,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,2157,23,1,True,True,0,1,0,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-13454,2.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,1089,12,1,True,True,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+scikit-learn__scikit-learn-13485,2.0,1.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,False,False,True,885,12,2,True,True,1,0,0,1,0,0,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-13496,0.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,1371,34,1,True,True,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-13497,2.0,2.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,True,True,306,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+scikit-learn__scikit-learn-13536,1.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,False,True,False,True,1476,31,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-13549,1.0,3.0,1.0,scikit-learn/scikit-learn,1-4 hours,3,False,True,True,True,954,249,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-13554,2.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,True,True,False,True,5150,163,10,True,True,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+scikit-learn__scikit-learn-13584,2.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,False,False,True,386,12,6,True,True,1,1,0,1,0,1,1,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-13641,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,333,83,16,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13704,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,2958,31,1,True,True,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-13779,1.0,1.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,589,12,2,True,True,1,0,1,0,0,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-13910,2.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,True,True,False,True,2504,72,24,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13915,0.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,2663,166,26,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-13960,1.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,5944,141,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-13983,1.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,False,True,False,True,35,11,1,True,True,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-14053,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,3098,13,1,True,True,0,1,0,0,0,1,1,1,1,1,1,0,1,1
+scikit-learn__scikit-learn-14087,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,2320,26,3,True,True,0,0,0,0,0,0,0,1,1,0,1,0,1,1
+scikit-learn__scikit-learn-14114,2.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,1774,95,1,True,True,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+scikit-learn__scikit-learn-14237,1.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,3010,69,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-14450,3.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,625,16,1,True,True,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-14496,1.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,2290,74,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-14591,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,1236,14,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+scikit-learn__scikit-learn-14629,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,1814,41,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-14710,1.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,6629,19,1,True,True,1,0,1,1,0,0,1,0,0,0,1,1,1,0
+scikit-learn__scikit-learn-14732,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,219,80,5,True,True,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-14764,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,4642,53,6,True,True,0,0,1,1,0,1,0,0,0,1,0,0,1,1
+scikit-learn__scikit-learn-14806,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,1827,129,9,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-14869,2.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,726,16,1,True,True,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+scikit-learn__scikit-learn-14878,1.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,False,True,False,True,2651,16,10,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-14890,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,4073,38,2,True,True,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-14894,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,1716,23,1,True,True,0,1,1,1,1,1,0,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-14908,1.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,False,True,False,True,1630,27,2,True,True,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+scikit-learn__scikit-learn-14983,0.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,1297,22,2,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+scikit-learn__scikit-learn-15028,1.0,3.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,728,104,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-15086,2.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,2811,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-15094,2.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,2120,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-15096,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,1129,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-15100,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,2134,20,1,True,True,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-15138,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,674,136,26,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-15393,2.0,3.0,0.0,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,327,17,3,True,True,1,1,1,0,0,0,1,1,1,1,1,1,1,0
+scikit-learn__scikit-learn-15495,2.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,981,31,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+scikit-learn__scikit-learn-15512,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,1887,32,1,True,True,0,0,0,0,1,0,0,0,0,1,1,0,1,1
+scikit-learn__scikit-learn-15524,1.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,False,True,False,True,8299,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+scikit-learn__scikit-learn-15625,3.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,555,102,5,True,True,0,0,0,0,0,0,1,0,0,1,1,1,0,1
+scikit-learn__scikit-learn-24677,3.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,1327,118,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-25102,1.0,1.0,0.0,scikit-learn/scikit-learn,1-4 hours,1,False,False,False,False,2534,92,2,True,True,0,0,0,0,0,1,0,0,1,1,0,0,0,1
+scikit-learn__scikit-learn-25232,0.0,1.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,1448,51,1,True,True,0,0,0,1,1,1,0,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-25500,1.0,3.0,0.0,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,4695,68,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scikit-learn__scikit-learn-25570,1.0,1.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,5590,14,3,True,True,0,0,1,0,0,1,1,1,0,1,0,0,1,1
+scikit-learn__scikit-learn-25601,1.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,6315,30,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+scikit-learn__scikit-learn-25694,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,3281,14,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-25697,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,257,276,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-25744,1.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,2487,101,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-25752,0.0,2.0,0.0,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,2228,343,4,True,True,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+scikit-learn__scikit-learn-25931,0.0,0.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,2860,44,1,True,True,0,1,0,0,0,1,0,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-25973,1.0,0.0,0.0,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,1968,54,1,True,True,0,0,0,1,0,1,0,0,0,1,1,1,1,1
+scikit-learn__scikit-learn-26194,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,1137,46,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-26242,0.0,3.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,1622,40,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-26318,2.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,1255,14,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-26323,1.0,1.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,2812,21,1,True,True,0,0,0,1,1,1,1,0,1,1,1,1,1,1
+scikit-learn__scikit-learn-26400,2.0,2.0,0.0,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,3399,18,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+scikit-learn__scikit-learn-8554,2.0,2.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,True,True,4197,41,1,True,True,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+scikit-learn__scikit-learn-9274,1.0,2.0,1.0,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,True,True,2671,138,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scikit-learn__scikit-learn-9775,2.0,2.0,0.0,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,158,53,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-10067,1.0,3.0,0.0,sphinx-doc/sphinx,>4 hours,3,False,True,False,True,2040,287,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-10137,2.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,707,16,1,True,True,0,0,0,1,1,0,1,0,1,1,1,0,0,1
+sphinx-doc__sphinx-10207,2.0,3.0,0.0,sphinx-doc/sphinx,>4 hours,3,True,True,False,True,4498,223,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-10325,0.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,1132,34,1,True,True,0,0,1,0,1,0,0,0,0,1,1,1,1,1
+sphinx-doc__sphinx-10466,0.0,0.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,3137,13,1,True,True,0,1,0,0,0,1,1,0,1,0,1,1,1,1
+sphinx-doc__sphinx-10481,1.0,2.0,1.0,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,True,True,2215,21,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-10492,1.0,0.0,1.0,sphinx-doc/sphinx,<15 min fix,1,False,False,True,True,501,19,1,True,True,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+sphinx-doc__sphinx-10504,3.0,3.0,0.0,sphinx-doc/sphinx,<15 min fix,3,True,True,False,True,5379,14,1,True,True,0,0,0,0,0,1,1,0,1,1,1,1,1,1
+sphinx-doc__sphinx-10614,1.0,1.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,1,False,False,False,False,3078,24,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-10673,0.0,0.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,1333,100,1,True,True,0,0,0,0,1,0,0,0,1,1,1,1,1,0
+sphinx-doc__sphinx-10807,1.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,3756,536,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-11109,1.0,3.0,1.0,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,True,True,1015,29,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-11192,0.0,0.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,1152,24,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+sphinx-doc__sphinx-11266,0.0,3.0,1.0,sphinx-doc/sphinx,<15 min fix,3,False,True,True,True,1588,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sphinx-doc__sphinx-11311,2.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,3357,142,11,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-11312,2.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,2537,93,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-11489,1.0,3.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,False,True,1168,41,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sphinx-doc__sphinx-11510,1.0,1.0,0.0,sphinx-doc/sphinx,1-4 hours,1,False,False,False,False,5362,60,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-11550,2.0,2.0,1.0,sphinx-doc/sphinx,1-4 hours,2,True,True,True,True,3052,135,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7234,2.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,274,202,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7268,1.0,3.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,False,True,161,74,1,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+sphinx-doc__sphinx-7305,2.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,596,72,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7380,2.0,3.0,1.0,sphinx-doc/sphinx,1-4 hours,3,True,True,True,True,1614,516,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7395,2.0,3.0,0.0,sphinx-doc/sphinx,1-4 hours,3,True,True,False,True,800,41,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7590,1.0,0.0,0.0,sphinx-doc/sphinx,>4 hours,1,False,False,False,False,600,232,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7615,0.0,3.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,False,True,785,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sphinx-doc__sphinx-7670,3.0,2.0,0.0,sphinx-doc/sphinx,>4 hours,3,True,True,False,True,522,251,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7738,0.0,2.0,0.0,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,1070,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7757,0.0,0.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,652,43,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+sphinx-doc__sphinx-7762,1.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,5846,72,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-7814,1.0,3.0,0.0,sphinx-doc/sphinx,<15 min fix,3,False,True,False,True,2758,23,1,True,True,0,1,1,1,1,1,1,0,1,1,1,0,1,1
+sphinx-doc__sphinx-7859,2.0,2.0,0.0,sphinx-doc/sphinx,<15 min fix,2,True,True,False,True,12820,25,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sphinx-doc__sphinx-7889,1.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,1166,14,1,True,True,0,1,0,0,1,0,0,0,0,1,0,1,1,1
+sphinx-doc__sphinx-7975,2.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,487,34,1,True,True,0,0,1,0,0,0,0,0,0,1,0,1,1,1
+sphinx-doc__sphinx-8007,1.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,467,166,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8035,0.0,1.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,1,False,False,False,False,725,101,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+sphinx-doc__sphinx-8056,0.0,1.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,1,False,False,False,False,1565,37,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+sphinx-doc__sphinx-8075,2.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,2733,62,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8117,0.0,3.0,0.0,sphinx-doc/sphinx,1-4 hours,3,False,True,False,True,1097,136,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8125,1.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,1383,141,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sphinx-doc__sphinx-8264,2.0,3.0,0.0,sphinx-doc/sphinx,<15 min fix,3,True,True,False,True,8385,15,1,True,True,0,0,0,0,1,1,0,0,1,0,1,0,0,1
+sphinx-doc__sphinx-8269,0.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,1187,11,1,True,True,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+sphinx-doc__sphinx-8273,2.0,3.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,3,True,True,False,True,1046,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8284,1.0,2.0,0.0,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,1046,12,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8459,0.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,1335,12,1,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+sphinx-doc__sphinx-8474,2.0,3.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,3,True,True,False,True,555,15,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8475,0.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,766,21,1,True,True,0,0,0,1,1,0,1,0,1,1,1,1,1,1
+sphinx-doc__sphinx-8506,2.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,1181,24,1,True,True,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8509,0.0,3.0,0.0,sphinx-doc/sphinx,<15 min fix,3,False,True,False,True,742,12,2,True,True,0,0,1,1,1,1,1,0,1,0,1,1,1,1
+sphinx-doc__sphinx-8548,0.0,0.0,0.0,sphinx-doc/sphinx,1-4 hours,0,False,False,False,False,358,84,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8551,0.0,0.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,1874,23,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sphinx-doc__sphinx-8552,3.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,3,True,True,False,True,594,28,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sphinx-doc__sphinx-8595,0.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,676,12,1,True,True,0,0,0,1,1,1,1,0,1,1,1,1,0,0
+sphinx-doc__sphinx-8621,0.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,2035,12,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sphinx-doc__sphinx-8633,2.0,1.0,0.0,sphinx-doc/sphinx,1-4 hours,2,True,False,False,True,2460,79,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8674,2.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,509,78,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sphinx-doc__sphinx-8679,2.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,1201,16,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+sphinx-doc__sphinx-8684,1.0,2.0,0.0,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,291,46,1,True,True,0,1,0,0,1,0,0,0,1,0,1,1,0,1
+sphinx-doc__sphinx-8707,3.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,3,True,True,False,True,496,135,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-8729,1.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,1654,119,4,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+sphinx-doc__sphinx-8969,1.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,2232,79,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+sphinx-doc__sphinx-9207,2.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,1916,20,1,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+sphinx-doc__sphinx-9230,0.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,1237,12,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+sphinx-doc__sphinx-9231,2.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,2,True,False,False,True,1313,15,1,True,True,0,0,1,0,1,0,1,0,1,1,0,1,1,0
+sphinx-doc__sphinx-9234,1.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,1327,79,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-9258,1.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,516,12,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,1,1
+sphinx-doc__sphinx-9281,1.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,809,30,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+sphinx-doc__sphinx-9320,0.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,1117,25,1,True,True,0,1,0,1,0,1,1,0,1,1,1,1,1,1
+sphinx-doc__sphinx-9367,0.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,511,19,1,True,True,0,0,1,1,1,1,1,0,1,1,1,1,1,1
+sphinx-doc__sphinx-9386,2.0,0.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,True,False,False,True,921,50,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sphinx-doc__sphinx-9464,0.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,1134,15,1,True,True,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+sphinx-doc__sphinx-9591,0.0,1.0,0.0,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,1977,13,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+sphinx-doc__sphinx-9711,0.0,0.0,0.0,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,1571,32,1,True,True,0,1,0,1,1,0,1,0,1,1,1,1,1,0
+sphinx-doc__sphinx-9828,0.0,2.0,0.0,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,926,58,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sphinx-doc__sphinx-9829,1.0,2.0,0.0,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,2151,12,1,True,True,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+sphinx-doc__sphinx-9902,1.0,2.0,0.0,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,1955,43,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sphinx-doc__sphinx-9997,0.0,2.0,0.0,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,1055,290,13,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-11384,2.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,1045,24,1,True,True,0,0,0,1,0,0,0,1,1,1,1,0,1,0
+sympy__sympy-11400,0.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,318,24,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+sympy__sympy-11438,0.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,295,12,1,True,True,1,1,0,1,0,1,1,0,1,1,0,1,1,1
+sympy__sympy-11618,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,252,24,1,True,True,0,0,0,0,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-11788,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,567,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-11794,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,112,15,1,True,True,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+sympy__sympy-11822,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,3684,13,2,True,True,0,0,1,1,1,1,1,0,0,1,1,0,1,1
+sympy__sympy-11862,1.0,2.0,0.0,sympy/sympy,1-4 hours,2,False,True,False,True,1382,157,7,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-11870,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,344,31,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-11989,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,381,72,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+sympy__sympy-12088,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,2213,342,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-12096,1.0,0.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,598,12,1,True,True,1,0,1,1,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-12108,1.0,3.0,0.0,sympy/sympy,>4 hours,3,False,True,False,True,354,685,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-12171,0.0,3.0,1.0,sympy/sympy,<15 min fix,3,False,True,True,True,615,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-12194,2.0,3.0,0.0,sympy/sympy,<15 min fix,3,True,True,False,True,628,73,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-12227,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,1671,151,1,True,True,0,0,0,0,0,0,1,0,0,0,1,1,1,1
+sympy__sympy-12236,3.0,2.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,1870,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-12270,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,1113,79,1,True,True,0,0,0,0,0,1,0,0,0,1,0,1,1,1
+sympy__sympy-12307,2.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,691,18,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-12419,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,1141,40,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-12454,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,1235,21,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-12481,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,407,18,1,True,True,0,0,1,0,0,0,1,1,1,1,1,1,1,1
+sympy__sympy-12489,1.0,0.0,0.0,sympy/sympy,1-4 hours,1,False,False,False,False,1214,293,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-12977,3.0,0.0,0.0,sympy/sympy,15 min - 1 hour,3,True,False,False,True,1454,22,3,True,True,1,0,0,1,0,1,1,1,1,1,1,0,1,1
+sympy__sympy-13001,1.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,False,True,True,True,242,49,1,True,True,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+sympy__sympy-13043,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,449,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13091,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,1823,522,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-13173,2.0,3.0,0.0,sympy/sympy,<15 min fix,3,True,True,False,True,647,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13185,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,3651,20,1,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+sympy__sympy-13236,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,789,300,30,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13264,1.0,2.0,1.0,sympy/sympy,15 min - 1 hour,2,False,True,True,True,2460,86,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13265,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,1861,121,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13286,2.0,2.0,1.0,sympy/sympy,1-4 hours,2,True,True,True,True,489,112,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13301,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,249,114,1,True,True,1,1,1,0,0,0,0,0,0,1,1,1,0,1
+sympy__sympy-13361,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,671,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13364,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,1001,31,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13369,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,823,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+sympy__sympy-13372,1.0,0.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,1183,20,1,True,True,1,0,1,0,0,1,1,0,1,1,1,1,1,1
+sympy__sympy-13429,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,1264,294,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-13441,2.0,3.0,1.0,sympy/sympy,1-4 hours,3,True,True,True,True,23326,115,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13480,1.0,0.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,430,12,1,True,True,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-13551,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,499,14,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-13581,2.0,1.0,0.0,sympy/sympy,1-4 hours,2,True,False,False,True,262,42,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13615,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,201,22,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-13647,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1088,12,1,True,True,0,1,0,0,1,1,0,1,1,1,1,1,1,1
+sympy__sympy-13744,3.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,14388,23,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13757,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,421,11,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+sympy__sympy-13761,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,421,12,1,True,True,1,0,1,0,0,1,0,0,1,1,1,1,1,1
+sympy__sympy-13773,1.0,2.0,0.0,sympy/sympy,<15 min fix,2,False,True,False,True,656,25,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13798,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,861,33,1,True,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13806,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,182,97,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13852,1.0,1.0,0.0,sympy/sympy,1-4 hours,1,False,False,False,False,1892,65,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13877,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,4361,91,1,True,True,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+sympy__sympy-13878,0.0,0.0,0.0,sympy/sympy,>4 hours,0,False,False,False,False,3106,474,1,True,True,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+sympy__sympy-13895,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,545,30,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13915,2.0,1.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,680,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13962,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,1344,30,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-13971,2.0,2.0,0.0,sympy/sympy,<15 min fix,2,True,True,False,True,515,15,1,True,True,0,1,0,0,0,0,1,0,0,0,1,1,0,1
+sympy__sympy-13974,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,1044,90,1,True,True,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+sympy__sympy-13978,1.0,2.0,0.0,sympy/sympy,<15 min fix,2,False,True,False,True,208,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-14024,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,685,29,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14031,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,386,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-14038,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,247,33,1,True,True,0,0,0,0,0,0,1,0,0,0,1,1,1,1
+sympy__sympy-14070,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,291,23,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14082,0.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,276,21,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-14085,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,1390,689,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14180,0.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,222,53,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14207,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,857,132,2,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+sympy__sympy-14248,1.0,1.0,0.0,sympy/sympy,1-4 hours,1,False,False,False,False,583,109,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14308,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,275,61,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14317,2.0,1.0,0.0,sympy/sympy,1-4 hours,2,True,False,False,True,603,55,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14333,2.0,1.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,947,46,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-14396,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,2066,26,1,True,True,0,0,0,0,1,0,1,0,0,0,0,1,1,1
+sympy__sympy-14531,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,668,124,2,True,True,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+sympy__sympy-14564,2.0,3.0,0.0,sympy/sympy,>4 hours,3,True,True,False,True,1902,316,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14699,1.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,758,13,3,True,True,0,1,0,0,0,1,1,0,1,1,1,0,1,1
+sympy__sympy-14711,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,1070,12,1,True,True,1,1,1,1,1,1,0,0,1,1,1,1,1,1
+sympy__sympy-14774,0.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,550,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-14821,3.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,159,87,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-14976,0.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,680,17,1,True,True,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+sympy__sympy-15011,2.0,0.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,711,44,1,True,True,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+sympy__sympy-15017,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,1010,12,1,True,True,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+sympy__sympy-15198,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,347,218,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15222,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,277,148,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15225,2.0,1.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,463,66,1,True,True,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+sympy__sympy-15241,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,328,153,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15286,2.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,2228,84,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15308,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,294,25,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15320,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,796,49,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15345,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,269,22,1,True,True,0,0,1,1,0,0,0,0,1,0,1,0,1,1
+sympy__sympy-15346,0.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,1159,13,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+sympy__sympy-15349,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,725,12,1,True,True,0,0,1,1,0,1,0,0,1,0,1,0,1,1
+sympy__sympy-15446,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,448,155,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15523,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,6158,36,1,True,True,0,0,0,0,0,0,1,0,0,0,1,0,1,1
+sympy__sympy-15555,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,868,106,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15596,2.0,2.0,1.0,sympy/sympy,15 min - 1 hour,2,True,True,True,True,276,43,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-15599,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,1828,48,1,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+sympy__sympy-15678,1.0,3.0,1.0,sympy/sympy,1-4 hours,3,False,True,True,True,772,25,1,True,True,0,0,0,1,0,0,1,1,0,1,0,1,1,1
+sympy__sympy-15685,0.0,2.0,0.0,sympy/sympy,<15 min fix,2,False,True,False,True,1218,39,1,True,True,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+sympy__sympy-15809,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,350,12,2,True,True,0,0,0,0,0,1,0,0,0,1,1,1,1,1
+sympy__sympy-15948,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,3650,275,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15970,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,154,39,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-15976,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1053,54,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-16003,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,3423,100,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16056,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,1186,335,8,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16088,3.0,3.0,1.0,sympy/sympy,1-4 hours,3,True,True,True,True,1888,351,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16281,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,1525,17,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16331,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,6500,58,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16334,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,419,23,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-16437,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,602,33,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16449,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,175,56,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16450,1.0,0.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,1610,12,1,True,True,1,1,0,0,0,1,1,1,1,1,1,1,1,1
+sympy__sympy-16474,1.0,3.0,1.0,sympy/sympy,1-4 hours,3,False,True,True,True,204,144,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16503,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,253,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16527,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,467,25,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-16597,1.0,1.0,0.0,sympy/sympy,1-4 hours,1,False,False,False,False,611,228,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16601,2.0,1.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,690,39,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+sympy__sympy-16632,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,1017,140,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16637,0.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,False,True,True,True,1780,69,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16766,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,599,15,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-16792,0.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1930,41,1,True,True,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+sympy__sympy-16840,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,60,46,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16862,3.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,602,83,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-16943,2.0,0.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,696,33,1,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+sympy__sympy-16988,2.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,432,12,2,True,True,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17038,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,2687,28,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17067,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,3680,17,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-17115,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,3678,9,1,True,True,0,0,0,0,1,0,0,0,1,1,1,0,1,1
+sympy__sympy-17139,1.0,0.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,1916,12,2,True,True,0,0,0,0,0,1,1,0,1,1,1,1,1,1
+sympy__sympy-17150,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,1068,32,1,True,True,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-17176,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,982,86,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-17194,0.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,549,85,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17223,1.0,2.0,0.0,sympy/sympy,1-4 hours,2,False,True,False,True,568,227,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17271,1.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,1024,146,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17273,0.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,200,160,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17288,0.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,541,42,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17394,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,842,145,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17512,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,1850,278,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17630,1.0,0.0,0.0,sympy/sympy,1-4 hours,1,False,False,False,False,3430,12,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-17653,3.0,0.0,0.0,sympy/sympy,<15 min fix,3,True,False,False,True,4722,15,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-17655,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,1958,14,2,True,True,0,0,0,0,1,0,0,0,1,1,1,1,1,1
+sympy__sympy-17696,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,520,59,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-17770,2.0,0.0,0.0,sympy/sympy,1-4 hours,2,True,False,False,True,341,98,3,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+sympy__sympy-17821,2.0,3.0,1.0,sympy/sympy,1-4 hours,3,True,True,True,True,772,17,1,True,True,0,1,0,0,0,0,0,0,1,1,1,1,1,1
+sympy__sympy-17845,3.0,3.0,1.0,sympy/sympy,1-4 hours,3,True,True,True,True,502,698,1,True,True,0,0,0,0,1,0,1,0,0,0,0,1,1,0
+sympy__sympy-18062,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,187,49,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18087,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,320,33,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-18109,2.0,1.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,186,115,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+sympy__sympy-18130,3.0,2.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,177,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-18168,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,948,93,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18189,1.0,1.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,678,12,1,True,True,0,0,0,0,0,1,0,0,1,1,1,1,1,1
+sympy__sympy-18191,2.0,0.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,1693,14,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18198,0.0,3.0,0.0,sympy/sympy,>4 hours,3,False,True,False,True,1398,994,84,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+sympy__sympy-18211,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,832,22,1,True,True,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+sympy__sympy-18256,3.0,2.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,1445,79,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18273,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,2394,21,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+sympy__sympy-18351,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,1260,62,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18477,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,372,141,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18478,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,130,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-18587,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,577,44,5,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18605,0.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,1160,21,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18630,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,3520,38,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18650,2.0,0.0,0.0,sympy/sympy,<15 min fix,2,True,False,False,True,135,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-18698,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,458,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-18728,2.0,2.0,1.0,sympy/sympy,15 min - 1 hour,2,True,True,True,True,4793,39,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-18763,1.0,1.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,567,12,1,True,True,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+sympy__sympy-18765,0.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,580,107,1,True,True,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-18835,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,780,47,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+sympy__sympy-18903,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,185,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-18922,3.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,280,105,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19007,2.0,1.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,473,41,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19016,1.0,2.0,1.0,sympy/sympy,1-4 hours,2,False,True,True,True,1210,16,1,True,True,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+sympy__sympy-19040,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,1885,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-19093,2.0,3.0,1.0,sympy/sympy,>4 hours,3,True,True,True,True,363,508,16,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19201,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,885,98,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19254,3.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,626,73,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19346,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,480,20,1,True,True,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-19487,2.0,2.0,0.0,sympy/sympy,<15 min fix,2,True,True,False,True,943,13,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19495,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,1436,50,1,True,True,0,0,1,0,1,0,0,0,0,0,1,1,1,0
+sympy__sympy-19637,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,221,14,1,True,True,1,0,0,1,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-19783,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,422,38,2,True,True,0,0,0,0,0,0,0,1,1,0,1,1,1,1
+sympy__sympy-19885,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,918,39,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-19954,1.0,0.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,921,27,1,True,True,0,0,1,0,1,1,1,0,1,0,1,1,1,1
+sympy__sympy-20049,2.0,1.0,0.0,sympy/sympy,1-4 hours,2,True,False,False,True,2586,55,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-20154,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,552,49,2,True,True,0,0,1,0,1,1,0,1,1,1,0,1,1,1
+sympy__sympy-20169,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,161,65,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-20428,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,3710,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-20438,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1269,73,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-20565,0.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,206,12,1,True,True,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-20590,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,758,15,1,True,True,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+sympy__sympy-20639,1.0,2.0,0.0,sympy/sympy,1-4 hours,2,False,True,False,True,561,52,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-20741,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,471,37,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-20801,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,509,21,1,True,True,0,0,0,0,1,1,0,0,1,0,1,1,1,1
+sympy__sympy-20916,0.0,1.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,143,21,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-21101,3.0,1.0,0.0,sympy/sympy,15 min - 1 hour,3,True,False,False,True,120,21,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-21208,2.0,0.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,686,21,1,True,True,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-21260,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,2123,293,20,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21271,2.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,3014,75,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21286,2.0,3.0,0.0,sympy/sympy,>4 hours,3,True,True,False,True,787,344,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21313,1.0,3.0,0.0,sympy/sympy,<15 min fix,3,False,True,False,True,2599,20,1,True,True,0,0,0,0,1,1,0,0,1,1,1,1,1,1
+sympy__sympy-21370,3.0,2.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,4658,109,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21379,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1781,29,1,True,True,0,0,0,0,0,1,0,0,0,1,0,1,1,1
+sympy__sympy-21476,1.0,2.0,0.0,sympy/sympy,1-4 hours,2,False,True,False,True,4027,207,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21567,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,589,50,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21586,0.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,1217,124,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21612,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,681,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-21614,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,378,14,1,True,True,0,0,0,0,0,1,0,0,1,1,1,1,1,1
+sympy__sympy-21627,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,291,12,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21769,0.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,1598,57,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21847,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,1061,21,1,True,True,0,0,0,0,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-21849,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,3340,23,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21930,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,707,30,6,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-21952,3.0,3.0,0.0,sympy/sympy,1-4 hours,3,True,True,False,True,1124,162,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-22005,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,1509,16,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-22080,0.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,645,39,3,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-22236,2.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,True,True,False,True,277,75,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-22383,2.0,2.0,0.0,sympy/sympy,1-4 hours,2,True,True,False,True,1394,99,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-22456,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,302,43,1,True,True,1,0,0,1,0,0,0,0,1,0,1,1,1,1
+sympy__sympy-22706,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,200,22,1,True,True,0,0,0,0,0,0,1,0,0,1,1,0,1,1
+sympy__sympy-22714,1.0,1.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,1660,12,1,True,True,0,0,1,0,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-22740,2.0,3.0,1.0,sympy/sympy,15 min - 1 hour,3,True,True,True,True,1869,35,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-22773,1.0,3.0,0.0,sympy/sympy,15 min - 1 hour,3,False,True,False,True,746,167,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-22914,0.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,628,12,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-22969,1.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,2172,99,1,True,True,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+sympy__sympy-23021,2.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,True,True,False,True,4004,67,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-23262,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1033,15,1,True,True,0,1,0,0,0,0,0,0,1,0,1,1,1,1
+sympy__sympy-23296,2.0,0.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,1974,12,1,True,True,0,0,0,0,1,1,1,1,0,1,0,1,1,1
+sympy__sympy-23413,0.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,353,27,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+sympy__sympy-23729,0.0,2.0,0.0,sympy/sympy,15 min - 1 hour,2,False,True,False,True,1459,181,40,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-23808,1.0,3.0,0.0,sympy/sympy,1-4 hours,3,False,True,False,True,1873,42,1,True,True,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+sympy__sympy-23824,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,2103,13,1,True,True,0,0,0,1,1,1,0,1,0,1,1,1,1,1
+sympy__sympy-23950,1.0,1.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,766,9,1,True,True,0,1,0,0,0,1,1,1,1,1,1,1,0,0
+sympy__sympy-24066,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,605,17,1,True,True,1,0,0,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-24102,2.0,2.0,0.0,sympy/sympy,<15 min fix,2,True,True,False,True,1708,12,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sympy__sympy-24213,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,1023,12,1,True,True,0,1,1,1,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-24325,1.0,2.0,0.0,sympy/sympy,<15 min fix,2,False,True,False,True,1888,26,1,True,True,1,0,0,1,1,0,1,0,0,1,1,1,1,1
+sympy__sympy-24370,2.0,0.0,0.0,sympy/sympy,<15 min fix,2,True,False,False,True,2562,12,1,True,True,1,1,0,0,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-24443,1.0,0.0,0.0,sympy/sympy,15 min - 1 hour,1,False,False,False,False,687,68,1,True,True,1,1,0,1,1,1,0,1,1,1,1,1,1,1
+sympy__sympy-24455,2.0,0.0,0.0,sympy/sympy,15 min - 1 hour,2,True,False,False,True,2378,29,1,True,True,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sympy__sympy-24539,0.0,1.0,0.0,sympy/sympy,<15 min fix,1,False,False,False,False,659,20,1,True,True,1,1,0,1,1,1,1,0,1,1,1,1,1,1
+sympy__sympy-24562,0.0,0.0,0.0,sympy/sympy,<15 min fix,0,False,False,False,False,222,29,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+sympy__sympy-24661,0.0,0.0,0.0,sympy/sympy,15 min - 1 hour,0,False,False,False,False,351,33,1,True,True,0,0,1,0,0,0,1,0,1,1,1,1,1,1
+sympy__sympy-24909,1.0,2.0,0.0,sympy/sympy,<15 min fix,2,False,True,False,True,559,34,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,10 @@
+{
+  "annotated_tasks": 1699,
+  "pilot_tasks": 1693,
+  "complete_tasks": 1212,
+  "primary_agents": 14,
+  "expanded_agents": 16,
+  "repositories": 11,
+  "missing_outcomes_primary": 712,
+  "pass": true
+}

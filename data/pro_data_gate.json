@@ -1,0 +1,14 @@
+{
+  "archived_matrix_cells": 10220,
+  "observed_source_rows": 9729,
+  "zero_filled_missing_cells": 491,
+  "observed_disagreements": 0,
+  "tasks": 692,
+  "agents": 9,
+  "known_corrected": 93,
+  "repositories": 11,
+  "numeric_gate": true,
+  "provenance": "partial: model labels and source rows audited; harness/settings not independently documented",
+  "independent_configurations": "9 distinct named model/reasoning configurations; ambiguous same-model runs excluded",
+  "not_a_corrected_rerun": true
+}

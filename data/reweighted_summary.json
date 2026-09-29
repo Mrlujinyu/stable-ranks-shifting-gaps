@@ -1,0 +1,18 @@
+{
+  "support_tasks": 1181,
+  "support_mass": 0.9744224422442245,
+  "clean_ess": 287.9408919149754,
+  "mean_abs_gap_pp": 6.530375514038915,
+  "median_abs_gap_pp": 5.682425462995987,
+  "pairs_ge_1pp_rate": 0.8901098901098901,
+  "pairs_ge_2pp_rate": 0.7802197802197802,
+  "pairs_ge_5pp_rate": 0.5714285714285714,
+  "reversals": 4,
+  "practical_1pp_rate": 0.03296703296703297,
+  "practical_2pp_rate": 0.02197802197802198,
+  "kendall_tau": 0.9120879120879121,
+  "spearman_rho": 0.978021978021978,
+  "top3_symmetric_difference": 0,
+  "top5_symmetric_difference": 0,
+  "top10_symmetric_difference": 0
+}

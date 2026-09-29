@@ -1,0 +1,26 @@
+[
+  {
+    "method": "exact_repo_difficulty",
+    "removed_each": 384,
+    "retained": 828,
+    "mean_abs_quality_delta_gap_pp": 0.9250805634791854,
+    "mean_abs_clean_removal_delta_gap_pp": 3.571520553870964,
+    "mean_abs_contrast_pp": 4.406221797526146,
+    "contrast_ci_low": 3.510345330997506,
+    "contrast_ci_high": 5.554228380315337,
+    "permutation_p": 9.999000099990002e-05,
+    "contrast_direction_agreement": 0.978021978021978
+  },
+  {
+    "method": "exact_repo_difficulty_nearest_metadata",
+    "removed_each": 384,
+    "retained": 828,
+    "mean_abs_quality_delta_gap_pp": 0.6322216072538922,
+    "mean_abs_clean_removal_delta_gap_pp": 3.4745973402882573,
+    "mean_abs_contrast_pp": 3.8342092689918776,
+    "contrast_ci_low": 2.9768208844295803,
+    "contrast_ci_high": 5.020703933747411,
+    "permutation_p": 9.999000099990002e-05,
+    "contrast_direction_agreement": 0.978021978021978
+  }
+]

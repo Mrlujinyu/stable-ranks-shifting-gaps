@@ -1,0 +1,7 @@
+method,covariate,log_scale_smd
+exact_repo_difficulty,problem_length,-0.08179207415004613
+exact_repo_difficulty,patch_lines,0.2472709227552
+exact_repo_difficulty,f2p_count,0.28688893357680184
+exact_repo_difficulty_nearest_metadata,problem_length,-0.005211358828918601
+exact_repo_difficulty_nearest_metadata,patch_lines,0.1251318354789949
+exact_repo_difficulty_nearest_metadata,f2p_count,0.05605348039952439

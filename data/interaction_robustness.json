@@ -1,0 +1,262 @@
+[
+  {
+    "exclusion_type": "none",
+    "excluded": "none",
+    "wald": 32.132218714766594,
+    "df": 13,
+    "p": 0.0022962231593731705,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.02957722998566
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "astropy/astropy",
+    "wald": 31.932596655170318,
+    "df": 13,
+    "p": 0.002458165985005072,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.102374692031244
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "django/django",
+    "wald": 25.173794683455185,
+    "df": 13,
+    "p": 0.021899138030139556,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.592723042212302
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "mwaskom/seaborn",
+    "wald": 33.04749092441661,
+    "df": 13,
+    "p": 0.0016762466005354605,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.009242932260157
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "pallets/flask",
+    "wald": 31.97076468417066,
+    "df": 13,
+    "p": 0.0024263764565816016,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.029936387288277
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "psf/requests",
+    "wald": 28.179171528538532,
+    "df": 13,
+    "p": 0.00854304178028051,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.02660764137608
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "pydata/xarray",
+    "wald": 28.54294641723696,
+    "df": 13,
+    "p": 0.0075955532936500805,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.069263490942767
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "pylint-dev/pylint",
+    "wald": 36.504308388874946,
+    "df": 13,
+    "p": 0.0004952612118823235,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.074006892141643
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "pytest-dev/pytest",
+    "wald": 27.76652161568476,
+    "df": 13,
+    "p": 0.009752955542883034,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.074846092408468
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "scikit-learn/scikit-learn",
+    "wald": 28.251250895003942,
+    "df": 13,
+    "p": 0.00834683792055813,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 28.145304778661572
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "sphinx-doc/sphinx",
+    "wald": 31.04827394415061,
+    "df": 13,
+    "p": 0.003317250622110683,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.116703315142423
+  },
+  {
+    "exclusion_type": "repo",
+    "excluded": "sympy/sympy",
+    "wald": 30.736807250502356,
+    "df": 13,
+    "p": 0.0036833795205728024,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.242779440140286
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A00",
+    "wald": 29.166387602529092,
+    "df": 12,
+    "p": 0.003721874893548041,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 23.417957227617343
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A01",
+    "wald": 29.919369095017863,
+    "df": 12,
+    "p": 0.002871529254652397,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 27.181921887938138
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A02",
+    "wald": 28.630216627608096,
+    "df": 12,
+    "p": 0.004469427911561026,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.032551936842555
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A03",
+    "wald": 29.13328021733637,
+    "df": 12,
+    "p": 0.003764330993801655,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.03132878796429
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A04",
+    "wald": 32.14305426600119,
+    "df": 12,
+    "p": 0.001315151514875436,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.03201710241839
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A05",
+    "wald": 25.65944650609248,
+    "df": 12,
+    "p": 0.011989200135881894,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.02739114830471
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A06",
+    "wald": 32.11826685768963,
+    "df": 12,
+    "p": 0.001326803103563889,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.033225545000818
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A07",
+    "wald": 32.15031440315189,
+    "df": 12,
+    "p": 0.001311757600878689,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.030130065316058
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A08",
+    "wald": 31.99274248410157,
+    "df": 12,
+    "p": 0.0013873578089505878,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.026682707090195
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A09",
+    "wald": 32.127858811384066,
+    "df": 12,
+    "p": 0.0013222825011408642,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.02702265721568
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A10",
+    "wald": 30.01239347488243,
+    "df": 12,
+    "p": 0.002780458507383547,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.026593686583595
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A11",
+    "wald": 32.047826478496646,
+    "df": 12,
+    "p": 0.0013604622899044472,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.02288209881556
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A12",
+    "wald": 27.281400339091665,
+    "df": 12,
+    "p": 0.007037474341585823,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.026062390926718
+  },
+  {
+    "exclusion_type": "agent",
+    "excluded": "A13",
+    "wald": 32.045602601940836,
+    "df": 12,
+    "p": 0.001361538287700878,
+    "converged": true,
+    "finite_covariance": true,
+    "max_abs_coefficient": 22.02679372727686
+  }
+]

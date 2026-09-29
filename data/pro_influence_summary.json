@@ -1,0 +1,17 @@
+{
+  "known_corrected_median": 0.01763661053623661,
+  "known_corrected_iqr": [
+    0.01763661053623661,
+    0.039479053097583684
+  ],
+  "no_known_correction_median": 0.05293306824973254,
+  "no_known_correction_iqr": [
+    0.01763661053623661,
+    0.0727248772408255
+  ],
+  "cliffs_delta": -0.44362467912470605,
+  "mw_p": 1.1308903996956572e-12,
+  "mean_difference": -0.021137809473307966,
+  "difference_ci_low": -0.025300666685034973,
+  "difference_ci_high": -0.016842760454255035
+}

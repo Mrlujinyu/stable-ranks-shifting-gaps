@@ -1,0 +1,47 @@
+[
+  {
+    "model": "types",
+    "defect": "statement",
+    "interaction_wald": 13.469368791218391,
+    "df": 13,
+    "p": 0.41224424037256024,
+    "converged": true,
+    "q": 0.41224424037256024
+  },
+  {
+    "model": "types",
+    "defect": "test",
+    "interaction_wald": 24.97739009008394,
+    "df": 13,
+    "p": 0.02324212561196239,
+    "converged": true,
+    "q": 0.05810531402990597
+  },
+  {
+    "model": "types",
+    "defect": "other",
+    "interaction_wald": 19.284592775218037,
+    "df": 13,
+    "p": 0.11454069786324694,
+    "converged": true,
+    "q": 0.19090116310541158
+  },
+  {
+    "model": "primary",
+    "defect": "defect",
+    "interaction_wald": 32.132218714766594,
+    "df": 13,
+    "p": 0.0022962231593731705,
+    "converged": true,
+    "q": 0.011481115796865853
+  },
+  {
+    "model": "high",
+    "defect": "high",
+    "interaction_wald": 14.719669412040556,
+    "df": 13,
+    "p": 0.32517858972447644,
+    "converged": true,
+    "q": 0.4064732371555956
+  }
+]

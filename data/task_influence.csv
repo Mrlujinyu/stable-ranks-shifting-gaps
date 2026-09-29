@@ -1,0 +1,1213 @@
+task_id,repo,human_difficulty,severity,problem_statement_problem,test_validity_problem,other_problem,any_problem,influence_pp,maximum_gap_change_pp
+astropy__astropy-11693,astropy/astropy,15 min - 1 hour,3,False,True,False,True,0.018972233245683714,0.09095665966266323
+astropy__astropy-12825,astropy/astropy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-12880,astropy/astropy,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-12891,astropy/astropy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-12907,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.037394915615190163,0.07814778174762149
+astropy__astropy-12962,astropy/astropy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-13032,astropy/astropy,1-4 hours,3,False,True,False,True,0.030285194743011303,0.09388634982408232
+astropy__astropy-13033,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+astropy__astropy-13068,astropy/astropy,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+astropy__astropy-13075,astropy/astropy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-13158,astropy/astropy,>4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-13236,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+astropy__astropy-13306,astropy/astropy,15 min - 1 hour,3,True,True,False,True,0.021989522116248248,0.07637634118490297
+astropy__astropy-13390,astropy/astropy,1-4 hours,3,True,True,True,True,0.023102100593086695,0.10989744721788446
+astropy__astropy-13398,astropy/astropy,1-4 hours,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+astropy__astropy-13404,astropy/astropy,15 min - 1 hour,2,True,True,False,True,0.043775395951406296,0.09702043697350742
+astropy__astropy-13453,astropy/astropy,15 min - 1 hour,0,False,False,False,False,0.02749401536101016,0.07985108998100471
+astropy__astropy-13462,astropy/astropy,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-13469,astropy/astropy,<15 min fix,2,True,False,False,True,0.023760962678966793,0.08877642512393272
+astropy__astropy-13477,astropy/astropy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-13579,astropy/astropy,1-4 hours,1,False,False,False,False,0.03919780186837116,0.08169066287305857
+astropy__astropy-13745,astropy/astropy,<15 min fix,3,False,True,False,True,0.035198209524312664,0.09702043697350742
+astropy__astropy-13838,astropy/astropy,15 min - 1 hour,3,False,True,False,True,0.03366036551931524,0.11848212071413583
+astropy__astropy-13933,astropy/astropy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-13977,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+astropy__astropy-14096,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.038660230302846245,0.08700498456121417
+astropy__astropy-14182,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+astropy__astropy-14253,astropy/astropy,1-4 hours,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14295,astropy/astropy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14309,astropy/astropy,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+astropy__astropy-14365,astropy/astropy,15 min - 1 hour,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+astropy__astropy-14369,astropy/astropy,1-4 hours,0,False,False,False,False,0.021610676416867196,0.10144903838030375
+astropy__astropy-14371,astropy/astropy,15 min - 1 hour,3,True,True,False,True,0.020607409149731592,0.09715670163217809
+astropy__astropy-14379,astropy/astropy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14413,astropy/astropy,15 min - 1 hour,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14508,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.02749401536101016,0.07985108998100471
+astropy__astropy-14528,astropy/astropy,15 min - 1 hour,2,False,True,False,True,0.02749401536101016,0.07985108998100471
+astropy__astropy-14539,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.04083447518625058,0.09640724600948947
+astropy__astropy-14566,astropy/astropy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14578,astropy/astropy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14598,astropy/astropy,15 min - 1 hour,0,False,False,False,False,0.021610676416867196,0.10144903838030375
+astropy__astropy-14701,astropy/astropy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14702,astropy/astropy,<15 min fix,2,False,True,False,True,0.020730197083918333,0.08577860263317827
+astropy__astropy-14938,astropy/astropy,15 min - 1 hour,2,False,True,False,True,0.038341281156727025,0.09558965805746553
+astropy__astropy-14966,astropy/astropy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-14991,astropy/astropy,<15 min fix,3,False,True,False,True,0.0198272565434963,0.07991922231034003
+astropy__astropy-14995,astropy/astropy,<15 min fix,0,False,False,False,False,0.021062622954521486,0.08720938154922014
+astropy__astropy-6938,astropy/astropy,<15 min fix,2,True,True,False,True,0.042104282115401306,0.09443140845876495
+astropy__astropy-7008,astropy/astropy,>4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-7166,astropy/astropy,<15 min fix,1,False,False,False,False,0.03858835443893208,0.09259183556671108
+astropy__astropy-7218,astropy/astropy,<15 min fix,2,False,True,False,True,0.04400450026763277,0.10689962472713004
+astropy__astropy-7336,astropy/astropy,<15 min fix,1,False,False,False,False,0.026883070517739523,0.08312144178910047
+astropy__astropy-7441,astropy/astropy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-7606,astropy/astropy,15 min - 1 hour,0,False,False,False,False,0.02807950416914452,0.08720938154922014
+astropy__astropy-7671,astropy/astropy,15 min - 1 hour,0,False,False,False,False,0.0337771637981758,0.08993467472263329
+astropy__astropy-7737,astropy/astropy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-8519,astropy/astropy,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-8747,astropy/astropy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+astropy__astropy-8872,astropy/astropy,15 min - 1 hour,1,False,False,False,False,0.04631500980970775,0.11446231328335145
+django__django-10390,django/django,<15 min fix,1,False,False,False,False,0.04213273297820068,0.09558965805746553
+django__django-10531,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-10554,django/django,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-10643,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-10853,django/django,15 min - 1 hour,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-10880,django/django,<15 min fix,1,False,False,False,False,0.04154424934240324,0.09259183556671108
+django__django-10904,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-10910,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-10914,django/django,<15 min fix,0,False,False,False,False,0.03487177330903571,0.09259183556671108
+django__django-10989,django/django,15 min - 1 hour,2,False,True,False,True,0.027068749832851187,0.10144903838030375
+django__django-10997,django/django,<15 min fix,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-10999,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11019,django/django,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-11057,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11062,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11066,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11070,django/django,<15 min fix,2,False,True,False,True,0.03202219478760427,0.0810093395797053
+django__django-11087,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11095,django/django,15 min - 1 hour,1,False,False,False,False,0.020586445356089954,0.08523354399849564
+django__django-11099,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11115,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11119,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11129,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11133,django/django,<15 min fix,0,False,False,False,False,0.034753477616343585,0.09436327612942962
+django__django-11138,django/django,1-4 hours,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-11141,django/django,15 min - 1 hour,1,False,False,False,False,0.018972233245683714,0.09095665966266323
+django__django-11149,django/django,15 min - 1 hour,1,False,False,False,False,0.030285194743011303,0.09388634982408232
+django__django-11155,django/django,<15 min fix,3,False,True,False,True,0.039721896709412154,0.09259183556671108
+django__django-11163,django/django,<15 min fix,0,False,False,False,False,0.0198272565434963,0.07991922231034003
+django__django-11166,django/django,<15 min fix,2,False,True,False,True,0.03123754993987435,0.09988199480559122
+django__django-11169,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11170,django/django,15 min - 1 hour,2,True,True,False,True,0.03422339311997642,0.0911610566506692
+django__django-11177,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11179,django/django,<15 min fix,0,False,False,False,False,0.03566989488124954,0.08196319219039988
+django__django-11185,django/django,15 min - 1 hour,2,True,False,False,True,0.03637068455441292,0.08673245524387285
+django__django-11194,django/django,<15 min fix,2,False,True,False,True,0.0428874295492997,0.09259183556671108
+django__django-11206,django/django,15 min - 1 hour,0,False,False,False,False,0.030244764569559567,0.10989744721788446
+django__django-11211,django/django,15 min - 1 hour,1,False,False,False,False,0.03919780186837116,0.08169066287305857
+django__django-11214,django/django,15 min - 1 hour,2,True,True,True,True,0.03702954664029301,0.08945774841728599
+django__django-11216,django/django,<15 min fix,3,False,True,False,True,0.03829635874178066,0.09170611528535182
+django__django-11239,django/django,<15 min fix,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-11260,django/django,15 min - 1 hour,2,True,True,False,True,0.018972233245683714,0.09095665966266323
+django__django-11265,django/django,15 min - 1 hour,1,False,False,False,False,0.03195031892369008,0.09565779038680085
+django__django-11270,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11278,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11279,django/django,15 min - 1 hour,2,True,False,False,True,0.021989522116248248,0.07637634118490297
+django__django-11292,django/django,15 min - 1 hour,1,False,False,False,False,0.038329301846074665,0.09443140845876495
+django__django-11354,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11377,django/django,15 min - 1 hour,2,True,True,False,True,0.04312402093468391,0.10546884581108812
+django__django-11396,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11400,django/django,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11405,django/django,15 min - 1 hour,2,True,False,False,True,0.03434318622650008,0.09170611528535182
+django__django-11417,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11428,django/django,15 min - 1 hour,2,False,True,False,True,0.02354234025956112,0.11010184420589043
+django__django-11433,django/django,<15 min fix,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-11446,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11451,django/django,<15 min fix,0,False,False,False,False,0.026883070517739523,0.08312144178910047
+django__django-11490,django/django,<15 min fix,0,False,False,False,False,0.03054873957736334,0.09531712874012423
+django__django-11514,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11517,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11525,django/django,15 min - 1 hour,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-11527,django/django,15 min - 1 hour,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-11532,django/django,15 min - 1 hour,1,False,False,False,False,0.04532821409471915,0.10608203677510608
+django__django-11560,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11564,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11584,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11591,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-11592,django/django,<15 min fix,3,True,True,True,True,0.04078805535747264,0.0996094654882499
+django__django-11603,django/django,<15 min fix,1,False,False,False,False,0.027583860190902892,0.08577860263317827
+django__django-11612,django/django,15 min - 1 hour,3,False,True,False,True,0.037394915615190163,0.07814778174762149
+django__django-11618,django/django,<15 min fix,2,False,True,False,True,0.03944487515057619,0.10608203677510608
+django__django-11630,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11638,django/django,<15 min fix,3,True,True,False,True,0.03300599567492978,0.10144903838030375
+django__django-11669,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11680,django/django,<15 min fix,3,False,True,False,True,0.03271699480544148,0.08455222070514236
+django__django-11692,django/django,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-11695,django/django,<15 min fix,3,False,True,False,True,0.039214273420518156,0.11384912231933352
+django__django-11701,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11728,django/django,15 min - 1 hour,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-11734,django/django,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11742,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11749,django/django,15 min - 1 hour,1,False,False,False,False,0.043775395951406296,0.09702043697350742
+django__django-11751,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-11754,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11772,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11790,django/django,15 min - 1 hour,1,False,False,False,False,0.041604145895665065,0.10546884581108812
+django__django-11797,django/django,<15 min fix,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-11808,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11810,django/django,15 min - 1 hour,3,False,True,False,True,0.03637068455441292,0.08673245524387285
+django__django-11815,django/django,15 min - 1 hour,1,False,False,False,False,0.04438184855318227,0.09988199480559122
+django__django-11820,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-11829,django/django,1-4 hours,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-11848,django/django,15 min - 1 hour,1,False,False,False,False,0.03528655694037385,0.10546884581108812
+django__django-11880,django/django,<15 min fix,0,False,False,False,False,0.026727339479258774,0.08203132451973522
+django__django-11883,django/django,15 min - 1 hour,2,True,True,False,True,0.040585904490214,0.09702043697350742
+django__django-11885,django/django,1-4 hours,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-11891,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11893,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-11894,django/django,<15 min fix,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-11903,django/django,<15 min fix,2,False,True,False,True,0.039594616533730774,0.08400716207045973
+django__django-11916,django/django,1-4 hours,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-11951,django/django,<15 min fix,1,False,False,False,False,0.03876654668488601,0.08938961608795067
+django__django-11964,django/django,<15 min fix,1,False,False,False,False,0.026535670508820934,0.10151717070963909
+django__django-11999,django/django,15 min - 1 hour,1,False,False,False,False,0.03566989488124954,0.08196319219039988
+django__django-12039,django/django,15 min - 1 hour,0,False,False,False,False,0.0452443589201526,0.09988199480559122
+django__django-12050,django/django,15 min - 1 hour,1,False,False,False,False,0.032375584451849064,0.08400716207045973
+django__django-12062,django/django,<15 min fix,2,False,True,False,True,0.0259711454943282,0.09715670163217809
+django__django-12073,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12091,django/django,15 min - 1 hour,3,True,True,False,True,0.023644164400106225,0.11527990123537538
+django__django-12113,django/django,15 min - 1 hour,2,True,True,False,True,0.018972233245683714,0.09095665966266323
+django__django-12121,django/django,<15 min fix,2,True,True,False,True,0.041668534690421526,0.09988199480559122
+django__django-12125,django/django,<15 min fix,0,False,False,False,False,0.04055745362741461,0.09013907171063928
+django__django-12143,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-12148,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12153,django/django,15 min - 1 hour,2,False,True,False,True,0.0282726705534139,0.08530167632783096
+django__django-12155,django/django,15 min - 1 hour,1,False,False,False,False,0.0198272565434963,0.07991922231034003
+django__django-12161,django/django,15 min - 1 hour,1,False,False,False,False,0.04863001159327737,0.11582495987005803
+django__django-12172,django/django,15 min - 1 hour,2,False,True,False,True,0.033974822423939836,0.08993467472263329
+django__django-12187,django/django,15 min - 1 hour,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-12193,django/django,<15 min fix,1,False,False,False,False,0.04780793139975879,0.10744468336181263
+django__django-12209,django/django,<15 min fix,1,False,False,False,False,0.03911993634913079,0.08203132451973522
+django__django-12225,django/django,<15 min fix,2,False,True,False,True,0.03595739833690631,0.08516541166916032
+django__django-12237,django/django,<15 min fix,3,False,True,False,True,0.0198272565434963,0.07991922231034003
+django__django-12262,django/django,15 min - 1 hour,1,False,False,False,False,0.03595739833690631,0.08516541166916032
+django__django-12286,django/django,<15 min fix,2,True,True,False,True,0.027931260199821496,0.0865961905852022
+django__django-12299,django/django,<15 min fix,3,False,True,False,True,0.0282726705534139,0.08530167632783096
+django__django-12304,django/django,<15 min fix,0,False,False,False,False,0.03521767590412274,0.07998735463967536
+django__django-12308,django/django,<15 min fix,0,False,False,False,False,0.022985302314226134,0.10901172693652518
+django__django-12313,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-12325,django/django,1-4 hours,1,False,False,False,False,0.029334336959979793,0.11446231328335145
+django__django-12360,django/django,15 min - 1 hour,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-12364,django/django,1-4 hours,2,False,True,False,True,0.03434318622650008,0.09170611528535182
+django__django-12406,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-12407,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12419,django/django,<15 min fix,1,False,False,False,False,0.021062622954521486,0.08720938154922014
+django__django-12453,django/django,15 min - 1 hour,3,False,True,True,True,0.020927855709682374,0.0865961905852022
+django__django-12464,django/django,15 min - 1 hour,2,True,True,False,True,0.033152742230421264,0.08673245524387285
+django__django-12469,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12470,django/django,15 min - 1 hour,2,False,True,False,True,0.024858567017489768,0.09306876187205838
+django__django-12477,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12484,django/django,<15 min fix,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-12496,django/django,<15 min fix,2,True,True,False,True,0.037394915615190163,0.07814778174762149
+django__django-12503,django/django,15 min - 1 hour,2,True,False,False,True,0.04086891570437612,0.09695230464417211
+django__django-12508,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12513,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12517,django/django,<15 min fix,2,False,True,False,True,0.029334336959979793,0.11446231328335145
+django__django-12532,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12553,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12588,django/django,1-4 hours,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-12591,django/django,1-4 hours,2,False,True,False,True,0.03004560852996398,0.10403806689504623
+django__django-12613,django/django,<15 min fix,2,True,False,False,True,0.01657786852904218,0.07419610664617246
+django__django-12627,django/django,<15 min fix,3,True,True,False,True,0.03944487515057619,0.10608203677510608
+django__django-12663,django/django,15 min - 1 hour,1,False,False,False,False,0.03318868016237836,0.08686871990254352
+django__django-12669,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-12671,django/django,<15 min fix,3,False,True,False,True,0.042144712288853046,0.10117650906296245
+django__django-12708,django/django,1-4 hours,1,False,False,False,False,0.0423693243635849,0.09381821749474699
+django__django-12713,django/django,15 min - 1 hour,1,False,False,False,False,0.03271699480544148,0.08455222070514236
+django__django-12733,django/django,1-4 hours,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-12734,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12741,django/django,<15 min fix,0,False,False,False,False,0.040677246733938285,0.08843576347725605
+django__django-12747,django/django,15 min - 1 hour,2,True,True,False,True,0.024858567017489768,0.09306876187205838
+django__django-12748,django/django,1-4 hours,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-12754,django/django,15 min - 1 hour,1,False,False,False,False,0.03202219478760427,0.0810093395797053
+django__django-12771,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12774,django/django,15 min - 1 hour,1,False,False,False,False,0.0282726705534139,0.08530167632783096
+django__django-12796,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12830,django/django,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-12851,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12855,django/django,15 min - 1 hour,3,False,True,False,True,0.036939701810400266,0.10063145042827984
+django__django-12869,django/django,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-12906,django/django,1-4 hours,3,True,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-12910,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12915,django/django,<15 min fix,2,False,True,False,True,0.04059938121469793,0.08857202813592671
+django__django-12928,django/django,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-12961,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-12965,django/django,15 min - 1 hour,1,False,False,False,False,0.02749401536101016,0.07985108998100471
+django__django-12973,django/django,<15 min fix,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-12983,django/django,15 min - 1 hour,3,False,True,False,True,0.03643058110767475,0.09851934821888464
+django__django-13012,django/django,15 min - 1 hour,1,False,False,False,False,0.04164008382762212,0.09497646709344758
+django__django-13023,django/django,<15 min fix,1,False,False,False,False,0.03637068455441292,0.08673245524387285
+django__django-13028,django/django,15 min - 1 hour,1,False,False,False,False,0.042719719200166595,0.09558965805746553
+django__django-13030,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13033,django/django,15 min - 1 hour,1,False,False,False,False,0.037394915615190163,0.07814778174762149
+django__django-13066,django/django,15 min - 1 hour,2,True,False,False,True,0.02749401536101016,0.07985108998100471
+django__django-13089,django/django,<15 min fix,0,False,False,False,False,0.0198272565434963,0.07991922231034003
+django__django-13109,django/django,<15 min fix,0,False,False,False,False,0.0198272565434963,0.07991922231034003
+django__django-13111,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13115,django/django,<15 min fix,2,False,True,False,True,0.023760962678966793,0.08877642512393272
+django__django-13158,django/django,15 min - 1 hour,1,False,False,False,False,0.02749401536101016,0.07985108998100471
+django__django-13162,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13170,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13192,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13195,django/django,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-13199,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13212,django/django,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-13220,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13230,django/django,<15 min fix,3,False,True,False,True,0.042462164021140746,0.11010184420589043
+django__django-13250,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13251,django/django,15 min - 1 hour,1,False,False,False,False,0.04066526742328592,0.08843576347725605
+django__django-13279,django/django,15 min - 1 hour,1,False,False,False,False,0.040232514825969234,0.09259183556671108
+django__django-13281,django/django,15 min - 1 hour,2,True,False,False,True,0.04036278982931369,0.09300062954272305
+django__django-13287,django/django,<15 min fix,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-13295,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13297,django/django,<15 min fix,1,False,False,False,False,0.0282726705534139,0.08530167632783096
+django__django-13300,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13301,django/django,15 min - 1 hour,0,False,False,False,False,0.04060387345619255,0.09702043697350742
+django__django-13315,django/django,15 min - 1 hour,1,False,False,False,False,0.04055745362741461,0.09013907171063928
+django__django-13321,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13325,django/django,15 min - 1 hour,2,True,False,True,True,0.04210577952923287,0.09715670163217809
+django__django-13343,django/django,15 min - 1 hour,1,False,False,False,False,0.037394915615190163,0.07814778174762149
+django__django-13344,django/django,1-4 hours,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-13346,django/django,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-13347,django/django,15 min - 1 hour,3,True,True,False,True,0.02940920765155708,0.09695230464417211
+django__django-13354,django/django,<15 min fix,1,False,False,False,False,0.04273469333848205,0.09715670163217809
+django__django-13363,django/django,<15 min fix,1,False,False,False,False,0.0198272565434963,0.07991922231034003
+django__django-13369,django/django,<15 min fix,2,True,True,False,True,0.03911993634913079,0.08203132451973522
+django__django-13371,django/django,15 min - 1 hour,2,False,True,False,True,0.0282726705534139,0.08530167632783096
+django__django-13386,django/django,15 min - 1 hour,2,True,True,False,True,0.03987313550639827,0.10117650906296245
+django__django-13401,django/django,15 min - 1 hour,1,False,False,False,False,0.03957515015392067,0.08938961608795067
+django__django-13406,django/django,<15 min fix,0,False,False,False,False,0.03318868016237836,0.08686871990254352
+django__django-13410,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-13417,django/django,<15 min fix,0,False,False,False,False,0.03725116388736177,0.08795883717190876
+django__django-13431,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13447,django/django,<15 min fix,2,False,True,False,True,0.034925680206971337,0.09204677693202847
+django__django-13449,django/django,1-4 hours,1,False,False,False,False,0.03202219478760427,0.0810093395797053
+django__django-13454,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13460,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13466,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13490,django/django,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-13495,django/django,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13512,django/django,<15 min fix,1,False,False,False,False,0.03193384737154308,0.09988199480559122
+django__django-13516,django/django,15 min - 1 hour,1,False,False,False,False,0.039024101863911864,0.08714124921988482
+django__django-13528,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13530,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13537,django/django,15 min - 1 hour,2,True,True,False,True,0.04210577952923285,0.09851934821888464
+django__django-13551,django/django,<15 min fix,0,False,False,False,False,0.0293118757525066,0.08945774841728599
+django__django-13553,django/django,15 min - 1 hour,0,False,False,True,True,0.044181195099755176,0.10390180223637557
+django__django-13556,django/django,<15 min fix,2,True,True,False,True,0.027348766219350222,0.11010184420589043
+django__django-13560,django/django,15 min - 1 hour,2,True,False,False,True,0.01657786852904218,0.07419610664617246
+django__django-13568,django/django,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-13569,django/django,15 min - 1 hour,0,False,False,False,False,0.04403744337192678,0.09715670163217809
+django__django-13578,django/django,<15 min fix,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-13589,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13590,django/django,15 min - 1 hour,1,False,False,False,False,0.03922775014500208,0.08795883717190876
+django__django-13615,django/django,15 min - 1 hour,2,True,True,False,True,0.03441206726275118,0.09381821749474699
+django__django-13616,django/django,<15 min fix,2,True,True,False,True,0.043803846814205655,0.10069958275761516
+django__django-13620,django/django,1-4 hours,2,False,True,False,True,0.023102100593086695,0.10989744721788446
+django__django-13658,django/django,15 min - 1 hour,0,False,False,False,False,0.020927855709682374,0.0865961905852022
+django__django-13665,django/django,<15 min fix,3,False,True,False,True,0.034891239688845783,0.08993467472263329
+django__django-13667,django/django,1-4 hours,3,False,True,False,True,0.02749401536101016,0.07985108998100471
+django__django-13670,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-13682,django/django,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13689,django/django,15 min - 1 hour,0,False,False,False,False,0.04076110190850484,0.08938961608795067
+django__django-13691,django/django,15 min - 1 hour,2,True,False,False,True,0.03566989488124954,0.08196319219039988
+django__django-13693,django/django,15 min - 1 hour,2,False,True,False,True,0.029123201609731857,0.09204677693202847
+django__django-13708,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13710,django/django,<15 min fix,2,False,True,False,True,0.02881623177426498,0.0911610566506692
+django__django-13714,django/django,15 min - 1 hour,2,True,True,False,True,0.03246992152323643,0.08414342672913039
+django__django-13722,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13741,django/django,<15 min fix,0,False,False,False,False,0.020927855709682374,0.0865961905852022
+django__django-13743,django/django,<15 min fix,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13744,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13768,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13773,django/django,15 min - 1 hour,2,False,True,False,True,0.03644106300449555,0.1000863917935972
+django__django-13774,django/django,1-4 hours,2,True,True,False,True,0.03681990870387661,0.1000863917935972
+django__django-13786,django/django,15 min - 1 hour,1,False,False,False,False,0.020730197083918333,0.08577860263317827
+django__django-13791,django/django,15 min - 1 hour,2,True,False,False,True,0.023760962678966793,0.08877642512393272
+django__django-13794,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-13797,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13808,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-13810,django/django,15 min - 1 hour,1,False,False,False,False,0.04385475888447821,0.09654351066816014
+django__django-13814,django/django,<15 min fix,2,False,True,False,True,0.03715682681597441,0.09531712874012423
+django__django-13820,django/django,15 min - 1 hour,1,False,False,False,False,0.027931260199821496,0.0865961905852022
+django__django-13821,django/django,<15 min fix,1,False,False,False,False,0.03725116388736177,0.08795883717190876
+django__django-13822,django/django,15 min - 1 hour,3,True,True,True,True,0.022901447139659574,0.10846666830184258
+django__django-13884,django/django,15 min - 1 hour,3,False,True,False,True,0.03702954664029301,0.08945774841728599
+django__django-13915,django/django,>4 hours,3,True,True,True,True,0.021989522116248248,0.07637634118490297
+django__django-13924,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-13933,django/django,<15 min fix,1,False,False,False,False,0.03831283029392765,0.09381821749474699
+django__django-13952,django/django,15 min - 1 hour,3,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-13992,django/django,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14007,django/django,1-4 hours,0,False,False,False,False,0.03753866734301854,0.0911610566506692
+django__django-14016,django/django,15 min - 1 hour,2,False,True,False,True,0.048812696080725936,0.10989744721788446
+django__django-14017,django/django,15 min - 1 hour,0,False,False,False,False,0.03521767590412274,0.07998735463967536
+django__django-14019,django/django,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14030,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14034,django/django,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14043,django/django,15 min - 1 hour,3,False,True,False,True,0.026303571364931354,0.1000863917935972
+django__django-14071,django/django,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14077,django/django,15 min - 1 hour,2,False,True,False,True,0.03934305101003107,0.08959401307595664
+django__django-14122,django/django,15 min - 1 hour,1,False,False,False,False,0.037394915615190163,0.07814778174762149
+django__django-14140,django/django,15 min - 1 hour,1,False,False,False,False,0.03281133187682885,0.11384912231933352
+django__django-14155,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14164,django/django,15 min - 1 hour,3,False,True,False,True,0.02868595677092051,0.08686871990254352
+django__django-14170,django/django,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14182,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14238,django/django,15 min - 1 hour,0,False,False,False,False,0.037776756142234316,0.08938961608795067
+django__django-14266,django/django,15 min - 1 hour,3,True,True,False,True,0.030285194743011303,0.09388634982408232
+django__django-14267,django/django,15 min - 1 hour,3,True,True,False,True,0.03951675101449037,0.10744468336181263
+django__django-14313,django/django,>4 hours,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-14315,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14324,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14336,django/django,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14351,django/django,15 min - 1 hour,0,False,False,False,False,0.03451838364479091,0.09259183556671108
+django__django-14368,django/django,15 min - 1 hour,2,True,True,False,True,0.04057093035189854,0.11446231328335145
+django__django-14372,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14373,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14376,django/django,<15 min fix,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-14382,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14396,django/django,<15 min fix,3,False,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-14404,django/django,<15 min fix,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-14411,django/django,<15 min fix,2,False,True,False,True,0.04381732353868957,0.09715670163217809
+django__django-14416,django/django,15 min - 1 hour,1,False,False,False,False,0.04031487258670422,0.11446231328335145
+django__django-14430,django/django,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-14441,django/django,<15 min fix,2,True,True,False,True,0.03743684320247344,0.08938961608795067
+django__django-14447,django/django,15 min - 1 hour,2,False,True,False,True,0.027799487782645474,0.0865961905852022
+django__django-14451,django/django,15 min - 1 hour,2,False,True,False,True,0.020586445356089954,0.08523354399849564
+django__django-14453,django/django,<15 min fix,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14471,django/django,1-4 hours,3,False,True,False,True,0.03521767590412274,0.07998735463967536
+django__django-14480,django/django,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14493,django/django,<15 min fix,1,False,False,False,False,0.033672344829967595,0.0885038958065914
+django__django-14495,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-14500,django/django,15 min - 1 hour,1,False,False,False,False,0.045301260645751316,0.09654351066816014
+django__django-14508,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-14513,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14534,django/django,<15 min fix,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-14539,django/django,<15 min fix,1,False,False,False,False,0.041352580371965375,0.09204677693202847
+django__django-14559,django/django,15 min - 1 hour,0,False,False,False,False,0.04467833649182831,0.09558965805746553
+django__django-14580,django/django,<15 min fix,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-14602,django/django,15 min - 1 hour,2,True,True,False,True,0.04085693639372378,0.08993467472263329
+django__django-14608,django/django,<15 min fix,1,False,False,False,False,0.04273768816614515,0.09715670163217809
+django__django-14631,django/django,1-4 hours,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-14634,django/django,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14641,django/django,15 min - 1 hour,2,True,False,False,True,0.04674027533786671,0.11582495987005803
+django__django-14667,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14672,django/django,15 min - 1 hour,0,False,False,False,False,0.03443452847022435,0.0911610566506692
+django__django-14681,django/django,1-4 hours,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-14725,django/django,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-14730,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14733,django/django,1-4 hours,2,False,True,False,True,0.038803982030674644,0.0875500431958968
+django__django-14751,django/django,1-4 hours,2,True,False,False,True,0.021989522116248248,0.07637634118490297
+django__django-14752,django/django,<15 min fix,1,False,False,False,False,0.020730197083918333,0.08577860263317827
+django__django-14765,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-14771,django/django,15 min - 1 hour,1,False,False,False,False,0.03829635874178066,0.09170611528535182
+django__django-14779,django/django,15 min - 1 hour,2,False,True,False,True,0.033669350002304525,0.08938961608795067
+django__django-14785,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14787,django/django,<15 min fix,0,False,False,False,False,0.041072563985466354,0.08993467472263329
+django__django-14802,django/django,1-4 hours,2,True,False,False,True,0.027068749832851187,0.10144903838030375
+django__django-14832,django/django,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-14855,django/django,<15 min fix,0,False,False,False,False,0.02940920765155708,0.09695230464417211
+django__django-14861,django/django,15 min - 1 hour,3,False,True,False,True,0.02868595677092051,0.08686871990254352
+django__django-14871,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14880,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14894,django/django,15 min - 1 hour,1,False,False,True,True,0.011929895995924401,0.03590573755971799
+django__django-14919,django/django,15 min - 1 hour,3,False,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-14935,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14996,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-14997,django/django,1-4 hours,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-14999,django/django,<15 min fix,1,False,False,False,False,0.049491024546416136,0.10390180223637557
+django__django-15018,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15022,django/django,15 min - 1 hour,1,False,False,False,False,0.05055119353915048,0.11527990123537538
+django__django-15031,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15037,django/django,15 min - 1 hour,1,False,False,False,False,0.033871500869563184,0.08945774841728599
+django__django-15044,django/django,1-4 hours,3,True,True,True,True,0.0282726705534139,0.08530167632783096
+django__django-15061,django/django,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15062,django/django,15 min - 1 hour,2,False,True,False,True,0.04195903297374138,0.09238743857870511
+django__django-15087,django/django,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15098,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15102,django/django,15 min - 1 hour,2,False,True,False,True,0.03541533452988677,0.09797428958420203
+django__django-15103,django/django,15 min - 1 hour,1,False,False,False,False,0.040999190707720616,0.08857202813592671
+django__django-15104,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15108,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15111,django/django,15 min - 1 hour,2,True,True,False,True,0.0270986981094821,0.08393902974112441
+django__django-15128,django/django,1-4 hours,1,False,False,False,False,0.03292363791419477,0.1000863917935972
+django__django-15135,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15139,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15180,django/django,<15 min fix,2,True,True,False,True,0.023760962678966793,0.08877642512393272
+django__django-15202,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15213,django/django,<15 min fix,2,False,True,False,True,0.04364212612039873,0.09436327612942962
+django__django-15240,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15248,django/django,1-4 hours,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-15252,django/django,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15268,django/django,1-4 hours,1,False,False,False,False,0.03246992152323643,0.08414342672913039
+django__django-15280,django/django,15 min - 1 hour,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-15292,django/django,15 min - 1 hour,2,False,True,False,True,0.033807112074806724,0.0885038958065914
+django__django-15297,django/django,<15 min fix,2,False,True,False,True,0.03723469233521476,0.0885038958065914
+django__django-15315,django/django,<15 min fix,1,False,False,False,False,0.03725116388736177,0.08795883717190876
+django__django-15316,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-15318,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15320,django/django,<15 min fix,1,False,False,True,True,0.011929895995924401,0.03590573755971799
+django__django-15334,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15368,django/django,<15 min fix,1,False,False,False,False,0.026883070517739523,0.08312144178910047
+django__django-15380,django/django,<15 min fix,1,False,False,False,False,0.03934305101003107,0.08959401307595664
+django__django-15382,django/django,15 min - 1 hour,1,False,False,False,False,0.03988661223088215,0.09238743857870511
+django__django-15401,django/django,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-15413,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15414,django/django,<15 min fix,2,False,True,False,True,0.0270986981094821,0.08393902974112441
+django__django-15423,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-15438,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15467,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15474,django/django,15 min - 1 hour,1,False,False,False,False,0.039024101863911864,0.08714124921988482
+django__django-15481,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15492,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-15498,django/django,15 min - 1 hour,2,True,False,False,True,0.04085094673839759,0.08795883717190876
+django__django-15499,django/django,<15 min fix,0,False,False,False,False,0.03566989488124954,0.08196319219039988
+django__django-15503,django/django,1-4 hours,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-15526,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15554,django/django,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-15561,django/django,15 min - 1 hour,1,False,False,False,False,0.03911993634913079,0.08203132451973522
+django__django-15563,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15569,django/django,<15 min fix,1,False,False,False,False,0.027583860190902892,0.08577860263317827
+django__django-15572,django/django,<15 min fix,1,False,False,False,False,0.03864525616453079,0.08938961608795067
+django__django-15576,django/django,15 min - 1 hour,2,True,False,False,True,0.03425034656894425,0.08945774841728599
+django__django-15586,django/django,<15 min fix,2,True,False,False,True,0.04170746745004168,0.09238743857870511
+django__django-15607,django/django,<15 min fix,2,False,True,False,True,0.03132739476976709,0.10069958275761516
+django__django-15620,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-15648,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15669,django/django,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15671,django/django,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-15678,django/django,<15 min fix,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-15682,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15689,django/django,15 min - 1 hour,2,False,True,False,True,0.021989522116248248,0.07637634118490297
+django__django-15695,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-15698,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15703,django/django,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15731,django/django,15 min - 1 hour,1,False,False,False,False,0.02912769385122648,0.0911610566506692
+django__django-15737,django/django,<15 min fix,2,False,True,False,True,0.03251933617967746,0.08455222070514236
+django__django-15741,django/django,<15 min fix,1,False,False,False,False,0.042638858853263115,0.09695230464417211
+django__django-15742,django/django,15 min - 1 hour,2,True,True,False,True,0.037896549248757974,0.08993467472263329
+django__django-15747,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15752,django/django,<15 min fix,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-15766,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15781,django/django,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15819,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15828,django/django,1-4 hours,3,True,True,False,True,0.042018929527003195,0.09654351066816014
+django__django-15863,django/django,<15 min fix,1,False,False,False,False,0.041434938132700404,0.09102479199199855
+django__django-15916,django/django,15 min - 1 hour,0,False,False,False,False,0.03246992152323643,0.08414342672913039
+django__django-15925,django/django,15 min - 1 hour,2,False,True,False,True,0.042948823516393085,0.09715670163217809
+django__django-15930,django/django,<15 min fix,0,False,False,False,False,0.04271522695867195,0.09259183556671108
+django__django-15957,django/django,1-4 hours,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+django__django-15969,django/django,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-15987,django/django,<15 min fix,1,False,False,False,False,0.03754914923983934,0.09702043697350742
+django__django-15996,django/django,1-4 hours,2,False,True,False,True,0.020607409149731592,0.09715670163217809
+django__django-16002,django/django,15 min - 1 hour,3,False,True,False,True,0.034477953471339196,0.10151717070963909
+django__django-16032,django/django,15 min - 1 hour,1,False,False,False,False,0.03318868016237836,0.08686871990254352
+django__django-16041,django/django,<15 min fix,3,False,True,False,True,0.031980267200320996,0.0817587952023939
+django__django-16046,django/django,<15 min fix,2,False,True,False,True,0.04290839334294134,0.0996094654882499
+django__django-16053,django/django,<15 min fix,3,True,True,False,True,0.03927566738761154,0.08312144178910047
+django__django-16067,django/django,1-4 hours,2,True,True,False,True,0.04170746745004168,0.09238743857870511
+django__django-16076,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16082,django/django,15 min - 1 hour,1,False,False,False,False,0.03097999476084848,0.09306876187205838
+django__django-16100,django/django,<15 min fix,0,False,False,False,False,0.039257698421632986,0.0880269695012441
+django__django-16116,django/django,<15 min fix,1,False,False,False,False,0.041699980380883975,0.09702043697350742
+django__django-16117,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16136,django/django,15 min - 1 hour,1,False,False,False,False,0.04076110190850484,0.08938961608795067
+django__django-16139,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16142,django/django,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16143,django/django,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-16145,django/django,<15 min fix,0,False,False,False,False,0.026727339479258774,0.08203132451973522
+django__django-16229,django/django,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-16254,django/django,15 min - 1 hour,2,True,False,False,True,0.040344820863335136,0.08857202813592671
+django__django-16255,django/django,<15 min fix,0,False,False,False,False,0.029820996455232143,0.10124464139229777
+django__django-16256,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16260,django/django,<15 min fix,3,False,True,False,True,0.0404646139698588,0.08795883717190876
+django__django-16263,django/django,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16281,django/django,15 min - 1 hour,2,True,False,False,True,0.021989522116248248,0.07637634118490297
+django__django-16302,django/django,1-4 hours,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-16311,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16315,django/django,15 min - 1 hour,0,False,False,False,False,0.02749401536101016,0.07985108998100471
+django__django-16322,django/django,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16333,django/django,<15 min fix,0,False,False,False,False,0.026727339479258774,0.08203132451973522
+django__django-16343,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16379,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16398,django/django,<15 min fix,3,True,False,False,True,0.03246992152323643,0.08414342672913039
+django__django-16408,django/django,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-16429,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16454,django/django,15 min - 1 hour,0,False,False,False,False,0.03257923273293927,0.1000863917935972
+django__django-16485,django/django,15 min - 1 hour,1,False,False,False,False,0.020586445356089954,0.08523354399849564
+django__django-16493,django/django,15 min - 1 hour,1,False,False,False,False,0.031980267200320996,0.0817587952023939
+django__django-16511,django/django,1-4 hours,2,True,True,False,True,0.04085693639372378,0.08993467472263329
+django__django-16517,django/django,15 min - 1 hour,3,True,True,False,True,0.023760962678966793,0.08877642512393272
+django__django-16527,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16569,django/django,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16578,django/django,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16588,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-16595,django/django,<15 min fix,0,False,False,False,False,0.027246942078805132,0.08455222070514236
+django__django-16599,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-16603,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16612,django/django,15 min - 1 hour,0,False,False,False,False,0.031104280108866778,0.09702043697350742
+django__django-16614,django/django,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16631,django/django,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16642,django/django,<15 min fix,1,False,False,False,False,0.0452443589201526,0.09988199480559122
+django__django-16649,django/django,1-4 hours,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-16661,django/django,15 min - 1 hour,1,False,False,False,False,0.03767043976019456,0.09170611528535182
+django__django-16662,django/django,15 min - 1 hour,1,False,False,False,False,0.03271699480544148,0.08455222070514236
+django__django-16667,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16686,django/django,15 min - 1 hour,3,True,True,True,True,0.03202219478760427,0.0810093395797053
+django__django-16693,django/django,1-4 hours,2,False,True,False,True,0.022901447139659574,0.10846666830184258
+django__django-16746,django/django,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-16750,django/django,<15 min fix,3,False,True,False,True,0.041770358830966615,0.09436327612942962
+django__django-16757,django/django,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16786,django/django,1-4 hours,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+django__django-16801,django/django,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16816,django/django,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16819,django/django,15 min - 1 hour,1,False,False,False,False,0.038803982030674644,0.0875500431958968
+django__django-16824,django/django,<15 min fix,0,False,False,False,False,0.030542749922037163,0.0996094654882499
+django__django-16830,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-16865,django/django,15 min - 1 hour,2,True,True,False,True,0.0353704121149404,0.09565779038680085
+django__django-16873,django/django,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-16877,django/django,15 min - 1 hour,1,False,False,False,False,0.04031786741436732,0.10063145042827984
+django__django-16888,django/django,<15 min fix,2,True,True,False,True,0.04381732353868957,0.09715670163217809
+django__django-16899,django/django,<15 min fix,0,False,False,False,False,0.03919780186837116,0.08169066287305857
+django__django-16901,django/django,15 min - 1 hour,0,False,False,False,False,0.040964750189595056,0.08938961608795067
+django__django-16903,django/django,15 min - 1 hour,1,False,False,True,True,0.011929895995924401,0.03590573755971799
+django__django-16910,django/django,15 min - 1 hour,1,False,False,True,True,0.021989522116248248,0.07637634118490297
+django__django-16920,django/django,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+django__django-16938,django/django,15 min - 1 hour,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+django__django-16950,django/django,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+django__django-16952,django/django,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-17029,django/django,<15 min fix,1,False,False,False,False,0.0198272565434963,0.07991922231034003
+django__django-17058,django/django,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+django__django-17084,django/django,15 min - 1 hour,1,False,False,False,False,0.0293118757525066,0.08945774841728599
+django__django-8119,django/django,>4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+django__django-9296,django/django,<15 min fix,0,False,False,False,False,0.020730197083918333,0.08577860263317827
+mwaskom__seaborn-2457,mwaskom/seaborn,15 min - 1 hour,2,True,True,False,True,0.042881439893973514,0.09640724600948947
+mwaskom__seaborn-2766,mwaskom/seaborn,>4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+mwaskom__seaborn-2853,mwaskom/seaborn,<15 min fix,3,True,True,True,True,0.04064130880198119,0.0880269695012441
+mwaskom__seaborn-3010,mwaskom/seaborn,15 min - 1 hour,3,True,True,False,True,0.0198272565434963,0.07991922231034003
+mwaskom__seaborn-3069,mwaskom/seaborn,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+mwaskom__seaborn-3187,mwaskom/seaborn,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+mwaskom__seaborn-3190,mwaskom/seaborn,<15 min fix,2,True,False,False,True,0.05144215476892015,0.11527990123537538
+mwaskom__seaborn-3394,mwaskom/seaborn,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pallets__flask-5014,pallets/flask,<15 min fix,1,False,False,False,False,0.020586445356089954,0.08523354399849564
+psf__requests-1327,psf/requests,15 min - 1 hour,2,False,True,False,True,0.026535670508820934,0.10151717070963909
+psf__requests-1339,psf/requests,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+psf__requests-1376,psf/requests,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+psf__requests-1537,psf/requests,15 min - 1 hour,2,True,False,False,True,0.027799487782645474,0.0865961905852022
+psf__requests-1657,psf/requests,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+psf__requests-1713,psf/requests,15 min - 1 hour,2,True,True,False,True,0.04054247948909916,0.08938961608795067
+psf__requests-1733,psf/requests,15 min - 1 hour,2,True,True,False,True,0.04185571141936471,0.09300062954272305
+psf__requests-1766,psf/requests,<15 min fix,1,False,False,False,False,0.037562625964323276,0.0885038958065914
+psf__requests-1776,psf/requests,15 min - 1 hour,2,True,False,False,True,0.02749401536101016,0.07985108998100471
+psf__requests-1921,psf/requests,<15 min fix,1,False,False,False,False,0.045497421857683816,0.10124464139229777
+psf__requests-1944,psf/requests,1-4 hours,2,True,False,False,True,0.024858567017489768,0.09306876187205838
+psf__requests-1962,psf/requests,<15 min fix,2,True,True,False,True,0.04073714328720011,0.11848212071413583
+psf__requests-2148,psf/requests,15 min - 1 hour,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+psf__requests-2153,psf/requests,15 min - 1 hour,3,False,True,True,True,0.045542344272630174,0.11848212071413583
+psf__requests-2193,psf/requests,<15 min fix,3,True,True,False,True,0.038803982030674644,0.0875500431958968
+psf__requests-2317,psf/requests,<15 min fix,1,False,False,False,False,0.04681664344327555,0.11848212071413583
+psf__requests-2617,psf/requests,15 min - 1 hour,3,True,True,False,True,0.04345195456379241,0.0996094654882499
+psf__requests-2674,psf/requests,15 min - 1 hour,3,True,True,True,True,0.052289690997575,0.11848212071413583
+psf__requests-2821,psf/requests,15 min - 1 hour,3,True,True,False,True,0.041009672604541414,0.11848212071413583
+psf__requests-2873,psf/requests,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+psf__requests-2931,psf/requests,15 min - 1 hour,1,False,False,False,False,0.03354356724045469,0.10063145042827984
+psf__requests-4356,psf/requests,15 min - 1 hour,2,False,True,False,True,0.03907201910652132,0.10608203677510608
+pydata__xarray-2905,pydata/xarray,15 min - 1 hour,1,False,False,False,False,0.03202219478760427,0.0810093395797053
+pydata__xarray-2922,pydata/xarray,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-3095,pydata/xarray,15 min - 1 hour,1,False,False,False,False,0.03202219478760427,0.0810093395797053
+pydata__xarray-3114,pydata/xarray,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-3151,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.03950926394533267,0.08400716207045973
+pydata__xarray-3159,pydata/xarray,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-3302,pydata/xarray,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-3305,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.04090185880867013,0.10689962472713004
+pydata__xarray-3520,pydata/xarray,1-4 hours,2,True,False,False,True,0.021989522116248248,0.07637634118490297
+pydata__xarray-3649,pydata/xarray,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-3677,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.03731705009594978,0.08884455745326802
+pydata__xarray-3733,pydata/xarray,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-3905,pydata/xarray,<15 min fix,2,False,True,False,True,0.043758924399259276,0.09654351066816014
+pydata__xarray-3976,pydata/xarray,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4075,pydata/xarray,<15 min fix,1,False,False,False,False,0.020927855709682374,0.0865961905852022
+pydata__xarray-4094,pydata/xarray,<15 min fix,1,False,False,False,False,0.03318868016237836,0.08686871990254352
+pydata__xarray-4356,pydata/xarray,<15 min fix,1,False,False,False,False,0.028991429192555835,0.09204677693202847
+pydata__xarray-4419,pydata/xarray,15 min - 1 hour,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+pydata__xarray-4510,pydata/xarray,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4629,pydata/xarray,<15 min fix,0,False,False,False,False,0.020586445356089954,0.08523354399849564
+pydata__xarray-4687,pydata/xarray,15 min - 1 hour,1,False,False,False,False,0.03202219478760427,0.0810093395797053
+pydata__xarray-4695,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.033871500869563184,0.08945774841728599
+pydata__xarray-4759,pydata/xarray,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4767,pydata/xarray,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4802,pydata/xarray,<15 min fix,0,False,False,True,True,0.03461721295767293,0.09259183556671108
+pydata__xarray-4819,pydata/xarray,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4879,pydata/xarray,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4911,pydata/xarray,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-4994,pydata/xarray,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-5033,pydata/xarray,15 min - 1 hour,3,False,True,False,True,0.04483107270264598,0.10989744721788446
+pydata__xarray-5131,pydata/xarray,<15 min fix,2,True,False,False,True,0.027947731751968505,0.08720938154922014
+pydata__xarray-5180,pydata/xarray,<15 min fix,0,False,False,False,False,0.04076110190850484,0.08938961608795067
+pydata__xarray-5187,pydata/xarray,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-5362,pydata/xarray,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+pydata__xarray-6386,pydata/xarray,<15 min fix,2,False,True,False,True,0.03521767590412274,0.07998735463967536
+pydata__xarray-6394,pydata/xarray,<15 min fix,2,False,True,False,True,0.03246992152323643,0.08414342672913039
+pydata__xarray-6461,pydata/xarray,<15 min fix,0,False,False,False,False,0.040636816560486545,0.08795883717190876
+pydata__xarray-6548,pydata/xarray,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-6599,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.032153967204780295,0.10901172693652518
+pydata__xarray-6601,pydata/xarray,15 min - 1 hour,2,True,True,False,True,0.03875456737423364,0.09715670163217809
+pydata__xarray-6721,pydata/xarray,15 min - 1 hour,1,False,False,False,False,0.03246992152323643,0.08414342672913039
+pydata__xarray-6823,pydata/xarray,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-6882,pydata/xarray,15 min - 1 hour,2,True,False,False,True,0.03815260701395228,0.09259183556671108
+pydata__xarray-6889,pydata/xarray,<15 min fix,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+pydata__xarray-7003,pydata/xarray,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pydata__xarray-7147,pydata/xarray,<15 min fix,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+pydata__xarray-7150,pydata/xarray,15 min - 1 hour,2,True,True,False,True,0.03202219478760427,0.0810093395797053
+pydata__xarray-7203,pydata/xarray,<15 min fix,2,False,True,False,True,0.04715356155537333,0.10390180223637557
+pydata__xarray-7229,pydata/xarray,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+pydata__xarray-7233,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.03606071989128297,0.08400716207045973
+pydata__xarray-7347,pydata/xarray,<15 min fix,3,True,False,False,True,0.023760962678966793,0.08877642512393272
+pydata__xarray-7391,pydata/xarray,<15 min fix,2,False,True,False,True,0.0377168595889725,0.08993467472263329
+pydata__xarray-7393,pydata/xarray,15 min - 1 hour,0,False,False,False,False,0.030285194743011303,0.09388634982408232
+pydata__xarray-7400,pydata/xarray,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-4339,pylint-dev/pylint,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-4516,pylint-dev/pylint,15 min - 1 hour,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-4551,pylint-dev/pylint,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-4604,pylint-dev/pylint,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-4661,pylint-dev/pylint,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-4970,pylint-dev/pylint,<15 min fix,1,False,False,False,False,0.023590257502170583,0.11446231328335145
+pylint-dev__pylint-5136,pylint-dev/pylint,1-4 hours,3,True,True,False,True,0.02749401536101016,0.07985108998100471
+pylint-dev__pylint-5595,pylint-dev/pylint,<15 min fix,3,True,True,False,True,0.04314498472832556,0.09381821749474699
+pylint-dev__pylint-5613,pylint-dev/pylint,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-5839,pylint-dev/pylint,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-6059,pylint-dev/pylint,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-6412,pylint-dev/pylint,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-6506,pylint-dev/pylint,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-6526,pylint-dev/pylint,15 min - 1 hour,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-6528,pylint-dev/pylint,15 min - 1 hour,0,False,False,False,False,0.04090185880867013,0.10689962472713004
+pylint-dev__pylint-6820,pylint-dev/pylint,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-6903,pylint-dev/pylint,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-7080,pylint-dev/pylint,15 min - 1 hour,0,False,False,False,False,0.03771086993364628,0.10901172693652518
+pylint-dev__pylint-7114,pylint-dev/pylint,15 min - 1 hour,2,False,True,False,True,0.03681990870387661,0.1000863917935972
+pylint-dev__pylint-7228,pylint-dev/pylint,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-7277,pylint-dev/pylint,<15 min fix,1,False,False,False,False,0.03205813271956136,0.11010184420589043
+pylint-dev__pylint-7993,pylint-dev/pylint,15 min - 1 hour,2,False,True,False,True,0.03829635874178066,0.09170611528535182
+pylint-dev__pylint-8124,pylint-dev/pylint,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-8281,pylint-dev/pylint,1-4 hours,2,True,True,False,True,0.03969194843278122,0.10063145042827984
+pylint-dev__pylint-8799,pylint-dev/pylint,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pylint-dev__pylint-8898,pylint-dev/pylint,1-4 hours,1,False,False,False,False,0.022122791947255815,0.10403806689504623
+pylint-dev__pylint-8929,pylint-dev/pylint,>4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-10051,pytest-dev/pytest,15 min - 1 hour,1,False,False,False,False,0.03039300853888259,0.09443140845876495
+pytest-dev__pytest-10343,pytest-dev/pytest,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-10356,pytest-dev/pytest,1-4 hours,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+pytest-dev__pytest-10552,pytest-dev/pytest,15 min - 1 hour,2,True,False,False,True,0.04085693639372378,0.08993467472263329
+pytest-dev__pytest-10893,pytest-dev/pytest,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-10988,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-11041,pytest-dev/pytest,1-4 hours,2,False,True,False,True,0.0282726705534139,0.08530167632783096
+pytest-dev__pytest-11044,pytest-dev/pytest,<15 min fix,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+pytest-dev__pytest-11047,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,0.03004560852996398,0.10403806689504623
+pytest-dev__pytest-11143,pytest-dev/pytest,<15 min fix,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-11160,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-5205,pytest-dev/pytest,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-5262,pytest-dev/pytest,<15 min fix,0,False,False,False,False,0.0384910225398816,0.09259183556671108
+pytest-dev__pytest-5281,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-5413,pytest-dev/pytest,<15 min fix,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-5495,pytest-dev/pytest,15 min - 1 hour,1,False,False,True,True,0.02856766107822841,0.10144903838030375
+pytest-dev__pytest-5550,pytest-dev/pytest,<15 min fix,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-5559,pytest-dev/pytest,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-5631,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,0.03595739833690631,0.08516541166916032
+pytest-dev__pytest-5692,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.05238552548279391,0.11582495987005803
+pytest-dev__pytest-5809,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.027246942078805132,0.08455222070514236
+pytest-dev__pytest-5980,pytest-dev/pytest,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-6186,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-6197,pytest-dev/pytest,1-4 hours,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+pytest-dev__pytest-6202,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-6323,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-6680,pytest-dev/pytest,<15 min fix,3,True,True,False,True,0.022985302314226134,0.10901172693652518
+pytest-dev__pytest-6926,pytest-dev/pytest,15 min - 1 hour,3,True,True,True,True,0.04085693639372378,0.08993467472263329
+pytest-dev__pytest-7046,pytest-dev/pytest,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-7122,pytest-dev/pytest,>4 hours,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-7151,pytest-dev/pytest,1-4 hours,2,False,True,False,True,0.04228247436135524,0.09695230464417211
+pytest-dev__pytest-7158,pytest-dev/pytest,15 min - 1 hour,3,False,True,False,True,0.024858567017489768,0.09306876187205838
+pytest-dev__pytest-7186,pytest-dev/pytest,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-7205,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.039464341530386284,0.09702043697350742
+pytest-dev__pytest-7236,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,0.033152742230421264,0.08673245524387285
+pytest-dev__pytest-7352,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-7432,pytest-dev/pytest,<15 min fix,0,False,False,False,False,0.04082099846176667,0.08884455745326802
+pytest-dev__pytest-7466,pytest-dev/pytest,<15 min fix,2,True,True,False,True,0.04469331063014379,0.10608203677510608
+pytest-dev__pytest-7468,pytest-dev/pytest,<15 min fix,2,True,True,False,True,0.04239627781255271,0.10117650906296245
+pytest-dev__pytest-7490,pytest-dev/pytest,15 min - 1 hour,1,False,False,False,False,0.03521767590412274,0.07998735463967536
+pytest-dev__pytest-7499,pytest-dev/pytest,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-7500,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-7521,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.037394915615190163,0.07814778174762149
+pytest-dev__pytest-7571,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,0.03803281390742862,0.09204677693202847
+pytest-dev__pytest-7982,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.0232698109422198,0.10390180223637557
+pytest-dev__pytest-8022,pytest-dev/pytest,<15 min fix,2,True,False,False,True,0.036992111294504366,0.0996094654882499
+pytest-dev__pytest-8055,pytest-dev/pytest,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-8365,pytest-dev/pytest,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-8399,pytest-dev/pytest,15 min - 1 hour,0,False,False,False,False,0.028386474004611372,0.08993467472263329
+pytest-dev__pytest-8428,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-8447,pytest-dev/pytest,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-8641,pytest-dev/pytest,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-8906,pytest-dev/pytest,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-8952,pytest-dev/pytest,<15 min fix,2,False,True,False,True,0.03808222856386963,0.09988199480559122
+pytest-dev__pytest-9064,pytest-dev/pytest,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-9066,pytest-dev/pytest,<15 min fix,2,False,True,False,True,0.029219036094950773,0.09259183556671108
+pytest-dev__pytest-9249,pytest-dev/pytest,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-9279,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+pytest-dev__pytest-9475,pytest-dev/pytest,15 min - 1 hour,3,True,True,True,True,0.037233194921383224,0.11848212071413583
+pytest-dev__pytest-9646,pytest-dev/pytest,15 min - 1 hour,3,False,True,True,True,0.018972233245683714,0.09095665966266323
+pytest-dev__pytest-9681,pytest-dev/pytest,15 min - 1 hour,2,True,False,False,True,0.03032113267496839,0.09306876187205838
+pytest-dev__pytest-9709,pytest-dev/pytest,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+pytest-dev__pytest-9798,pytest-dev/pytest,<15 min fix,0,False,False,False,False,0.04021304844615911,0.0880269695012441
+pytest-dev__pytest-9911,pytest-dev/pytest,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10297,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.02807950416914452,0.08720938154922014
+scikit-learn__scikit-learn-10377,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,0.03202219478760427,0.0810093395797053
+scikit-learn__scikit-learn-10382,scikit-learn/scikit-learn,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10397,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10428,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10443,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10452,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10483,scikit-learn/scikit-learn,>4 hours,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10495,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10508,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10558,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10581,scikit-learn/scikit-learn,1-4 hours,2,True,False,True,True,0.04412878561565107,0.09851934821888464
+scikit-learn__scikit-learn-10777,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10803,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.038503001850533965,0.10608203677510608
+scikit-learn__scikit-learn-10844,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10870,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,0.03922775014500208,0.08795883717190876
+scikit-learn__scikit-learn-10899,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10908,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.0397009329157705,0.09102479199199855
+scikit-learn__scikit-learn-10913,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-10986,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.04068623121692756,0.09259183556671108
+scikit-learn__scikit-learn-11040,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-11043,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-11264,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-11281,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.03521767590412274,0.07998735463967536
+scikit-learn__scikit-learn-11310,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.039464341530386284,0.09702043697350742
+scikit-learn__scikit-learn-11315,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-11333,scikit-learn/scikit-learn,<15 min fix,2,True,False,False,True,0.027246942078805132,0.08455222070514236
+scikit-learn__scikit-learn-11346,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.046096387390302085,0.10390180223637557
+scikit-learn__scikit-learn-11391,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-11496,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-11578,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.027931260199821496,0.0865961905852022
+scikit-learn__scikit-learn-11585,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-11596,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-12421,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-12462,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-12486,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.025427584273477116,0.09565779038680085
+scikit-learn__scikit-learn-12583,scikit-learn/scikit-learn,1-4 hours,2,True,True,False,True,0.02749401536101016,0.07985108998100471
+scikit-learn__scikit-learn-12585,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-12625,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.04350136922023343,0.10124464139229777
+scikit-learn__scikit-learn-12682,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.033152742230421264,0.08673245524387285
+scikit-learn__scikit-learn-12704,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,0.04262837695644231,0.09531712874012423
+scikit-learn__scikit-learn-12827,scikit-learn/scikit-learn,1-4 hours,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-12860,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-12961,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-12973,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.039464341530386284,0.09259183556671108
+scikit-learn__scikit-learn-12983,scikit-learn/scikit-learn,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-12989,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13010,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13013,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13017,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.035533630222578876,0.09259183556671108
+scikit-learn__scikit-learn-13087,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-13124,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.030947051656554474,0.09565779038680085
+scikit-learn__scikit-learn-13135,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,0.03911993634913079,0.08203132451973522
+scikit-learn__scikit-learn-13142,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,0.03950926394533267,0.08400716207045973
+scikit-learn__scikit-learn-13143,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13157,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13165,scikit-learn/scikit-learn,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13174,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13253,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,0.027637767088838527,0.10403806689504623
+scikit-learn__scikit-learn-13283,scikit-learn/scikit-learn,>4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13302,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.03521767590412274,0.07998735463967536
+scikit-learn__scikit-learn-13313,scikit-learn/scikit-learn,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13328,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.03352559827447613,0.08884455745326802
+scikit-learn__scikit-learn-13333,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13363,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13368,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,0.02868595677092051,0.08686871990254352
+scikit-learn__scikit-learn-13436,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13439,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,0.031980267200320996,0.0817587952023939
+scikit-learn__scikit-learn-13447,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.0270986981094821,0.08393902974112441
+scikit-learn__scikit-learn-13454,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,0.03350762930849759,0.11527990123537538
+scikit-learn__scikit-learn-13485,scikit-learn/scikit-learn,<15 min fix,2,True,False,False,True,0.0392292475588336,0.09204677693202847
+scikit-learn__scikit-learn-13496,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,0.03221386375804212,0.08339397110644177
+scikit-learn__scikit-learn-13497,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,True,True,0.020607409149731592,0.09715670163217809
+scikit-learn__scikit-learn-13536,scikit-learn/scikit-learn,<15 min fix,3,False,True,False,True,0.037394915615190163,0.07814778174762149
+scikit-learn__scikit-learn-13549,scikit-learn/scikit-learn,1-4 hours,3,False,True,True,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-13554,scikit-learn/scikit-learn,1-4 hours,2,True,True,False,True,0.029166626610846687,0.10144903838030375
+scikit-learn__scikit-learn-13584,scikit-learn/scikit-learn,<15 min fix,2,True,False,False,True,0.0346291922683253,0.09204677693202847
+scikit-learn__scikit-learn-13641,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13704,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.026399405850150274,0.10063145042827984
+scikit-learn__scikit-learn-13779,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.03464416640664076,0.09204677693202847
+scikit-learn__scikit-learn-13910,scikit-learn/scikit-learn,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13915,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-13960,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-13983,scikit-learn/scikit-learn,<15 min fix,2,False,True,False,True,0.020927855709682374,0.0865961905852022
+scikit-learn__scikit-learn-14053,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.04333365887110033,0.10124464139229777
+scikit-learn__scikit-learn-14087,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.03953921222196357,0.10069958275761516
+scikit-learn__scikit-learn-14114,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.03976831653819006,0.11848212071413583
+scikit-learn__scikit-learn-14237,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-14450,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.026535670508820934,0.10151717070963909
+scikit-learn__scikit-learn-14496,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-14591,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.021989522116248248,0.07637634118490297
+scikit-learn__scikit-learn-14629,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-14710,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.05067398147333719,0.11848212071413583
+scikit-learn__scikit-learn-14732,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.020927855709682374,0.0865961905852022
+scikit-learn__scikit-learn-14764,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.04617125808187937,0.09988199480559122
+scikit-learn__scikit-learn-14806,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-14869,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,0.030611630958288255,0.10846666830184258
+scikit-learn__scikit-learn-14878,scikit-learn/scikit-learn,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-14890,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.03547972332464324,0.11010184420589043
+scikit-learn__scikit-learn-14894,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.028386474004611372,0.08993467472263329
+scikit-learn__scikit-learn-14908,scikit-learn/scikit-learn,<15 min fix,3,False,True,False,True,0.035256608663742944,0.10689962472713004
+scikit-learn__scikit-learn-14983,scikit-learn/scikit-learn,<15 min fix,0,False,False,False,False,0.03318868016237836,0.08686871990254352
+scikit-learn__scikit-learn-15028,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-15086,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-15094,scikit-learn/scikit-learn,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-15096,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-15100,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.020586445356089954,0.08523354399849564
+scikit-learn__scikit-learn-15138,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-15393,scikit-learn/scikit-learn,<15 min fix,3,True,True,False,True,0.04403594595809523,0.11848212071413583
+scikit-learn__scikit-learn-15495,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.02856766107822841,0.10144903838030375
+scikit-learn__scikit-learn-15512,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.038955220827660765,0.09443140845876495
+scikit-learn__scikit-learn-15524,scikit-learn/scikit-learn,<15 min fix,2,False,True,False,True,0.021989522116248248,0.07637634118490297
+scikit-learn__scikit-learn-15625,scikit-learn/scikit-learn,15 min - 1 hour,3,True,True,False,True,0.0401860949971913,0.1000863917935972
+scikit-learn__scikit-learn-24677,scikit-learn/scikit-learn,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-25102,scikit-learn/scikit-learn,1-4 hours,1,False,False,False,False,0.0385928466804267,0.10151717070963909
+scikit-learn__scikit-learn-25232,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.03922775014500208,0.08795883717190876
+scikit-learn__scikit-learn-25500,scikit-learn/scikit-learn,1-4 hours,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+scikit-learn__scikit-learn-25570,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.047855848642368255,0.10069958275761516
+scikit-learn__scikit-learn-25601,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,False,True,0.03202219478760427,0.0810093395797053
+scikit-learn__scikit-learn-25694,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-25697,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-25744,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-25752,scikit-learn/scikit-learn,1-4 hours,2,False,True,False,True,0.03982971050528343,0.10846666830184258
+scikit-learn__scikit-learn-25931,scikit-learn/scikit-learn,15 min - 1 hour,0,False,False,False,False,0.04115342433236982,0.08993467472263329
+scikit-learn__scikit-learn-25973,scikit-learn/scikit-learn,<15 min fix,1,False,False,False,False,0.042584951955327466,0.09497646709344758
+scikit-learn__scikit-learn-26194,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-26242,scikit-learn/scikit-learn,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-26318,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-26323,scikit-learn/scikit-learn,15 min - 1 hour,1,False,False,False,False,0.03566989488124954,0.08196319219039988
+scikit-learn__scikit-learn-26400,scikit-learn/scikit-learn,<15 min fix,2,True,True,False,True,0.021266271235611686,0.09988199480559122
+scikit-learn__scikit-learn-8554,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,True,True,0.026727339479258774,0.08203132451973522
+scikit-learn__scikit-learn-9274,scikit-learn/scikit-learn,15 min - 1 hour,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+scikit-learn__scikit-learn-9775,scikit-learn/scikit-learn,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-10067,sphinx-doc/sphinx,>4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-10137,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,0.04654411412593421,0.10546884581108812
+sphinx-doc__sphinx-10207,sphinx-doc/sphinx,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-10325,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,0.04252505540206565,0.09558965805746553
+sphinx-doc__sphinx-10466,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,0.04235734505293253,0.09436327612942962
+sphinx-doc__sphinx-10481,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-10492,sphinx-doc/sphinx,<15 min fix,1,False,False,True,True,0.026883070517739523,0.08312144178910047
+sphinx-doc__sphinx-10504,sphinx-doc/sphinx,<15 min fix,3,True,True,False,True,0.039450864805902375,0.0834621034357771
+sphinx-doc__sphinx-10614,sphinx-doc/sphinx,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-10673,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,0.04316445110813565,0.10901172693652518
+sphinx-doc__sphinx-10807,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-11109,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-11192,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,0.03202219478760427,0.0810093395797053
+sphinx-doc__sphinx-11266,sphinx-doc/sphinx,<15 min fix,3,False,True,True,True,0.01657786852904218,0.07419610664617246
+sphinx-doc__sphinx-11311,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-11312,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-11489,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+sphinx-doc__sphinx-11510,sphinx-doc/sphinx,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-11550,sphinx-doc/sphinx,1-4 hours,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7234,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7268,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,False,True,0.03521767590412274,0.07998735463967536
+sphinx-doc__sphinx-7305,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7380,sphinx-doc/sphinx,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7395,sphinx-doc/sphinx,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7590,sphinx-doc/sphinx,>4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7615,sphinx-doc/sphinx,15 min - 1 hour,3,False,True,False,True,0.021989522116248248,0.07637634118490297
+sphinx-doc__sphinx-7670,sphinx-doc/sphinx,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7738,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7757,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,0.03202219478760427,0.0810093395797053
+sphinx-doc__sphinx-7762,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-7814,sphinx-doc/sphinx,<15 min fix,3,False,True,False,True,0.03546025694483316,0.10124464139229777
+sphinx-doc__sphinx-7859,sphinx-doc/sphinx,<15 min fix,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+sphinx-doc__sphinx-7889,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.04305663731226437,0.09851934821888464
+sphinx-doc__sphinx-7975,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,0.039380486355819734,0.09715670163217809
+sphinx-doc__sphinx-8007,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8035,sphinx-doc/sphinx,15 min - 1 hour,1,False,False,False,False,0.03202219478760427,0.0810093395797053
+sphinx-doc__sphinx-8056,sphinx-doc/sphinx,15 min - 1 hour,1,False,False,False,False,0.025427584273477116,0.09565779038680085
+sphinx-doc__sphinx-8075,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8117,sphinx-doc/sphinx,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8125,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,0.021989522116248248,0.07637634118490297
+sphinx-doc__sphinx-8264,sphinx-doc/sphinx,<15 min fix,3,True,True,False,True,0.042477138159456196,0.10151717070963909
+sphinx-doc__sphinx-8269,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.03911993634913079,0.08203132451973522
+sphinx-doc__sphinx-8273,sphinx-doc/sphinx,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8284,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8459,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,0.03318868016237836,0.08686871990254352
+sphinx-doc__sphinx-8474,sphinx-doc/sphinx,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8475,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,0.038862381170104904,0.08652805825586687
+sphinx-doc__sphinx-8506,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,0.022985302314226134,0.10901172693652518
+sphinx-doc__sphinx-8509,sphinx-doc/sphinx,<15 min fix,3,False,True,False,True,0.038097202702185085,0.09300062954272305
+sphinx-doc__sphinx-8548,sphinx-doc/sphinx,1-4 hours,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8551,sphinx-doc/sphinx,15 min - 1 hour,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+sphinx-doc__sphinx-8552,sphinx-doc/sphinx,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+sphinx-doc__sphinx-8595,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,0.04807147623411082,0.11384912231933352
+sphinx-doc__sphinx-8621,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+sphinx-doc__sphinx-8633,sphinx-doc/sphinx,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8674,sphinx-doc/sphinx,1-4 hours,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+sphinx-doc__sphinx-8679,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,0.03246992152323643,0.08414342672913039
+sphinx-doc__sphinx-8684,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,0.04431296751693119,0.10744468336181263
+sphinx-doc__sphinx-8707,sphinx-doc/sphinx,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-8729,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,0.025427584273477116,0.09565779038680085
+sphinx-doc__sphinx-8969,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,0.03246992152323643,0.08414342672913039
+sphinx-doc__sphinx-9207,sphinx-doc/sphinx,15 min - 1 hour,2,True,True,False,True,0.03521767590412274,0.07998735463967536
+sphinx-doc__sphinx-9230,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.02868595677092051,0.08686871990254352
+sphinx-doc__sphinx-9231,sphinx-doc/sphinx,<15 min fix,2,True,False,False,True,0.047548878806901396,0.11446231328335145
+sphinx-doc__sphinx-9234,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-9258,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.03246992152323643,0.08414342672913039
+sphinx-doc__sphinx-9281,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.0293118757525066,0.08945774841728599
+sphinx-doc__sphinx-9320,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,0.037448822513125805,0.08938961608795067
+sphinx-doc__sphinx-9367,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,0.031980267200320996,0.0817587952023939
+sphinx-doc__sphinx-9386,sphinx-doc/sphinx,15 min - 1 hour,2,True,False,False,True,0.01657786852904218,0.07419610664617246
+sphinx-doc__sphinx-9464,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.03192037064705919,0.1000863917935972
+sphinx-doc__sphinx-9591,sphinx-doc/sphinx,<15 min fix,1,False,False,False,False,0.0282726705534139,0.08530167632783096
+sphinx-doc__sphinx-9711,sphinx-doc/sphinx,<15 min fix,0,False,False,False,False,0.04458100459277784,0.11582495987005803
+sphinx-doc__sphinx-9828,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,0.01657786852904218,0.07419610664617246
+sphinx-doc__sphinx-9829,sphinx-doc/sphinx,<15 min fix,2,False,True,False,True,0.022901447139659574,0.10846666830184258
+sphinx-doc__sphinx-9902,sphinx-doc/sphinx,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sphinx-doc__sphinx-9997,sphinx-doc/sphinx,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-11384,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.047930719333945514,0.11527990123537538
+sympy__sympy-11400,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.018972233245683714,0.09095665966266323
+sympy__sympy-11438,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.041204336402642365,0.10117650906296245
+sympy__sympy-11618,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.03773333114111949,0.0786247080529688
+sympy__sympy-11788,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-11794,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.034013755183560014,0.10744468336181263
+sympy__sympy-11822,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.04400450026763277,0.09988199480559122
+sympy__sympy-11862,sympy/sympy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-11870,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-11989,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.024479721318108716,0.09150171829734584
+sympy__sympy-12088,sympy/sympy,1-4 hours,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-12096,sympy/sympy,<15 min fix,1,False,False,False,False,0.027583860190902892,0.08577860263317827
+sympy__sympy-12108,sympy/sympy,>4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-12171,sympy/sympy,<15 min fix,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-12194,sympy/sympy,<15 min fix,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-12227,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.03712538112551193,0.08959401307595664
+sympy__sympy-12236,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-12270,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.0384910225398816,0.09259183556671108
+sympy__sympy-12307,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-12419,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-12454,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-12481,sympy/sympy,<15 min fix,0,False,False,False,False,0.04054547431676227,0.08884455745326802
+sympy__sympy-12489,sympy/sympy,1-4 hours,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-12977,sympy/sympy,15 min - 1 hour,3,True,False,False,True,0.04145590192634203,0.10390180223637557
+sympy__sympy-13001,sympy/sympy,15 min - 1 hour,3,False,True,True,True,0.030244764569559567,0.10989744721788446
+sympy__sympy-13043,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13091,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-13173,sympy/sympy,<15 min fix,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13185,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.03318868016237836,0.08686871990254352
+sympy__sympy-13236,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13264,sympy/sympy,15 min - 1 hour,2,False,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13265,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13286,sympy/sympy,1-4 hours,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13301,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.04888457194464014,0.11010184420589043
+sympy__sympy-13361,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13364,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13369,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.023760962678966793,0.08877642512393272
+sympy__sympy-13372,sympy/sympy,<15 min fix,1,False,False,False,False,0.03818105787675164,0.09204677693202847
+sympy__sympy-13429,sympy/sympy,1-4 hours,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-13441,sympy/sympy,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13480,sympy/sympy,<15 min fix,1,False,False,False,False,0.021062622954521486,0.08720938154922014
+sympy__sympy-13551,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-13581,sympy/sympy,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13615,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-13647,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.037896549248757974,0.08993467472263329
+sympy__sympy-13744,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13757,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.02749401536101016,0.07985108998100471
+sympy__sympy-13761,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.04151729589343541,0.09259183556671108
+sympy__sympy-13773,sympy/sympy,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13798,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.02366812302141096,0.11582495987005803
+sympy__sympy-13806,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13852,sympy/sympy,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-13877,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.03536741728727731,0.10608203677510608
+sympy__sympy-13878,sympy/sympy,>4 hours,0,False,False,False,False,0.03318868016237836,0.08686871990254352
+sympy__sympy-13895,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13915,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13962,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-13971,sympy/sympy,<15 min fix,2,True,True,False,True,0.04257297264467508,0.10744468336181263
+sympy__sympy-13974,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.022985302314226134,0.10901172693652518
+sympy__sympy-13978,sympy/sympy,<15 min fix,2,False,True,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-14024,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14031,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-14038,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.03712538112551193,0.08959401307595664
+sympy__sympy-14070,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-14082,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-14085,sympy/sympy,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14180,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14207,sympy/sympy,1-4 hours,2,True,True,False,True,0.02749401536101016,0.07985108998100471
+sympy__sympy-14248,sympy/sympy,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-14308,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14317,sympy/sympy,1-4 hours,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14333,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-14396,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.03926967773228533,0.09170611528535182
+sympy__sympy-14531,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.04717452534901497,0.10124464139229777
+sympy__sympy-14564,sympy/sympy,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14699,sympy/sympy,<15 min fix,3,False,True,False,True,0.04371549939814447,0.10124464139229777
+sympy__sympy-14711,sympy/sympy,<15 min fix,0,False,False,False,False,0.029219036094950773,0.09259183556671108
+sympy__sympy-14774,sympy/sympy,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14821,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-14976,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.037394915615190163,0.07814778174762149
+sympy__sympy-15011,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.03595739833690631,0.08516541166916032
+sympy__sympy-15017,sympy/sympy,<15 min fix,0,False,False,False,False,0.03097999476084848,0.09306876187205838
+sympy__sympy-15198,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15222,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15225,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.03681990870387661,0.1000863917935972
+sympy__sympy-15241,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15286,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15308,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15320,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15345,sympy/sympy,<15 min fix,0,False,False,False,False,0.04372897612262837,0.09988199480559122
+sympy__sympy-15346,sympy/sympy,<15 min fix,3,False,True,False,True,0.024479721318108716,0.09150171829734584
+sympy__sympy-15349,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.04562170720570211,0.09988199480559122
+sympy__sympy-15446,sympy/sympy,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15523,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.034942151759118356,0.09388634982408232
+sympy__sympy-15555,sympy/sympy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15596,sympy/sympy,15 min - 1 hour,2,True,True,True,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-15599,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.027068749832851187,0.10144903838030375
+sympy__sympy-15678,sympy/sympy,1-4 hours,3,False,True,True,True,0.04549292961618917,0.09797428958420203
+sympy__sympy-15685,sympy/sympy,<15 min fix,2,False,True,False,True,0.02856766107822841,0.10144903838030375
+sympy__sympy-15809,sympy/sympy,<15 min fix,0,False,False,False,False,0.0397009329157705,0.09102479199199855
+sympy__sympy-15948,sympy/sympy,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15970,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-15976,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-16003,sympy/sympy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16056,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16088,sympy/sympy,1-4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16281,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16331,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16334,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-16437,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16449,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16450,sympy/sympy,<15 min fix,1,False,False,False,False,0.034925680206971337,0.09204677693202847
+sympy__sympy-16474,sympy/sympy,1-4 hours,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16503,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16527,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-16597,sympy/sympy,1-4 hours,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-16601,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.018972233245683714,0.09095665966266323
+sympy__sympy-16632,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16637,sympy/sympy,15 min - 1 hour,3,False,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16766,sympy/sympy,<15 min fix,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-16792,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.03521767590412274,0.07998735463967536
+sympy__sympy-16840,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16862,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-16943,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.024479721318108716,0.09150171829734584
+sympy__sympy-16988,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.03354356724045468,0.11582495987005803
+sympy__sympy-17038,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17067,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-17115,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.0404646139698588,0.09443140845876495
+sympy__sympy-17139,sympy/sympy,<15 min fix,1,False,False,False,False,0.039450864805902375,0.0834621034357771
+sympy__sympy-17150,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.027947731751968505,0.08720938154922014
+sympy__sympy-17176,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-17194,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17223,sympy/sympy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17271,sympy/sympy,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17273,sympy/sympy,<15 min fix,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17288,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17394,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17512,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17630,sympy/sympy,1-4 hours,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-17653,sympy/sympy,<15 min fix,3,True,False,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-17655,sympy/sympy,<15 min fix,0,False,False,False,False,0.03927566738761154,0.08312144178910047
+sympy__sympy-17696,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-17770,sympy/sympy,1-4 hours,2,True,False,False,True,0.022122791947255815,0.10403806689504623
+sympy__sympy-17821,sympy/sympy,1-4 hours,3,True,True,True,True,0.04085693639372378,0.08993467472263329
+sympy__sympy-17845,sympy/sympy,1-4 hours,3,True,True,True,True,0.04022652517064301,0.10901172693652518
+sympy__sympy-18062,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18087,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-18109,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.023760962678966793,0.08877642512393272
+sympy__sympy-18130,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-18168,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18189,sympy/sympy,<15 min fix,1,False,False,False,False,0.03950926394533267,0.08400716207045973
+sympy__sympy-18191,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18198,sympy/sympy,>4 hours,3,False,True,False,True,0.018972233245683714,0.09095665966266323
+sympy__sympy-18211,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.02990784645746179,0.09150171829734584
+sympy__sympy-18256,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18273,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.0293118757525066,0.08945774841728599
+sympy__sympy-18351,sympy/sympy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18477,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18478,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-18587,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18605,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18630,sympy/sympy,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18650,sympy/sympy,<15 min fix,2,True,False,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-18698,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-18728,sympy/sympy,15 min - 1 hour,2,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-18763,sympy/sympy,<15 min fix,1,False,False,False,False,0.0511127237259801,0.11527990123537538
+sympy__sympy-18765,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.0388384225488002,0.10124464139229777
+sympy__sympy-18835,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.023760962678966793,0.08877642512393272
+sympy__sympy-18903,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-18922,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19007,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19016,sympy/sympy,1-4 hours,2,False,True,True,True,0.03039300853888259,0.09443140845876495
+sympy__sympy-19040,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-19093,sympy/sympy,>4 hours,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19201,sympy/sympy,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19254,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19346,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.03221386375804212,0.08339397110644177
+sympy__sympy-19487,sympy/sympy,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19495,sympy/sympy,<15 min fix,0,False,False,False,False,0.044140764926303415,0.11446231328335145
+sympy__sympy-19637,sympy/sympy,<15 min fix,0,False,False,False,False,0.0330000060196036,0.0865961905852022
+sympy__sympy-19783,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.040151654479065754,0.09381821749474699
+sympy__sympy-19885,sympy/sympy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-19954,sympy/sympy,<15 min fix,1,False,False,False,False,0.04036278982931369,0.09300062954272305
+sympy__sympy-20049,sympy/sympy,1-4 hours,2,True,False,False,True,0.01657786852904218,0.07419610664617246
+sympy__sympy-20154,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.04274068299380824,0.09797428958420203
+sympy__sympy-20169,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-20428,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-20438,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-20565,sympy/sympy,<15 min fix,3,False,True,False,True,0.023590257502170583,0.11446231328335145
+sympy__sympy-20590,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.02749401536101016,0.07985108998100471
+sympy__sympy-20639,sympy/sympy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-20741,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-20801,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.04080901915111432,0.08843576347725605
+sympy__sympy-20916,sympy/sympy,<15 min fix,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-21101,sympy/sympy,15 min - 1 hour,3,True,False,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-21208,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.03221386375804212,0.08339397110644177
+sympy__sympy-21260,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21271,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21286,sympy/sympy,>4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21313,sympy/sympy,<15 min fix,3,False,True,False,True,0.039594616533730774,0.08400716207045973
+sympy__sympy-21370,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21379,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.0384910225398816,0.09259183556671108
+sympy__sympy-21476,sympy/sympy,1-4 hours,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21567,sympy/sympy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21586,sympy/sympy,1-4 hours,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21612,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-21614,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.03950926394533267,0.08400716207045973
+sympy__sympy-21627,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21769,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21847,sympy/sympy,<15 min fix,0,False,False,False,False,0.03773333114111949,0.0786247080529688
+sympy__sympy-21849,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-21930,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-21952,sympy/sympy,1-4 hours,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-22005,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.021989522116248248,0.07637634118490297
+sympy__sympy-22080,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-22236,sympy/sympy,15 min - 1 hour,3,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-22383,sympy/sympy,1-4 hours,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-22456,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.04354179939368515,0.09702043697350742
+sympy__sympy-22706,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.03882344841048475,0.09388634982408232
+sympy__sympy-22714,sympy/sympy,<15 min fix,1,False,False,False,False,0.032375584451849064,0.08400716207045973
+sympy__sympy-22740,sympy/sympy,15 min - 1 hour,3,True,True,True,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-22773,sympy/sympy,15 min - 1 hour,3,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-22914,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.011929895995924401,0.03590573755971799
+sympy__sympy-22969,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.041631099344632876,0.11582495987005803
+sympy__sympy-23021,sympy/sympy,15 min - 1 hour,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-23262,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.04023550965363231,0.09436327612942962
+sympy__sympy-23296,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.04457950717894632,0.09797428958420203
+sympy__sympy-23413,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.01657786852904218,0.07419610664617246
+sympy__sympy-23729,sympy/sympy,15 min - 1 hour,2,False,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-23808,sympy/sympy,1-4 hours,3,False,True,False,True,0.0293118757525066,0.08945774841728599
+sympy__sympy-23824,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.04233039160396471,0.09640724600948947
+sympy__sympy-23950,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.049815963347861536,0.11582495987005803
+sympy__sympy-24066,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.027799487782645474,0.0865961905852022
+sympy__sympy-24102,sympy/sympy,<15 min fix,2,True,True,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-24213,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.026883070517739523,0.08312144178910047
+sympy__sympy-24325,sympy/sympy,<15 min fix,2,False,True,False,True,0.04267329937138866,0.0996094654882499
+sympy__sympy-24370,sympy/sympy,<15 min fix,2,True,False,False,True,0.033479178445698234,0.08720938154922014
+sympy__sympy-24443,sympy/sympy,15 min - 1 hour,1,False,False,False,False,0.029398725754736253,0.09259183556671108
+sympy__sympy-24455,sympy/sympy,15 min - 1 hour,2,True,False,False,True,0.011929895995924401,0.03590573755971799
+sympy__sympy-24539,sympy/sympy,<15 min fix,1,False,False,False,False,0.027931260199821496,0.0865961905852022
+sympy__sympy-24562,sympy/sympy,<15 min fix,0,False,False,False,False,0.021989522116248248,0.07637634118490297
+sympy__sympy-24661,sympy/sympy,15 min - 1 hour,0,False,False,False,False,0.04064130880198119,0.0880269695012441
+sympy__sympy-24909,sympy/sympy,<15 min fix,2,False,True,False,True,0.011929895995924401,0.03590573755971799
