@@ -1,0 +1,34 @@
+[
+  {
+    "method": "exact_repo_difficulty",
+    "matches_identical": true,
+    "matched_pairs": 384,
+    "mean_abs_full_reference_contrast": 4.406221797526145,
+    "ci": [
+      3.4997611084567612,
+      5.546298508255031
+    ],
+    "permutation_p": 9.999000099990002e-05,
+    "cliffs_delta": -0.28805881076388884,
+    "influence_ci": [
+      -0.007807964551877097,
+      -0.004594489122531366
+    ]
+  },
+  {
+    "method": "exact_repo_difficulty_nearest_metadata",
+    "matches_identical": true,
+    "matched_pairs": 384,
+    "mean_abs_full_reference_contrast": 3.834209268991877,
+    "ci": [
+      2.976820884429581,
+      5.02203110898763
+    ],
+    "permutation_p": 9.999000099990002e-05,
+    "cliffs_delta": -0.25857204861111116,
+    "influence_ci": [
+      -0.007189993269680117,
+      -0.0039755088407799274
+    ]
+  }
+]

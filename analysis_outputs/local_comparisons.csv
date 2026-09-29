@@ -1,0 +1,4 @@
+comparison,pairs,median_abs_change_pp,mean_abs_change_pp,strict_reversals,margin_2pp_reversals
+All pairs,91,6.79771860681214,7.46522294393101,1,0
+Original top five,10,2.6691018616424707,2.502643468230322,0,0
+Original adjacent,13,2.0434810471338345,2.2156453882878937,1,0

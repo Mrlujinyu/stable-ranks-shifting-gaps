@@ -1,0 +1,5 @@
+a,b,reference_gap,unweighted_filtered_gap,standardized_filtered_gap,unweighted_reversal,unweighted_margin,standardized_reversal,standardized_margin
+A04,A03,1.0160880609652825,0.48661800486618034,-0.2703727911302529,False,False,True,False
+A07,A06,1.1007620660457214,-0.9732360097323536,-2.6986541250000684,True,False,True,True
+A07,A08,-0.6773920406435217,-0.9732360097323536,0.5729704970504201,False,False,True,False
+A06,A08,-1.778154106689243,0.0,3.2716246220504885,False,False,True,True

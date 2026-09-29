@@ -1,0 +1,96 @@
+{
+  "affine": {
+    "alpha_pp": 6.349216196005416,
+    "beta": 1.454515964139666,
+    "r_squared": 0.9802039842381831,
+    "residual_rmse_pp": 2.5180444878066917,
+    "residual_max_abs_pp": 5.81577308964701,
+    "residual_median_abs_pp": 1.5262897787353182
+  },
+  "original_order": [
+    "A14",
+    "A13",
+    "A12",
+    "A11",
+    "A10",
+    "A09",
+    "A08",
+    "A07",
+    "A06",
+    "A05",
+    "A04",
+    "A03",
+    "A02",
+    "A01"
+  ],
+  "original_ties": false,
+  "local": [
+    {
+      "comparison": "All pairs",
+      "pairs": 91,
+      "median_abs_change_pp": 6.79771860681214,
+      "mean_abs_change_pp": 7.46522294393101,
+      "strict_reversals": 1,
+      "margin_2pp_reversals": 0
+    },
+    {
+      "comparison": "Original top five",
+      "pairs": 10,
+      "median_abs_change_pp": 2.6691018616424707,
+      "mean_abs_change_pp": 2.502643468230322,
+      "strict_reversals": 0,
+      "margin_2pp_reversals": 0
+    },
+    {
+      "comparison": "Original adjacent",
+      "pairs": 13,
+      "median_abs_change_pp": 2.0434810471338345,
+      "mean_abs_change_pp": 2.2156453882878937,
+      "strict_reversals": 1,
+      "margin_2pp_reversals": 0
+    }
+  ],
+  "sensitivity": [
+    {
+      "definition": "Primary severity >=2",
+      "original_tasks": 1212,
+      "retained_tasks": 412,
+      "median_abs_gap_pp": 6.79771860681214,
+      "kendall_tau": 0.9723905313933007,
+      "reversals": 1.0,
+      "practical_2pp_rate": 0.0,
+      "support_changes": 4
+    },
+    {
+      "definition": "Severity >=1",
+      "original_tasks": 1212,
+      "retained_tasks": 154,
+      "median_abs_gap_pp": 7.674338862457677,
+      "kendall_tau": 0.9340659340659341,
+      "reversals": 3.0,
+      "practical_2pp_rate": 0.01098901098901099,
+      "support_changes": 7
+    },
+    {
+      "definition": "Severity =3",
+      "original_tasks": 1212,
+      "retained_tasks": 853,
+      "median_abs_gap_pp": 2.321548098537882,
+      "kendall_tau": 1.0,
+      "reversals": 0.0,
+      "practical_2pp_rate": 0.0,
+      "support_changes": 0
+    },
+    {
+      "definition": "Repository-difficulty standardized",
+      "original_tasks": 1181,
+      "retained_tasks": 411,
+      "median_abs_gap_pp": 5.682425462995987,
+      "kendall_tau": 0.9120879120879121,
+      "reversals": 4.0,
+      "practical_2pp_rate": 0.02197802197802198,
+      "support_changes": null,
+      "ess": 287.9408919149759
+    }
+  ]
+}

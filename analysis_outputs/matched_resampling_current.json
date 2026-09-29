@@ -1,0 +1,22 @@
+[
+  {
+    "method": "exact_repo_difficulty",
+    "mean_abs_contrast_pp": 4.406221797526146,
+    "ci": [
+      3.510345330997506,
+      5.554228380315337
+    ],
+    "matches_saved_interval": true,
+    "permutation_p": 9.999000099990002e-05
+  },
+  {
+    "method": "exact_repo_difficulty_nearest_metadata",
+    "mean_abs_contrast_pp": 3.8342092689918776,
+    "ci": [
+      2.9768208844295803,
+      5.020703933747411
+    ],
+    "matches_saved_interval": true,
+    "permutation_p": 9.999000099990002e-05
+  }
+]

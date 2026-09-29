@@ -1,0 +1,4 @@
+population,n_reference,n_retained,median_delta,tau,strict,margin,support_changes
+Full-panel unweighted,1212,412,6.79771860681214,0.9723905313933007,1,0,4.0
+Common-support unweighted,1181,411,6.543796650535343,0.9723905313933007,1,0,4.0
+Common-support standardized,1181,411,5.682425462995987,0.9120879120879121,4,2,

@@ -1,0 +1,147 @@
+{
+  "scopes": [
+    {
+      "scope": "All pairs",
+      "pairs": 91,
+      "median_delta": 6.79771860681214,
+      "ci_low": 5.554982581591496,
+      "ci_high": 8.15820454413754,
+      "random95": 1.6846102085936732,
+      "p_mc": 9.999000099990002e-05,
+      "strict": 1,
+      "margin": 0,
+      "median_scale": 5.5126936244662454,
+      "median_residual": 2.5459541326524935,
+      "opposite_sign_components": 29
+    },
+    {
+      "scope": "Original top five",
+      "pairs": 10,
+      "median_delta": 2.6691018616424707,
+      "ci_low": 1.0586221122112198,
+      "ci_high": 4.366732426680912,
+      "random95": 2.183745073536476,
+      "p_mc": 0.012598740125987402,
+      "strict": 0,
+      "margin": 0,
+      "median_scale": 4.76266728100145,
+      "median_residual": 2.008390879390518,
+      "opposite_sign_components": 8
+    },
+    {
+      "scope": "Original adjacent",
+      "pairs": 13,
+      "median_delta": 2.0434810471338345,
+      "ci_low": 1.1477378000958065,
+      "ci_high": 3.3633494618379873,
+      "random95": 1.6757986478259426,
+      "p_mc": 0.007099290070992901,
+      "strict": 1,
+      "margin": 0,
+      "median_scale": 1.425050052583111,
+      "median_residual": 1.179960604380895,
+      "opposite_sign_components": 5
+    }
+  ],
+  "populations": [
+    {
+      "population": "Full-panel unweighted",
+      "n_reference": 1212,
+      "n_retained": 412,
+      "median_delta": 6.79771860681214,
+      "tau": 0.9723905313933007,
+      "strict": 1,
+      "margin": 0,
+      "support_changes": 4
+    },
+    {
+      "population": "Common-support unweighted",
+      "n_reference": 1181,
+      "n_retained": 411,
+      "median_delta": 6.543796650535343,
+      "tau": 0.9723905313933007,
+      "strict": 1,
+      "margin": 0,
+      "support_changes": 4
+    },
+    {
+      "population": "Common-support standardized",
+      "n_reference": 1181,
+      "n_retained": 411,
+      "median_delta": 5.682425462995987,
+      "tau": 0.9120879120879121,
+      "strict": 4,
+      "margin": 2,
+      "support_changes": null
+    }
+  ],
+  "reversal_pairs": [
+    {
+      "a": "A04",
+      "b": "A03",
+      "reference_gap": 1.0160880609652825,
+      "unweighted_filtered_gap": 0.48661800486618034,
+      "standardized_filtered_gap": -0.2703727911302529,
+      "unweighted_reversal": false,
+      "unweighted_margin": false,
+      "standardized_reversal": true,
+      "standardized_margin": false
+    },
+    {
+      "a": "A07",
+      "b": "A06",
+      "reference_gap": 1.1007620660457214,
+      "unweighted_filtered_gap": -0.9732360097323536,
+      "standardized_filtered_gap": -2.6986541250000684,
+      "unweighted_reversal": true,
+      "unweighted_margin": false,
+      "standardized_reversal": true,
+      "standardized_margin": true
+    },
+    {
+      "a": "A07",
+      "b": "A08",
+      "reference_gap": -0.6773920406435217,
+      "unweighted_filtered_gap": -0.9732360097323536,
+      "standardized_filtered_gap": 0.5729704970504201,
+      "unweighted_reversal": false,
+      "unweighted_margin": false,
+      "standardized_reversal": true,
+      "standardized_margin": false
+    },
+    {
+      "a": "A06",
+      "b": "A08",
+      "reference_gap": -1.778154106689243,
+      "unweighted_filtered_gap": 0.0,
+      "standardized_filtered_gap": 3.2716246220504885,
+      "unweighted_reversal": false,
+      "unweighted_margin": false,
+      "standardized_reversal": true,
+      "standardized_margin": true
+    }
+  ],
+  "example": {
+    "orientation": "A11-A10",
+    "original_gap": 1.8976897689769032,
+    "filtered_gap": 4.61165048543689,
+    "delta": 2.7139607164599866,
+    "ci": [
+      -0.20316945487650878,
+      5.686400246242243
+    ]
+  },
+  "affine": {
+    "alpha": 6.349216196005416,
+    "beta": 1.454515964139666,
+    "r2": 0.9802039842381831,
+    "rmse": 2.5180444878066917
+  },
+  "identity_max_error": 6.217248937900877e-15,
+  "random_reconstruction_max_error": 0.0,
+  "random_score_reconstruction_max_error": null,
+  "ess": 287.9408919149759,
+  "seed": 20260919,
+  "rng": "numpy PCG64",
+  "draws": 10000
+}
