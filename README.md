@@ -58,10 +58,11 @@ These create `figures/`, `tables/`, and `supplement/` **inside this extracted pa
 | Main Table 4, transitions | all91_pairs; make_figures_tables |
 | Main Table 5; S6, thresholds | core_summary; sensitivity; make_supplement_tables (S6); main sensitivity table supplied with source |
 | Main Table 6, affine components | pairwise_affine_components; scope_analysis; make_scope_tables |
-| Main Table 7; S13, common support | support_comparisons; standardized_reversal_pairs; make_scope_tables |
-| Main Table 8, matching | matched_full_reference_summary; matching_balance; influence_summary; make_figures_tables |
-| Main Table 9; S4-S5, Pro | pro_summary; pro_submission_metadata; make_figures_tables / make_supplement_tables |
-| S7, GEE contrasts | primary_profiles joined by full agent identifier; make_supplement_tables |
+| Main Table 7, common support | support_comparisons; make_scope_tables |
+| Main Table 8, standardized reversed pairs | standardized_reversal_pairs; archived S13; make_scope_tables |
+| Main Table 9, matching | matched_full_reference_summary; matching_balance; influence_summary; make_figures_tables |
+| Main Table 11; archived S4-S5, Pro | pro_summary; pro_submission_metadata; make_figures_tables / make_supplement_tables |
+| Main Table 10; archived S7, GEE contrasts | primary_profiles joined by full agent identifier; make_supplement_tables |
 | S8, omnibus | interaction_summary; make_supplement_tables |
 | S9, omissions | interaction_robustness with explicit internal-to-submission-to-manuscript mapping; make_supplement_tables |
 | S10, all 91 pairs | all91_pairs; make_supplement_tables |
@@ -74,4 +75,6 @@ Internal A00-A13 codes are not manuscript A01-A14 minus one. Main, expanded-only
 
 ## Availability and terms
 
-This repository provides the replication code, frozen analysis tables and existing outputs for the paper. It does not imply conference acceptance or completion of independent author reproduction. A public GitHub account is not an anonymous review endpoint. The license for author-developed code remains unspecified; no new license grant is made. Third-party attribution and applicable upstream terms remain in `THIRD_PARTY_NOTICE.md`. No agent logs, model weights, task text, copied article PDFs or system fonts are bundled.
+This repository provides the replication code, frozen analysis tables and existing outputs for the paper. It does not imply conference acceptance or completion of independent author reproduction. An anonymized review snapshot is available at https://anonymous.4open.science/r/FSE2027-Replication-E5F8/. The license for author-developed code remains unspecified; no new license grant is made. Third-party attribution and applicable upstream terms remain in `THIRD_PARTY_NOTICE.md`. No agent logs, model weights, task text, copied article PDFs or system fonts are bundled.
+
+Frozen inputs are the distributed files in `data/` and `analysis_outputs/`. Commands write generated outputs to the locations described above; run them in a fresh extraction to preserve the snapshot. `SHA256SUMS.txt` covers all distributed files except itself. The table map refers to the main manuscript with core results integrated from the archived supplement. Generators retain their archived layouts; finalized main-manuscript TeX layouts are provided separately in `paper_source.zip`.
